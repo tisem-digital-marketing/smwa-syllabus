@@ -1,0 +1,75 @@
+---
+output:
+  pdf_document:
+    keep_tex: false
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-syllabus.tex
+geometry: margin=0.85in
+
+title: "Course Title"
+author:
+    - Ulrich Bergmann
+    - Matteo Courthoud
+    - Lachlan Deer
+semester: "Winter 2020"
+
+email: "XXXX@gmail.com"
+web: "YYYYYYY"
+classroom: "To Be Announced"
+classhours:
+- "TBA"
+dates: "TBA"
+days: "TBA"
+
+fontfamily: mathpazo
+fontsize: 11pt
+header-includes:
+   - \linespread{1.05}
+---
+
+
+# Motivation
+
+# Target Audience
+
+#  Course Objectives
+
+This course has XX closely intertwined objectives:
+
+
+Learning objectives for specific modules will be provided within the Course Notes.
+
+# Pedagogy
+
+# Pre-requisites
+
+# Computing
+
+# Evaluation
+
+## Class Participation
+
+## Homework Assignments 
+
+## Course Project
+
+## Group Formation
+
+## Regrade Policy
+
+# Rules of the Game
+
+The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
+We strongly believe the only way to learn programming is to do programming.
+Please bring your laptop with you to each session and install the required software before the course begins.
+Try to complete each activity we do in class and be prepared to ask and answer questions during class.
+Slides or notes will be made available at the beginning of each day, codes that solve exercises will be posted during or after the session.
+
+# Office Hours
+
+# Preliminary Schedule
+
+The following is a preliminary schedule.
+It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
+
