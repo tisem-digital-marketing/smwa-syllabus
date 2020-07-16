@@ -76,6 +76,11 @@ Learning objectives for specific modules will be provided within the Course Note
 
 ## Regrade Policy
 
+If you believe an error has been made in grading your assignments, you may request a re-grade. 
+The request must be in writing, must explain the exact concern, and must occur within 7 calendar days of when the graded materials were returned or when the final course grade is posted. 
+I reserve the right to re-grade the entire contents of any submitted assignment. 
+This means that your grade may go up or down, depending on what is found during the re-grade.
+
 # Rules of the Game
 
 The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
