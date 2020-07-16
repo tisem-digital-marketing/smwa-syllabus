@@ -81,6 +81,13 @@ The request must be in writing, must explain the exact concern, and must occur w
 I reserve the right to re-grade the entire contents of any submitted assignment. 
 This means that your grade may go up or down, depending on what is found during the re-grade.
 
+## Late Submission
+
+Assignments and Projects must be submitted before the deadline unless I grant an extraordinary written exception.
+If you submit one assignment late, you will be penalized by 25 percent per calendar day.
+This penalty applies to an entire group where applicable.
+After the first late submission, you will get zero points on all subsequent late submissions
+
 # Rules of the Game
 
 The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
