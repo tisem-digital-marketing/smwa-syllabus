@@ -7,14 +7,12 @@ output:
     template: ./svm-latex-syllabus.tex
 geometry: margin=0.85in
 
-title: "Course Title"
+title: "Research in Social Media"
 author:
-    - Ulrich Bergmann
-    - Matteo Courthoud
     - Lachlan Deer
-semester: "Winter 2020"
+semester: "Block 4 (Spring) 2021"
 
-email: "XXXX@gmail.com"
+email: "lachlan.deer@gmail.com"
 web: "YYYYYYY"
 classroom: "To Be Announced"
 classhours:
