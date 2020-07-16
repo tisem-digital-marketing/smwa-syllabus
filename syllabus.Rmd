@@ -63,11 +63,34 @@ Learning objectives for specific modules will be provided within the Course Note
 The course will involve lectures and discussions, hands on in-class assignments and (when possible) interactions with industry experts. 
 The course will strive to balance the practical aspects of social media analytics with a theoretical understanding of the concepts and frameworks involved. 
 Each topic covered have a lecture/discussion portion as well as a practicum/exercise/demo portion (called Labs below). 
+We include video clips that are designed to introduce you to technical aspects of statistical analysis and computational modelling so that we can focus on marketing substance in lectures.
 In addition, there are course projects where we will work on the developing our analytical toolkit and framing results around answering marketing questions.
 
 # Pre-requisites
 
+This course has one pre-requisite - XXXX Introduction to Marketing Research.
+Pre-requisite classes can be taken concurrently with this class if needed.
+
+In addition, students will benefit from having completed other marketing courses (Examples) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
+These are, however, not required.
+
 # Computing
+
+This course is an applied course, and as such we aim to use, understand and develop computational routines that help managers make better decisions.
+Large portions of the course will be *'hands-on'* and we wil be using the statistical software `R` to demonstrate and apply methods and concepts in class.
+
+You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
+Installation instructions are made available [here]().
+
+After installing R and RStudio I suggest you get acquainted with the interface and basic data analysis commands before the first class.
+To facilitate the introduction, we have XXX.
+
+In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want (i) you to document your code and the changes you make to it, and (ii) your code to be able to run on not only your computer, but mine and anyone else's.
+To achieve this, we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
+
+To install Git and create a Github account, follow [these instructions]().
+An introductory tutorial in video format is available [here]().
+Please look over the material before the first class.
 
 # Evaluation
 
