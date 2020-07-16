@@ -94,7 +94,7 @@ Please look over the material before the first class.
 
 # Evaluation
 
-## Class Participation
+## Class Participation (5 percent)
 
 Attendance and participation in class is required. 
 There will be a set of randomly announced in-class recap quizzes (don't worry you cant fail these) that will be graded on a check/check+ basis. 
@@ -102,11 +102,33 @@ If you are not in class you will receive no grade for this quiz.
 There will be four/five such quizzes and I will take the best three to determine your score in addition to a subjective evaluation of your participation in class. 
 There is absolutely no make up for these quizzes.
 
-## Homework Assignments 
+## Homework Assignments (40 percent)
 
-## Course Project
+There will be 2 group assignments worth equal weight. 
+To pass the assignment, each group member needs to have made a substantial contribution to the project. 
+For the second assignment (where you will advertise for a client on Facebook), funds will be provided but you must find the business whose Facebook page you will promote. 
+The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight the day of the class (i.e. before 23:59 the day before a class).
+
+Further information on group assignments will be distributed closer to their issue.
+
+## Course Project (55 percent)
+
+You  must develop a project on any topic related to social media analytics that interests you. 
+The final submission of the report has three features: (1) a written report, (2) the underlying code & data to produce the report and (3) a 4 minute video presentation of your research.
+
+The project should have the following characteristics:
+
+* There should be a clear motivation. You should be trying to solve a question that matters, either to society or business.
+* You should do a thorough survey of the relevant literature. This includes articles from the popular press as well as from scholarly sources such as academic journals.
+* Your report and presentation should organize this literature survey appropriately, and summarize your main insights and findings.
 
 ## Group Formation
+
+This course has two assignments which **must** be done in groups. 
+Students will be **randomly assigned** to groups before the each assignment is released. 
+Each group will consist of 5 students.
+
+Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the `real world`.
 
 ## Regrade Policy
 
@@ -146,6 +168,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 \multicolumn{1}{l}{Week} & \multicolumn{1}{l}{Lecture Topic}    & \multicolumn{1}{l}{Web Videos} & \multicolumn{1}{l}{Lab Session} & \multicolumn{1}{l}{Assignments} \\ \hline
 \multirow{2}{*}{0}         & \multirow{2}{*}{(Before First Class)} & Course Introduction             & R Introduction*                  & \multirow{2}{*}{Working with R*} \\
                            &                                       & Introduction to R               & Exploratory Data Analysis*       &                                  \\
+                           &                                       & Introduction to Git             &                                  & Git Basics*                      \\
                            \hline
                            & \multicolumn{4}{l}{\textbf{Topic 1: Network Patterns}}                                                                                        \\
                            \hline
@@ -155,12 +178,13 @@ It may be updated prior to the beginning of the course, and updated schedule wil
                            & \multicolumn{4}{l}{\textbf{Topic 2: Branding \& Community}}                                                                                   \\
                            \hline
 2                          & Online Reputation                     &                                 & Measuring Reputation             &  Group Assignment 1 released     \\
-3                          & Community Structure                   &                                 &                                  &                                  \\
+3                          & Community Structure                   &                                 & CASE STUDY: TopCoder             &  Project Proposals Due           \\
                            \hline
                            & \multicolumn{4}{l}{\textbf{Topic 3: Importance \& Influence}}                                                                                 \\
                            \hline
 4                          & Epidemics, Gossip \& Word of Mouth    &                                 &                                  &  Group Assignment 1 Due          \\
 5                          & Influencers                           &                                 &                                  &  Group Assignment 2 released     \\
+                           &                                       &                                 &                                  &  Project Lit. Review Due         \\
                             \hline
                            & \multicolumn{4}{l}{\textbf{Topic 4: Advertising \& Marketing}}                                                                                \\
                            \hline
