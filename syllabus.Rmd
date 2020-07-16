@@ -60,6 +60,11 @@ Learning objectives for specific modules will be provided within the Course Note
 
 # Pedagogy
 
+The course will involve lectures and discussions, hands on in-class assignments and (when possible) interactions with industry experts. 
+The course will strive to balance the practical aspects of social media analytics with a theoretical understanding of the concepts and frameworks involved. 
+Each topic covered have a lecture/discussion portion as well as a practicum/exercise/demo portion (called Labs below). 
+In addition, there are course projects where we will work on the developing our analytical toolkit and framing results around answering marketing questions.
+
 # Pre-requisites
 
 # Computing
