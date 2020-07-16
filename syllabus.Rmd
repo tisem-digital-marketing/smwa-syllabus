@@ -109,4 +109,29 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 \end{landscape}
 \restoregeometry
 
+\newpage
+
+# Readings
+
+## Textbooks
+
+We will combine material from two books, recent papers and case studies.
+All readings from books are optional.
+
+## Books
+
+The course uses readings from the following books:
+
+* *Networks, Crowds and Markets: Reasoning About a Highly Connected World*, by David Easley and Jon Kleinberg
+* *Networks: An Introduction* by Mark Newman
+
+## Case Studies
+
+Case studies will be provided as an online course pack [here]().
+
+* Managing Online Reviews on Trip Adviser 
+* TopCoder: Developing Software through Crowdsourcing
+* HubSpot: Inbound Marketing and Web 2.0
+
+## Papers
 
