@@ -220,6 +220,29 @@ Slides or notes will be made available at the beginning of each day, codes that 
 
 # Office Hours
 
+We are here to help you through the course & want you meet your expectations and personal learning goals.
+To that end, we have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
+Our office ours are:
+
+\begin{table}[h!]
+\begin{center}
+\begin{tabular}{lccc}
+Name:               & Lachlan Deer &  & FirstName Last Name \\
+Office Location:    & XX.XXX       &  & XX.XXX              \\
+Consultation Hours: & YY.YYY       &  & YY.YYY              \\
+Link to Book Slot:  & ZZ.ZZZ       &  & ZZ.ZZZ             
+\end{tabular}
+\end{center}
+\end{table}
+
+If you plan on coming to our scheduled hours, please make a booking using the links provided.
+If you cannot make the scheduled office hours, send us an email with at least three proposed times to meet and we will make it work.
+Office Hours are subject to a "fair and equitable use" policy.
+
+I expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
+If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
+
+
 # Preliminary Schedule
 
 The following is a preliminary schedule.
