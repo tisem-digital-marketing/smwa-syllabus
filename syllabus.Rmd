@@ -102,7 +102,7 @@ Please look over these before the first class.
 In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want (i) you to document your code and the changes you make to it, and (ii) your code to be able to run on not only your computer, but mine and anyone else's.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow [these instructions]().
+* To install Git and create a Github account, follow [these instructions](TODO:link-to-be-created.com).
 * Also regsiter for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
