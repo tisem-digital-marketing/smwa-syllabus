@@ -130,7 +130,6 @@ There is absolutely no make up for these quizzes.
 
 There will be 2 group assignments worth equal weight. 
 To pass the assignment, each group member needs to have made a substantial contribution to the project. 
-For the second assignment (where you will advertise for a client on Facebook), funds will be provided but you must find the business whose Facebook page you will promote. 
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight the day of the class (i.e. before 23:59 the day before a class).
 
 Further information on group assignments will be distributed closer to their issue.
@@ -152,7 +151,7 @@ This course has two assignments which **must** be done in groups.
 Students will be **randomly assigned** to groups before the each assignment is released. 
 Each group will consist of 5 students.
 
-Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the `real world`.
+Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
 
 ## Regrade Policy
 
