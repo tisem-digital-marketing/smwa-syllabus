@@ -177,9 +177,9 @@ Each component has different due dates *and* contributes to your final grade.
 
 The final grade for your project is computed as:
 
-$$\textrm{Project Grade} = 0.15 \times \textrm{Proposal} 
-                         + 0.10 \times \textrm{Literature Review}
-                         + 0.30 \times \left( \textrm{Report + Video} \right)
+$$\textrm{Project Grade} = 0.25 \times \textrm{Proposal} 
+                         + 0.15 \times \textrm{Literature Review}
+                         + 0.60 \times \left( \textrm{Report + Video} \right)
                         $$
 
 ## Group Formation
