@@ -80,7 +80,7 @@ There are course projects in the form of group assignments and an individual fin
 
 # Pre-requisites
 
-This course has one pre-requisite - XXXX Introduction to Marketing Research.
+This course has one pre-requisite - Introduction to Marketing Research.
 Pre-requisite classes can be taken concurrently with this class if needed.
 
 In addition, students will benefit from having completed other marketing courses (Examples) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
