@@ -137,13 +137,26 @@ Further information on group assignments will be distributed closer to their iss
 ## Course Project (55 percent)
 
 You  must develop a project on any topic related to social media analytics that interests you. 
-The final submission of the report has three features: (1) a written report of a max. 10 pages, (2) the underlying code & data to produce the report and (3) a 4 minute video presentation of your research.
+The final submission of the report has three features: 
+  (1) a written report of a max. 10 pages, 
+  (2) the underlying code & data to produce the report and 
+  (3) a 5 minute video presentation of your research.
 
 The project should have the following characteristics:
 
 * There should be a clear motivation. You should be trying to solve a question that matters, either to society or business.
 * You should do a thorough survey of the relevant literature. This includes articles from the popular press as well as from scholarly sources such as academic journals.
-* Your report and presentation should organize this literature survey appropriately, and summarize your main insights and findings.
+* Your report and video presentation should organize this literature survey appropriately, and summarize your main insights and findings.
+
+To assist you design your project with these characteristics, I have broken the project into three components: (1) proposal, (2) literature review, and (3) a report and video. 
+Each component has different due dates *and* contributes to your final grade.
+
+The final grade for your project is computed as:
+
+$$\textrm{Project Grade} = 0.15 \times \textrm{Proposal} 
+                         + 0.10 \times \textrm{Literature Review}
+                         + 0.30 \times \left( \textrm{Report + Video} \right)
+                        $$
 
 ## Group Formation
 
