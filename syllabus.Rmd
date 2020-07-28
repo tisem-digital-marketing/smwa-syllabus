@@ -65,8 +65,13 @@ In particular, I expect the typical student to have the following characteristic
 
 #  Course Objectives
 
-This course has XX closely intertwined objectives:
+This course has five closely intertwined objectives:
 
+1. Develop awareness of the challenges and opportunities social media and social networks present marketers.
+2. Learning to use quantitative and statistical analysis to develop strategies for managers and marketers on social media platforms.
+3. Understanding which modelling or statistical technique is best suited to a particular problem.
+4. Develop the ability to understand the limitations of one's analyisis.
+5. Acquire neccesary skills to work collaboratively in teams on analytical marketing problems.
 
 Learning objectives for specific modules will be provided within the Course Notes.
 
