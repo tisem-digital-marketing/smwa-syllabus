@@ -42,11 +42,11 @@ have uncovered surprising patterns in real-world social networks, and marketing 
 studied viral marketing and social advertising. 
 This course will combine such foundational material with actual case studies of businesses in the social world.
 
-The course is split into four main parts:
+The course is split into four modules:
 
-1. **Network Patterns:** which describes and seeks to explain several common patterns found in real-world social networks,
-2. **Branding and Community:** which explores the best methods for maintaining a strong brand online and managing the user community,
-3. **Importance and Influence:** which discusses an individual’s place in the network, and how memes, early adoption, and such 'information cascades' propagate,
+1. **Network Patterns:** which seeks to describes and explain several common patterns found in real-world social networks,
+2. **Branding and Community:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
+3. **Importance and Influence:** which discusses an individual's place in the network, and how memes, early adoption, word of mouth and other 'information cascades' propagate,
 4. **Advertising and Marketing:** which focuses on viral marketing and social advertising techniques.
 
 # Target Audience
