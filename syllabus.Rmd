@@ -137,7 +137,7 @@ Further information on group assignments will be distributed closer to their iss
 ## Course Project (55 percent)
 
 You  must develop a project on any topic related to social media analytics that interests you. 
-The final submission of the report has three features: (1) a written report of a max. 8 pages, (2) the underlying code & data to produce the report and (3) a 4 minute video presentation of your research.
+The final submission of the report has three features: (1) a written report of a max. 10 pages, (2) the underlying code & data to produce the report and (3) a 4 minute video presentation of your research.
 
 The project should have the following characteristics:
 
