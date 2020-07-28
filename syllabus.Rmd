@@ -83,7 +83,7 @@ All of the software requirements for this course are open-source and/or free.
 Please aim to have everything installed by the start of our first lecture.
 
 *I will be available for installation troubleshooting during the first week of the course.*
-*You can sign up for a slot to get installation help [here](TODO:link-to-be-created.com)*
+*You can sign up for a slot to get installation help [here](TODO:link-to-be-created.com).*
 
 ## R & RStudio
 
