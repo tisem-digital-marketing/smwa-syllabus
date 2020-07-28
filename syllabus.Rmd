@@ -62,7 +62,7 @@ This course is designed for students in the Master of Marketing Analytics and Ma
 
 In particular, I expect the typical student to have the following characteristics:
 
-* Strong interest in understanding how social media and social networks effect brand reputation and the actions of marketers.
+* Strong interest in understanding how social media and social networks effect consumer behaviour, brand reputation and the actions of marketers.
 * Strong interest in learning and applying statistical analysis and data science techniques to social media data, although with limited existing background (see Pre-reqs below).
 * Strong interest in using quantitative results to develop management or marketing insights.
 * Interest in learning how to write computer code and acquire "best practice" methods.
