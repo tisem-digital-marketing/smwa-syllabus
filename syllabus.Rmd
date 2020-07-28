@@ -132,6 +132,13 @@ There will be 2 group assignments worth equal weight.
 To pass the assignment, each group member needs to have made a substantial contribution to the project. 
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight the day of the class (i.e. before 23:59 the day before a class).
 
+The topics for the group assignments are:
+
+* Group Assignment 1: Evaluating & Managing Online Reputation
+    * We will use data from Trip Adviser and some supplementary sources 
+* Group Assignment 2: Advertising on Facebook & Analysing Facebook Ads
+    * We use publicly available data provided by Facebook to explore advertising effectiveness on their platform
+
 Further information on group assignments will be distributed closer to their issue.
 
 ## Course Project (55 percent)
