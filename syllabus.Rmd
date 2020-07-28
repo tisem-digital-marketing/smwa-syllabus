@@ -113,8 +113,8 @@ Please aim to have everything installed by the start of our first lecture.
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
 Installation instructions are available from the links below (they differ slightly by operating system):
 
-* [Installing `R`](TODO:link-to-be-created.com)
-* [Installing RStudio](TODO:link-to-be-created.com)
+* [Installing `R`](TODO:link-to-be-created.com).
+* [Installing RStudio](TODO:link-to-be-created.com).
 
 After installing R and RStudio I suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, there are a series of introductory videos and a quiz to test your understanding available on the [course webpage](TODO:link-to-be-created.com).
@@ -157,10 +157,10 @@ The finished reports (& code where appropriate) must be submitted via GitHub no 
 
 The topics for the group assignments are:
 
-* Group Assignment 1: Evaluating & Managing Online Reputation
-    * We will use data from Trip Adviser and some supplementary sources 
-* Group Assignment 2: Advertising on Facebook & Analysing Facebook Ads
-    * We use publicly available data provided by Facebook to explore advertising effectiveness on their platform
+* Group Assignment 1: Evaluating & Managing Online Reputation.
+    * We will use data from Trip Adviser and some supplementary sources.
+* Group Assignment 2: Advertising on Facebook & Analysing Facebook Ads.
+    * We use publicly available data provided by Facebook to explore advertising effectiveness on their platform.
 
 Further information on group assignments will be distributed closer to their issue.
 
