@@ -332,13 +332,13 @@ It may be updated prior to the beginning of the course, and updated schedule wil
                            \hline
                            & \multicolumn{4}{l}{\textbf{Topic 2: Branding \& Community}}                                                                                   \\
                            \hline
-2                          & Online Reputation                     &                                 & Measuring Reputation             &  Group Assignment 1 released     \\
-3                          & Community Structure                   &                                 & CASE STUDY: TopCoder             &  Project Proposals Due           \\
+2                          & Online Reputation                     &                                 &  Regression: OLS \& Diff in Diff &  Group Assignment 1 released     \\
+3                          & Community Structure                   &                                 & Text Analytics: Basics          &  Project Proposals Due           \\
                            \hline
                            & \multicolumn{4}{l}{\textbf{Topic 3: Importance \& Influence}}                                                                                 \\
                            \hline
-4                          & Epidemics, Gossip \& Word of Mouth    &                                 &                                  &  Group Assignment 1 Due          \\
-5                          & Influencers                           &                                 &                                  &  Group Assignment 2 released     \\
+4                          & Epidemics, Gossip \& Word of Mouth    &                                 & Endogeneity: Instrumental Variables           &  Group Assignment 1 Due          \\
+5                          & Influencers                           &                                 & Simulating Network Evolution     &  Group Assignment 2 released     \\
                            &                                       &                                 &                                  &  Project Lit. Review Due         \\
                             \hline
                            & \multicolumn{4}{l}{\textbf{Topic 4: Advertising \& Marketing}}                                                                                \\
