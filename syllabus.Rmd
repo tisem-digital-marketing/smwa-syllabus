@@ -214,7 +214,7 @@ After the first late submission, you will get zero points on all subsequent late
 
 We are here to help you through the course & want you meet your expectations and personal learning goals.
 To that end, we have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
-Our office ours are:
+Our office hours are:
 
 \begin{table}[h!]
 \begin{center}
