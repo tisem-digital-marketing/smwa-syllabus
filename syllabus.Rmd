@@ -120,7 +120,7 @@ After installing R and RStudio I suggest you get acquainted with the interface a
 To facilitate the introduction, there are a series of introductory videos and a quiz to test your understanding available on the [course webpage](TODO:link-to-be-created.com).
 Please look over these before the first class.
 
-## Improving Reproduciblity of our Analysis 
+## Improving Reproduciblity of our Analysis with Git and GitHub
 
 In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want (i) you to document your code and the changes you make to it, and (ii) your code to be able to run on not only your computer, but mine and anyone else's.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
@@ -210,14 +210,6 @@ If you submit one assignment late, you will be penalized by 25 percent per calen
 This penalty applies to an entire group where applicable.
 After the first late submission, you will get zero points on all subsequent late submissions
 
-# Rules of the Game
-
-The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
-We strongly believe the only way to learn programming is to do programming.
-Please bring your laptop with you to each session and install the required software before the course begins.
-Try to complete each activity we do in class and be prepared to ask and answer questions during class.
-Slides or notes will be made available at the beginning of each day, codes that solve exercises will be posted during or after the session.
-
 # Office Hours
 
 We are here to help you through the course & want you meet your expectations and personal learning goals.
@@ -242,6 +234,79 @@ Office Hours are subject to a "fair and equitable use" policy.
 I expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
 
+# Rules of the Game
+
+I have clear expectations of how we should all interact in class and in meetings.
+They are summarised by the "7 Be's" below:
+
+## Be Active
+
+Learning via listening to monologues is an ineffective learning technique.
+Come to class prepared to ask questions, and to answer questions posed by me and others in class.
+Doing so, will lead to a much more pleasant learning experience for us all.
+I would much rather have an engaging discussion on topics where we share mutual interest and cover less material than listen to myself talk for 90 minutes at a time.
+
+## Be "Hands-on"
+The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
+We strongly believe the only way to learn programming is to do programming.
+Please bring your laptop with you to each session and install the required software before the course begins.
+Try to complete each activity we do in class and be prepared to ask and answer questions during class.
+Slides or notes will be made available at the beginning of each class, codes that solve exercises will be posted during or after the session.
+
+## Be Prepared
+
+We expect you to dedicate an average of 20 hours per week of study time to this course.
+Use this time to look over required readings, re-examine course notes and codes and work on your assignments.
+Looking over required readings before class means that our discussions will have more substance, and (ideally) be more insightful.
+
+Quick tip: If you find yourself not understanding part of the course content or not able to find bugs in your code, take a break and come back to it in an hour or so. 
+Come talk to us if it remains unclear.
+
+## Be Professional
+
+I expect you to treat us and your class members collegially.
+In addition, we have a [Code of Conduct](TODO:add-link.com) that provides further details of acceptable and unacceptable behaviour.
+It boils down to "be nice to each other." 
+
+When writing emails, being professional means using a meaningful subject line, identifying yourself (i.e. Regards, Lachlan at the end of the email), and keeping the message focussed.
+We aim to reply to emails within 48 hours Monday - Friday, but there might be a slight delay if you write to us late Friday evening. 
+
+I strongly encourage you to provide feedback about both format and content during the course.
+Consider your tone when doing so, i.e. don't flame us.
+
+## Be Informal (but not too informal!)
+
+Do not address us with "Mr.", "Dr.", or "Prof.". Please use our first name's (i.e. Lachlan and XXX). 
+More formality than that makes me feel uncomfortable.
+
+Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts, but not Facebook.
+
+## Be International
+
+This course is taught in English.
+You are obliged to speak English whenever there are international students present. 
+If in doubt, you need to speak English.
+As someone who has studied in in countries where I do not speak the native language - be assured it is *very much appreciated.*
+
+## Be Healthy (Physically & Mentally)
+
+Physical and Mental health are important, and definitely more important than your coursework.
+*If you are feeling ill on the day of a class, I emplore you to stay at home*. 
+Material posted online, the readings and talking with your classmates about what you missed is more than enough if you need to miss one or two classes.
+
+On the mental health side, we know how challenging graduate study can be, especially when paired with ones 'non-study life.'
+*I strongly encourage you to prioritise mental health over **everything** else.*
+I'm happy to talk with you individually and share some common experiences and strategies, but I am not a professional. 
+If you feel like you need to talk to someone, a good starting point might be the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
+
+
+## Be Fair & Honourable 
+
+In group assignments we expect all group members to actively and evenly contribute.
+If you are struggling with parts of a group assignment you are working on, talk to your group members and to us rather than withdrawing from conversations with your colleagues. 
+
+Being fair & honourable also means that you should not plagiarise others work.
+We stick closely with the School's Fraud and plagiarism policies which are outlined [here](https://www.tilburguniversity.edu/students/studying/regulations/fraud/economics).
 
 # Preliminary Schedule
 
