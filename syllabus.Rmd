@@ -308,15 +308,16 @@ If you are struggling with parts of a group assignment you are working on, talk 
 Being fair & honourable also means that you should not plagiarise others work.
 We stick closely with the School's Fraud and plagiarism policies which are outlined [here](https://www.tilburguniversity.edu/students/studying/regulations/fraud/economics).
 
-# Preliminary Schedule
+
+\begin{landscape}
+
+\section{Preliminary Schedule}
 
 The following is a preliminary schedule.
 It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
 
-\begin{landscape}
-
-\begin{center}
-\begin{table}[]
+\begin{table}[h!]
+\centering
 \begin{tabular}{lllll}
 \hline
 \multicolumn{1}{l}{Week} & \multicolumn{1}{l}{Lecture Topic}    & \multicolumn{1}{l}{Web Videos} & \multicolumn{1}{l}{Lab Session} & \multicolumn{1}{l}{Assignments} \\ \hline
@@ -348,7 +349,6 @@ It may be updated prior to the beginning of the course, and updated schedule wil
                            &                                       &                                 &                                  &  Project Due                     \\
 \end{tabular}
 \end{table}
-\end{center}
 
 \end{landscape}
 \restoregeometry
