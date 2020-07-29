@@ -379,6 +379,83 @@ Case studies will be provided as an online course pack [here]().
 
 ## Papers
 
+**Week 1: Network Patterns**
+
+
+[Origins of Homophily in an Evolving Social Network](https://research.google.com/pubs/archive/35626.pdf)
+
+[Birds of a Feather: Homophily in Social Networks](https://www.researchgate.net/profile/Lynn_Smith-Lovin/publication/200110353_Birds_of_a_Feather_Homophily_in_Social_Networks/links/55e1b60b08ae6abe6e8c228c/Birds-of-a-Feather-Homophily-in-Social-Networks.pdf)
+
+**Week 2: Online Reputation**
+
+[What is online reputation marketing? Is it important?](https://thriveagency.com/news/what-is-online-reputation-marketing/)
+
+[5 examples of online reputation management done right](https://www.smartinsights.com/digital-marketing-strategy/online-reputation-management-done-right/)
+
+[When and how Managers' Responses to Online Reviews Affect Subsequent Reviews](https://journals.sagepub.com/doi/10.1509/jmr.15.0511)
+
+[Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud](http://people.bu.edu/zg/publications/fakereviews.pdf)
+
+**Week 3: Community Structure**
+
+[Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters/)
+
+[Detecting, Preventing, and Mitigating Online Firestorms in Brand Communities](https://journals.sagepub.com/doi/10.1177/0022242918822300)
+
+[Brand community integration, participation and commitment: A comparison between consumer-run and company-managed communities](https://www.sciencedirect.com/science/article/abs/pii/S0148296319306630?via%3Dihub)
+
+[Managing the product-harm crisis in the digital era: The role of consumer online brand community engagement](https://www.sciencedirect.com/science/article/abs/pii/S014829632030268X?via%3Dihub)
+
+**Week 4: Epidemics, Gossip & Word of Mouth**
+
+[Rumor Cascades](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8122/8110)
+
+[Social Influence & the diffusion of user-generated content](http://dl.acm.org.ezproxy.lib.utexas.edu/citation.cfm?id=1566421)
+
+[Does online word of mouth increase demand?(and how?) evidence from a natural experiment](https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1045?casa_token=7zN_o-j7KUMAAAAA:rVU0bXlN4kN76-m6969YvLrXtIQUnQoRAVWxyUAQKYwsEL8ZF2cTpiPjmXxdVuR-cI7rK5z4lRE)
+
+[The Effects of Online User Reviews on Movie Box Office Performance: Accounting for Sequential Rollout and Aggregation Across Local Markets](https://pubsonline.informs.org/doi/abs/10.1287/mksc.1100.0572)
+
+[Online Word of Mouth and the Performance of New Products](http://lachlandeer.github.io/files/deer_jmp.pdf)
+
+[Does Twitter matter? The impact of microblogging word of mouth on consumers’ adoption of new movies](https://openaccess.city.ac.uk/id/eprint/12656/1/)
+
+**Week 5: Influencers**
+
+[Influencing the Influencers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376904)
+
+[Advertising to early trend propagators: Evidence from twitter](https://dspace.mit.edu/bitstream/handle/1721.1/122363/SSRN-id2419743.pdf?sequence=2&isAllowed=y)
+
+[A Framework for Analyzing Influencer Marketing in Social Networks: Selection and Scheduling of Influencers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3255198)
+
+[Seeking Micro-influencers for Brand Promotion](https://dl.acm.org/doi/pdf/10.1145/3343031.3351080?casa_token=sblzM8Rq8UMAAAAA:K_RBk8Cit7uNMvPt-8dK_pOK2c8JgyjBSZmpBqRTaAVQUup88fhTDf48dcOJHWajEF80vrxuxVsF)
+
+**Week 6: Internet Marketing & Viral Marketing**
+
+[Creating Contagion Through Viral Product Design](http://misrc.umn.edu/workshops/2011/spring/AralVPDFinal1110.pdf)
+
+[The Dynamics of Viral Marketing](http://arxiv.org/pdf/physics/0509039.pdf)
+
+[Propagators, Creativity, and Informativeness: What Helps Ads Go Viral](https://www.sciencedirect.com/science/article/abs/pii/S1094996819300507)
+
+[What Drives Virality (Sharing) of Online Digital Content? The Critical Role of Information, Emotion, and Brand Prominence](https://journals.sagepub.com/doi/10.1177/0022242919841034)
+
+[Selection Effects of Online Sharing: Consequences for Peer Adoption](http://arxiv.org/pdf/1311.2878.pdf)
+
+**Week 7: Social Advertising**
+
+[Social Media Buyers Guide](https://www.iab.com/insights/social-media-buyers-guide/)
+
+[Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf)
+
+[A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144)
+
+[Tweeting as a marketing tool: A field experiment in the TV industry](https://dspace.mit.edu/bitstream/handle/1721.1/120756/0c43ccabbc71b279f98115faf27e18330807.pdf?sequence=1&isAllowed=y)
+
+[The Ripple Effect of Firm-Generated Content for New Movie Releases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3336856)
+
+[Improvised Marketing Interventions in Social Media](https://journals.sagepub.com/doi/10.1177/0022242919899383)
+
 # FAQs
 
 **R looks cool, but I’m more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
