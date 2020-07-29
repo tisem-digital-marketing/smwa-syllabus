@@ -379,3 +379,32 @@ Case studies will be provided as an online course pack [here]().
 
 ## Papers
 
+# FAQs
+
+**R looks cool, but I’m more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
+
+Short answer: No. 
+
+Longer answer: Look, I like and use a lot of those languages too, but I’m not changing
+my lecture notes or assignment templates for you. 
+Plus, I really do think that R makes the most sense for quantitative marketing students looking to develop their data science skills. 
+It already has all of the statistics and econometrics support, and is amazingly adaptable as a “glue” language to other programming languages and APIs. 
+Learning multiple languages is never a bad idea in the long run, though.
+
+**I already have a BitBucket/GitLab/etc. account. Do I still have to use GitHub?**
+
+Since I’m running this course through GitHub Classroom, yes. But good for you! (Seriously... those are great platforms too and as an open-source advocate, I fully support a plurality of tools and software options.)
+
+**On that note, do you have any advice for running a course on GitHub Classroom?**
+
+I mostly followed [this excellent tutorial](https://github.com/jfiksel/github-classroom-for-teachers) by Jacob Fiksel.
+(Hat Tip to Grant McDermott at U Oregon for recommending this!)
+
+**This course looks interesting! Can I use/adapt your lecture notes for a similar course that I’m teaching at XYZ?**
+
+Sure. 
+I’ve benefited greatly from other people making their teaching materials publicly available (and have tried my best to acknowledge them directly in the relevant sections of this course). 
+I’m more than happy to pay it forward.
+I only ask two small favours. 
+1) Please let me know (email/Twitter) if you do use material from this course, or have found it useful in other ways. 
+2) A minor acknowledgment somewhere in your own syllabus or notes would be much appreciated.
