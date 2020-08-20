@@ -29,6 +29,8 @@ header-includes:
 
 # Motivation
 
+<!---  TODO: more analytics focus ---->
+
 "Some 73% of online adults now use a social networking site of some kind... [and] 42% of online adults now use multiple social networking sites," according to a recent Pew Research survey.^[
 Pew Research, 2019, [Social Media Fact Sheet.](https://www.pewresearch.org/internet/fact-sheet/social-media/)
 ]
@@ -89,10 +91,10 @@ Each topic covered has a lecture/discussion portion as well as a practicum/exerc
 We include video clips that are designed to introduce you to technical aspects of statistical analysis and computational modelling so that we can focus on marketing substance in lectures.
 There are course projects in the form of group assignments and an individual final project where we will work on the developing our analytical toolkit and framing results around answering marketing questions.
 
-# Pre-requisites
+# Prerequisites
 
-This course has one pre-requisite - Introduction to Marketing Research.
-Pre-requisite classes can be taken concurrently with this class if needed.
+To do well in this course it us suggested that you have passed the course Introduction to Marketing Research.
+<!--- Pre-requisite classes can be taken concurrently with this class if needed. --->
 
 In addition, students will benefit from having completed other marketing courses (Examples) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
 These are, however, not required.
@@ -137,14 +139,15 @@ Please look over the material before the first class.
 ### GitHub Classroom
 
 I am going to run the entire course through GitHub Classroom. 
-You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to saythat this is how we’ll submit assignments, provide feedback, receive grades, etc.
+You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to saythat this is how we’ll submit assignments and provide feedback, etc.
+Canvas will only be used to distribute grades.
 
 # Evaluation
 
 ## Class Participation (5 percent)
 
 Attendance and participation in class is required. 
-There will be a set of randomly announced in-class recap quizzes (don't worry you cant fail these) that will be graded on a check/check+ basis. 
+There will be a set of randomly announced in-class recap quizzes that will be graded on a check/check+ basis. 
 If you are not in class you will receive no grade for this quiz. 
 There will be four/five such quizzes and I will take the best three to determine your score in addition to a subjective evaluation of your participation in class. 
 There is absolutely no make up for these quizzes.
@@ -191,21 +194,23 @@ $$\textrm{Project Grade} = 0.25 \times \textrm{Proposal}
 ## Group Formation
 
 This course has two assignments which **must** be done in groups. 
-Students will be **randomly assigned** to groups before the each assignment is released. 
+Students will be **randomly assigned** to groups before the each assignment is released, i.e. the groups will change between assignments. 
 Each group will consist of 5 students.
 
 Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
 
+<!---
 ## Regrade Policy
 
 If you believe an error has been made in grading your assignments, you may request a re-grade. 
 The request must be in writing, must explain the exact concern, and must occur within 7 calendar days of when the graded materials were returned or when the final course grade is posted. 
 I reserve the right to re-grade the entire contents of any submitted assignment. 
 This means that your grade may go up or down, depending on what is found during the re-grade.
+--->
 
 ## Late Submission
 
-Assignments and Projects must be submitted before the deadline unless I grant an extraordinary written exception.
+Assignments and Projects must be submitted before the deadline.
 If you submit one assignment late, you will be penalized by 25 percent per calendar day.
 This penalty applies to an entire group where applicable.
 After the first late submission, you will get zero points on all subsequent late submissions
@@ -371,6 +376,8 @@ The course uses readings from the following books:
 
 ## Case Studies
 
+<!--- TODO: Access to cases for students and instructors --->
+
 Case studies will be provided as an online course pack [here]().
 
 * Managing Online Reviews on Trip Adviser 
@@ -378,6 +385,8 @@ Case studies will be provided as an online course pack [here]().
 * HubSpot: Inbound Marketing and Web 2.0
 
 ## Papers
+
+<!--- Link using Tilburg's Library links --->
 
 **Week 1: Network Patterns**
 
