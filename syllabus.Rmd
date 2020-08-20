@@ -302,7 +302,7 @@ Material posted online, the readings and talking with your classmates about what
 On the mental health side, we know how challenging graduate study can be, especially when paired with ones 'non-study life.'
 *I strongly encourage you to prioritise mental health over **everything** else.*
 I'm happy to talk with you individually and share some common experiences and strategies, but I am not a professional. 
-If you feel like you need to talk to someone, a good starting point might be the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
+If you feel like you need to talk to someone, a good starting point might be [Tilburg's Education Coordinators](https://www.tilburguniversity.edu/students/tutoring/education-coordinators/economics-management) or the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
 
 
 ## Be Fair & Honourable 
@@ -386,7 +386,7 @@ Case studies will be provided as an online course pack [here]().
 
 ## Papers
 
-<!--- Link using Tilburg's Library links --->
+<!--- TO DO: Link using Tilburg's Library links --->
 
 **Week 1: Network Patterns**
 
