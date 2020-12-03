@@ -439,6 +439,8 @@ Case studies will be provided as an online course pack [here]().
 
 [Seeking Micro-influencers for Brand Promotion](https://dl.acm.org/doi/pdf/10.1145/3343031.3351080?casa_token=sblzM8Rq8UMAAAAA:K_RBk8Cit7uNMvPt-8dK_pOK2c8JgyjBSZmpBqRTaAVQUup88fhTDf48dcOJHWajEF80vrxuxVsF)
 
+[Social Influence Maximization under Empirical Influence Models](https://www.nature.com/articles/s41562-018-0346-z)
+
 **Week 6: Internet Marketing & Viral Marketing**
 
 [Creating Contagion Through Viral Product Design](http://misrc.umn.edu/workshops/2011/spring/AralVPDFinal1110.pdf)
@@ -456,6 +458,8 @@ Case studies will be provided as an online course pack [here]().
 [Social Media Buyers Guide](https://www.iab.com/insights/social-media-buyers-guide/)
 
 [Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf)
+
+[Social Advertising Eﬀectiveness Across Products: A Large-Scale Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610384)
 
 [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144)
 
