@@ -164,13 +164,14 @@ $endif$
 %	\thispagestyle{empty}
 
 
-	\noindent \begin{tabular*}{\textwidth}{ @{\extracolsep{\fill}} lr @{\extracolsep{\fill}}}
+	\noindent \begin{tabular*}{\textwidth}{ @{\extracolsep{\fill}} l @{\extracolsep{\fill}}}
 
 
-E-mail: $if(email)$\texttt{$email$}$else$TBD$endif$ & Web: $if(web)$\href{http://$web$}{\tt $web$}$else$TBD$endif$\\
-Dates: $if(dates)$$dates$$else$TBD$endif$  &  Class Hours: $if(classhours)$$classhours$$else$TBD$endif$\\
-Class Days: $if(days)$$days$$else$TBD$endif$  & Class Room: $if(classroom)$$classroom$$else$TBD$endif$\\
-	&  \\
+E-mail: $if(email)$\texttt{$email$}$else$TBD$endif$ \\ 
+Web: $if(web)$\href{http://$web$}{\tt $web$}$else$TBD$endif$ \\
+Learning Mode: $if(mode)$$mode$$else$TBD$endif$ \\
+Dates: $if(dates)$$dates$$else$TBD$endif$  \\
+\\
 	\hline
 	\end{tabular*}
 	

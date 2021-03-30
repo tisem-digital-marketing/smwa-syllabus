@@ -7,18 +7,19 @@ output:
     template: ./svm-latex-syllabus.tex
 geometry: margin=0.85in
 
-title: "Research in Social Media"
+title: "Social Media and Web Analytics"
 author:
     - Lachlan Deer
 semester: "Block 4 (Spring) 2021"
 
-email: "lachlan.deer@gmail.com"
-web: "YYYYYYY"
-classroom: "To Be Announced"
-classhours:
-- "TBA"
-dates: "TBA"
-days: "TBA"
+email: "tisem.social.media@gmail.com"
+web: "tisem-digital-marketing.github.io/2021-smwa/"
+mode: "Online"
+#classroom: "Online"
+#classhours:
+#- "TBA"
+dates: "April 12 - June 4, 2021"
+#days: "TBA"
 
 fontfamily: mathpazo
 fontsize: 11pt
