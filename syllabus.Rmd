@@ -30,15 +30,14 @@ header-includes:
 
 # Motivation
 
-<!---  TODO: more analytics focus ---->
-
 "Some 73% of online adults now use a social networking site of some kind... [and] 42% of online adults now use multiple social networking sites," according to a recent Pew Research survey.^[
 Pew Research, 2019, [Social Media Fact Sheet.](https://www.pewresearch.org/internet/fact-sheet/social-media/)
 ]
 If a business needs to be where its customers are, then establishing a strong presence on social media is a critical component of a modern marketing strategy.
 The goal of this course is to develop an understanding of the social media landscape from the point of view of a marketing analyst.
-To that end, we need to be able to answer the following questions:
-How does one develop an online reputation or develop their brand online? 
+The course content will be unashamedly analytics heavy - utilizing modern statistical and mathematical modelling techniques to deliver managerially relevant conclusions from social media data
+To that end, we need to be able to deliver data-driven answers the following questions:
+How does one develop or maintain an online reputation or develop their brand online? 
 How does one maintain a strong user community on social networking sites? 
 How can one craft a potent social advertising strategy? 
 What are the potential pitfalls?
@@ -48,8 +47,7 @@ To answer these questions, we must synthesize knowledge from a variety of discip
 Sociologists have researched such concepts as homophily and social capital, which point to the underlying motivations in the relationships of individuals in a social network, 
   computer scientists have uncovered surprising patterns in real-world social networks, 
   and marketing experts have studied how network structure influences consumer demand, what makes ads go 'viral' and aspects of social advertising. 
-This course will combine this foundational material with actual case studies of businesses in the social world to build an understanding of modern social media marketing.
-As we progress through the course a heavy emphasis on analytical techniques - both statistical and theoretical - will guide our understanding and allow us to draw conclusions from data to answer the questions posed above.
+This course will combine foundational material with examples from the social world to build a data-driven understanding of modern social media marketing.
 
 The course is split into four modules:
 
@@ -65,7 +63,7 @@ This course is designed for students in the Master of Marketing Analytics and Ma
 
 In particular, I expect the typical student to have the following characteristics:
 
-* Strong interest in understanding how social media and social networks effect consumer behaviour, brand reputation and the actions of marketers.
+* Strong interest in understanding how social media and social networks effect consumer behavior, brand reputation and the actions of marketers.
 * Strong interest in learning and applying statistical analysis and data science techniques to social media data, although with limited existing background (see Pre-reqs below).
 * Strong interest in using quantitative results to develop management or marketing insights.
 * Interest in learning how to write computer code and acquire "best practice" methods.
@@ -79,100 +77,107 @@ This course has five closely intertwined objectives:
 1. Develop awareness of the challenges and opportunities social media and social networks present marketers.
 2. Learning to use quantitative and statistical analysis to develop strategies for managers and marketers on social media platforms.
 3. Understanding which modelling or statistical technique is best suited to a particular problem.
-4. Develop the ability to understand the limitations of one's analyisis.
-5. Acquire neccesary skills to work collaboratively in teams on analytical marketing problems.
+4. Develop the ability to understand the limitations of one's analysis.
+5. Acquire necessary skills to work collaboratively in teams on analytical marketing problems.
 
-Learning objectives for specific modules will be provided within the Course Notes.
+Learning objectives for specific classes will be provided within the Course Notes.
 
 # Pedagogy
 
-The course will involve lectures and discussions, web videos, hands on in-class assignments. 
+**The COVID-19 pandemic has pushed the class online for this academic year.**
+
+The course will involve video lectures, self-guided tutorials, live discussions sessions and hands on in-class assignments. 
 The course strives to balance the practical aspects of social media analytics with a theoretical understanding of the concepts and frameworks involved. 
 Each topic covered has a lecture/discussion portion as well as a practicum/exercise/demo portion (called Labs below). 
-We include video clips that are designed to introduce you to technical aspects of statistical analysis and computational modelling so that we can focus on marketing substance in lectures.
-There are course projects in the form of group assignments and an individual final project where we will work on the developing our analytical toolkit and framing results around answering marketing questions.
+There are course projects in the form of group assignments and an individual final project where you will work on the developing your analytical toolkit and framing results around answering marketing questions.
 
 # Prerequisites
 
 To do well in this course it us suggested that you have passed the course Introduction to Marketing Research.
 <!--- Pre-requisite classes can be taken concurrently with this class if needed. --->
 
-In addition, students will benefit from having completed other marketing courses (Examples) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
+In addition, students will benefit from having completed other marketing courses (such as Customer Analytics and Price and Revenue Analytics) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
 These are, however, not required.
 
 # Computing
 
-This course is an applied course, and as such we aim to use, understand and develop computational routines that help managers and marketers make better decisions.
-Large portions of the course will be *'hands-on'* and we wil be using the statistical software `R` to demonstrate and apply methods and concepts in class.
+This course is an analytics course, and as such we aim to use, understand and develop computational routines that help managers and marketers make better decisions.
+Large portions of the course will be *'hands-on'* and we will be using the statistical software `R` to demonstrate and apply methods and concepts in class.
 
 All of the software requirements for this course are open-source and/or free. 
 Please aim to have everything installed by the start of our first lecture.
 
-*I will be available for installation troubleshooting during the first week of the course.*
-*You can sign up for a slot to get installation help [here](TODO:link-to-be-created.com).*
+*We will be available for installation troubleshooting during the first week of the course.*
+*You can sign up for to get installation help via our office hour sign-up links (see below).*
 
 ## R & RStudio
 
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
-Installation instructions are available from the links below (they differ slightly by operating system):
-
-* [Installing `R`](TODO:link-to-be-created.com).
-* [Installing RStudio](TODO:link-to-be-created.com).
+Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2021-smwa-installation-guide/) (they differ slightly by operating system):
 
 After installing R and RStudio I suggest you get acquainted with the interface and basic data analysis commands before the first class.
-To facilitate the introduction, there are a series of introductory videos and a quiz to test your understanding available on the [course webpage](TODO:link-to-be-created.com).
-Please look over these before the first class.
+To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
+The suggested modules can be found on the [course webpage](https://tisem-digital-marketing.github.io/2021-smwa/) under 'Course Preparation'.
+Please look over these *before* the first class.
 
 ## Improving Reproduciblity of our Analysis with Git and GitHub
 
-In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want (i) you to document your code and the changes you make to it, and (ii) your code to be able to run on not only your computer, but mine and anyone else's.
+In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow [these instructions](TODO:link-to-be-created.com).
-* Also regsiter for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
+* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2021-smwa-installation-guide/).
+* Also register for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
   ]
 
-An introductory tutorial in video format and a quiz to test your understanding are available on the [course website](TODO:link-to-be-created.com).
-Please look over the material before the first class.
+As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2021-smwa/) under 'Course Preparation'.
+Please look over the material *before* the first class.
 
 ### GitHub Classroom
 
-I am going to run the entire course through GitHub Classroom. 
-You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to saythat this is how we’ll submit assignments and provide feedback, etc.
-Canvas will only be used to distribute grades.
+I am going to run the course through GitHub Classroom. 
+You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to say that this is how we’ll submit assignments and provide feedback, etc.
+Canvas will only be used to submit weekly quiz solutions and distribute grades.
 
 # Evaluation
 
-## Class Participation (5 percent)
+## Weekly Quizzes (5 percent)
 
-Attendance and participation in class is required. 
-There will be a set of randomly announced in-class recap quizzes that will be graded on a check/check+ basis. 
-If you are not in class you will receive no grade for this quiz. 
-There will be four/five such quizzes and I will take the best three to determine your score in addition to a subjective evaluation of your participation in class. 
+Each week there will be a quiz that recaps the course material from the current week.
+You must complete the quizzes by 5pm Central European Time on each Friday.
+We will allow you to re-try the quiz each week up to *three* times.
+We use your 5 best completed weekly quiz grades to compute your final grade. 
 There is absolutely no make up for these quizzes.
 
 ## Homework Assignments (40 percent)
 
 There will be 2 group assignments worth equal weight. 
 To pass the assignment, each group member needs to have made a substantial contribution to the project. 
-The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight the day of the class (i.e. before 23:59 the day before a class).
+The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
 
+Group assignments **must** be done in groups. 
+Students will be **randomly assigned** to groups before the each assignment is released, i.e. the groups will change between assignments. 
+Each group will consist of 4 students.
+Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
+
+
+<!---
 The topics for the group assignments are:
 
 * Group Assignment 1: Evaluating & Managing Online Reputation.
     * We will use data from Trip Adviser and some supplementary sources.
 * Group Assignment 2: Advertising on Facebook & Analysing Facebook Ads.
     * We use publicly available data provided by Facebook to explore advertising effectiveness on their platform.
+--->
 
 Further information on group assignments will be distributed closer to their issue.
 
 ## Course Project (55 percent)
 
-You  must develop a project on any topic related to social media analytics that *has marketing implications* (broadly defined) that interests you. 
+You  must develop a project on a topic related to social media analytics that *has marketing implications* (broadly defined) that interests you. 
 The final submission of the report has three features: 
-  (1) a written report of a max. 10 pages, 
+  (1) a written report of a max. 7 pages, 
   (2) the underlying code & data to produce the report, and 
   (3) a 5 minute video presentation of your research.
 
@@ -180,18 +185,24 @@ The project should have the following characteristics:
 
 * There should be a clear motivation. You should be trying to solve a question that matters, either to society or business.
 * You should do a thorough survey of the relevant literature. This includes articles from the popular press as well as from scholarly sources such as academic journals.
-* Your report and video presentation should organize this literature survey appropriately, and summarize your main insights and findings.
+* Your report and video presentation should briefly organize this literature survey, and summarize your main insights and findings.
 
-To assist you design your project with these characteristics, I have broken the project into three components: (1) proposal, (2) literature review, and (3) a report and video. 
+To assist you design your project with these characteristics, I have broken the project into three milestones: 
+
+* Milestone 1: Proposal and Data Collection
+* Milestone 2: Literature review, and a motivating figure or table using the data, and
+* Milestone 3: the final report, video and underlying code and data. 
+
 Each component has different due dates *and* contributes to your final grade.
 
 The final grade for your project is computed as:
 
-$$\textrm{Project Grade} = 0.25 \times \textrm{Proposal} 
-                         + 0.15 \times \textrm{Literature Review}
-                         + 0.60 \times \left( \textrm{Report + Video} \right)
+$$\textrm{Project Grade} = 0.20 \times \textrm{Milestone 1} 
+                         + 0.20 \times \textrm{Milestone 2}
+                         + 0.60 \times \textrm{Milestone 3}
                         $$
 
+<!---
 ## Group Formation
 
 This course has two assignments which **must** be done in groups. 
@@ -199,6 +210,7 @@ Students will be **randomly assigned** to groups before the each assignment is r
 Each group will consist of 5 students.
 
 Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
+---> 
 
 <!---
 ## Regrade Policy
@@ -214,7 +226,7 @@ This means that your grade may go up or down, depending on what is found during 
 Assignments and Projects must be submitted before the deadline.
 If you submit one assignment late, you will be penalized by 25 percent per calendar day.
 This penalty applies to an entire group where applicable.
-After the first late submission, you will get zero points on all subsequent late submissions
+After the first late submission, you will get zero points on all subsequent late submissions.
 
 # Office Hours
 
@@ -225,45 +237,50 @@ Our office hours are:
 \begin{table}[h!]
 \begin{center}
 \begin{tabular}{lccc}
-Name:               & Lachlan Deer &  & FirstName Last Name \\
-Office Location:    & XX.XXX       &  & XX.XXX              \\
-Consultation Hours: & YY.YYY       &  & YY.YYY              \\
-Link to Book Slot:  & ZZ.ZZZ       &  & ZZ.ZZZ             
+Name:               & Lachlan Deer &  & Hendrick de With \\
+Office Location:    & Zoom       &  & Zoom              \\
+Consultation Hours: & Thursday, 10am - 12.30pm  &  & TBA            \\
+Link to Book Slot:  & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here}      &  & TBA            
 \end{tabular}
 \end{center}
 \end{table}
 
 If you plan on coming to our scheduled hours, please make a booking using the links provided.
-If you cannot make the scheduled office hours, send us an email with at least three proposed times to meet and we will make it work.
+If you cannot make the scheduled office hours, talk to us on Slack and propose three times to meet and we will try and make it work.
 Office Hours are subject to a "fair and equitable use" policy.
 
 I expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
 
+Additional notes for Office Hours:
+
+* After you book a time slot with Lachlan, a calendar invite will be sent to your email automatically. 
+  You must accept this invite.
+  Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
+
 # Rules of the Game
 
 I have clear expectations of how we should all interact in class and in meetings.
-They are summarised by the "7 Be's" below:
+They are summarized by the "7 Be's" below:
 
 ## Be Active
 
-Learning via listening to monologues is an ineffective learning technique.
-Come to class prepared to ask questions, and to answer questions posed by me and others in class.
+Learning via passive listening is an ineffective learning technique.
+Come to discussion classes prepared to ask questions, and to answer questions posed by me and others in class.
 Doing so, will lead to a much more pleasant learning experience for us all.
-I would much rather have an engaging discussion on topics where we share mutual interest and cover less material than listen to myself talk for 90 minutes at a time.
+I would much rather have an engaging discussion on topics where we share mutual interest and cover less material than have Discussion Sections become a monologue.
 
 ## Be "Hands-on"
-The class is designed to be `hands-on' in the sense that you will be programming a lot of things *during the class*.
+The class is designed to be `hands-on' in the sense that you will be expected to complete a substantial amount of coding exercises.
 We strongly believe the only way to learn programming is to do programming.
-Please bring your laptop with you to each session and install the required software before the course begins.
-Try to complete each activity we do in class and be prepared to ask and answer questions during class.
-Slides or notes will be made available at the beginning of each class, codes that solve exercises will be posted during or after the session.
+Try to complete each 'Lab Session' be prepared to ask and answer questions about it during Discussion Sections.
+Codes that solve exercises will be posted *after* Discussion Sections.
 
 ## Be Prepared
 
 We expect you to dedicate an average of 20 hours per week of study time to this course.
 Use this time to look over required readings, re-examine course notes and codes and work on your assignments.
-Looking over required readings before class means that our discussions will have more substance, and (ideally) be more insightful.
+Looking over required readings means that our discussions will have more substance, and (ideally) be more insightful.
 
 Quick tip: If you find yourself not understanding part of the course content or not able to find bugs in your code, take a break and come back to it in an hour or so. 
 Come talk to us if it remains unclear.
@@ -271,18 +288,19 @@ Come talk to us if it remains unclear.
 ## Be Professional
 
 I expect you to treat us and your class members collegially.
-In addition, we have a [Code of Conduct](TODO:add-link.com) that provides further details of acceptable and unacceptable behaviour.
-It boils down to "be nice to each other." 
+In addition, we have a set of [Social Rules](https://tisem-digital-marketing.github.io/2021-smwa/social_rules/) and a [Code of Conduct](https://tisem-digital-marketing.github.io/2021-smwa/conduct/) that provides further details of acceptable and unacceptable behavior.
 
-When writing emails, being professional means using a meaningful subject line, identifying yourself (i.e. Regards, Lachlan at the end of the email), and keeping the message focussed.
+When writing an email, being professional also means using a meaningful subject line, identifying yourself (i.e. Regards, Lachlan at the end of the email), and keeping the message focused.
 We aim to reply to emails within 48 hours Monday - Friday, but there might be a slight delay if you write to us late Friday evening. 
 
 I strongly encourage you to provide feedback about both format and content during the course.
-Consider your tone when doing so, i.e. don't flame us.
+We will provide survey links to collect this feedback at regular intervals.
+Be professional when filling these out.
 
 ## Be Informal (but not too informal!)
 
-Do not address us with "Mr.", "Dr.", or "Prof.". Please use our first name's (i.e. Lachlan and XXX). 
+Do not address us with "Mr.", "Dr.", or "Prof.". 
+Please use our first name's (i.e. Lachlan and Hendrik). 
 More formality than that makes me feel uncomfortable.
 
 Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts, but not Facebook.
@@ -290,31 +308,29 @@ Also you can to add us on LinkedIn or Twitter - where we maintain professional a
 ## Be International
 
 This course is taught in English.
-You are obliged to speak English whenever there are international students present. 
-If in doubt, you need to speak English.
+You are obliged to speak English whenever there are international students present and all Slack messages on public channels must be in English. 
+If in doubt, you need to communicate in English.
 As someone who has studied in in countries where I do not speak the native language - be assured it is *very much appreciated.*
 
 ## Be Healthy (Physically & Mentally)
 
 Physical and Mental health are important, and definitely more important than your coursework.
-*If you are feeling ill on the day of a class, I emplore you to stay at home*. 
-Material posted online, the readings and talking with your classmates about what you missed is more than enough if you need to miss one or two classes.
+Material posted online, the readings and talking with your classmates about what you missed is more than enough if you need to miss one or two Discussion classes.
 
 On the mental health side, we know how challenging graduate study can be, especially when paired with ones 'non-study life.'
-*I strongly encourage you to prioritise mental health over **everything** else.*
+*I strongly encourage you to prioritize mental health over **everything** else.*
 I'm happy to talk with you individually and share some common experiences and strategies, but I am not a professional. 
 If you feel like you need to talk to someone, a good starting point might be [Tilburg's Education Coordinators](https://www.tilburguniversity.edu/students/tutoring/education-coordinators/economics-management) or the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
 
-
-## Be Fair & Honourable 
+## Be Fair & Honorable 
 
 In group assignments we expect all group members to actively and evenly contribute.
 If you are struggling with parts of a group assignment you are working on, talk to your group members and to us rather than withdrawing from conversations with your colleagues. 
 
-Being fair & honourable also means that you should not plagiarise others work.
+Being fair & honorable also means that you should not plagiarize others work.
 We stick closely with the School's Fraud and plagiarism policies which are outlined [here](https://www.tilburguniversity.edu/students/studying/regulations/fraud/economics).
 
-
+<!---
 \begin{landscape}
 
 \section{Preliminary Schedule}
@@ -359,10 +375,46 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 \end{landscape}
 \restoregeometry
 
+\newpage 
+--->
 \newpage
+
+# Schedule
+
+The following is a tentative course schedule.
+Check back regularly for updates.
+
+| Week | Marketing Topic                       | Analytics Topic                        | Due Dates                        |
+|------|---------------------------------------|----------------------------------------|----------------------------------|
+| 0    |  Course Introduction          |   Using Git and R                              |                                  |
+| 1    | Social Media Networks                | Visualizing  Network Data              |                                   |
+| 2    | Online Reputation                     | Regression Review             |                                  |
+| 3    | Community Structure                   | Text Analytics I                       | Project Milestone 1              |
+| 4    | Word of Mouth                         | Endogeneity: Causes &  Solutions       | Assignment 1               |
+| 5    | Influencers                           | Simulating Network Evolution           | Project Milestone 2              |
+| 6    | Viral Marketing                       | Text Analytics II                      |                                  |
+| 7    | Social Advertising                    | TBA                                    | Assignment 2 & Final Project |
 
 # Readings
 
+We will combine material from two books and recent academic papers.
+All readings from books are optional.
+
+## Books
+
+The course uses readings from the following books:
+
+* *Networks, Crowds and Markets: Reasoning About a Highly Connected World*, by David Easley and Jon Kleinberg
+* *Networks: An Introduction* by Mark Newman
+
+We will provide specific details about which chapters to review in advance of each week on the course website.
+
+## Papers
+
+A list of required and optional readings from the academic literature will be provided in advance of each week on the course website.
+
+
+<!---
 ## Textbooks
 
 We will combine material from two books, recent papers and case studies.
@@ -377,7 +429,6 @@ The course uses readings from the following books:
 
 ## Case Studies
 
-<!--- TODO: Access to cases for students and instructors --->
 
 Case studies will be provided as an online course pack [here]().
 
@@ -386,8 +437,6 @@ Case studies will be provided as an online course pack [here]().
 * HubSpot: Inbound Marketing and Web 2.0
 
 ## Papers
-
-<!--- TO DO: Link using Tilburg's Library links --->
 
 **Week 1: Network Patterns**
 
@@ -469,6 +518,8 @@ Case studies will be provided as an online course pack [here]().
 [The Ripple Effect of Firm-Generated Content for New Movie Releases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3336856)
 
 [Improvised Marketing Interventions in Social Media](https://journals.sagepub.com/doi/10.1177/0022242919899383)
+
+--->
 
 # FAQs
 
