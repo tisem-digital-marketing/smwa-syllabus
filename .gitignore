@@ -8,3 +8,6 @@ logs
 *.pdf
 .vscode
 *.log
+*.fls
+*.aux
+*.fdb*
