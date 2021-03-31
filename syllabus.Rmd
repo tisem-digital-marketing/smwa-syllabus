@@ -237,10 +237,10 @@ Our office hours are:
 \begin{table}[h!]
 \begin{center}
 \begin{tabular}{lccc}
-Name:               & Lachlan Deer &  & Hendrick de With \\
+Name:               & Lachlan Deer &  & Hendrik de With \\
 Office Location:    & Zoom       &  & Zoom              \\
-Consultation Hours: & Thursday, 10am - 12.30pm  &  & TBA            \\
-Link to Book Slot:  & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here}      &  & TBA            
+Consultation Hours: & Thursday, 10am - 12.30pm  &  & Wednesday, 2pm - 4pm            \\
+Link to Book Slot:  & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here}      &  & \href{https://calendly.com/h-j-c-dewith/15min}{Click Here}            
 \end{tabular}
 \end{center}
 \end{table}
