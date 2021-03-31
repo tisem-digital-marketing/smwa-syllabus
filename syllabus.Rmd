@@ -279,7 +279,7 @@ If you plan on coming to our scheduled hours, please make a booking using the li
 If you cannot make the scheduled office hours, talk to us on Slack and propose three times to meet and we will try and make it work.
 Office Hours are subject to a "fair and equitable use" policy.
 
-After you book a time slot with Lachlan, a calendar invite will be sent to your email automatically. 
+After you book a time slot, a calendar invite will be sent to your email automatically. 
 You *must* accept this invite.
 Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
 
