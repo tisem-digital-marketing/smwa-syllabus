@@ -138,7 +138,7 @@ Please look over the material *before* the first class.
 
 I am going to run the course through GitHub Classroom. 
 You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to say that this is how we’ll submit assignments and provide feedback, etc.
-Canvas will only be used to submit weekly quiz solutions and distribute grades.
+Canvas will only be used to submit weekly quiz solutions, distribute grades, and registration of teams for group assignments.
 
 # Evaluation
 
@@ -157,7 +157,7 @@ To pass the assignment, each group member needs to have made a substantial contr
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
 
 Group assignments **must** be done in groups. 
-Students will be **randomly assigned** to groups before the each assignment is released, i.e. the groups will change between assignments. 
+Students will be **randomly assigned** to groups before each assignment is released, i.e. the groups will change between assignments. 
 Each group will consist of 4 students.
 Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
 
