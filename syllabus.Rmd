@@ -86,10 +86,40 @@ Learning objectives for specific classes will be provided within the Course Note
 
 **The COVID-19 pandemic has pushed the class online for this academic year.**
 
-The course will involve video lectures, self-guided tutorials, live discussions sessions and hands on in-class assignments. 
+The course will involve video lectures, self-guided tutorials, live discussions sessions and hands on assignments. 
 The course strives to balance the practical aspects of social media analytics with a theoretical understanding of the concepts and frameworks involved. 
-Each topic covered has a lecture/discussion portion as well as a practicum/exercise/demo portion (called Labs below). 
+Each topic covered has a lecture/discussion portion as well as a practicum/exercise/demo portion. 
 There are course projects in the form of group assignments and an individual final project where you will work on the developing your analytical toolkit and framing results around answering marketing questions.
+
+The course structure takes advantage of an asynchronous format. 
+This format lets you work through most of the course material in your own time, and aims to minimizes 'Zoom fatigue'.
+Each week, you will be expected to complete the following tasks:
+
+* Read through the required readings
+* Watch video lecture clips
+* Work through the self-guided analytics tutorial
+* Work collaboratively on group assignments (as needed)
+* Work individually towards the course project's milestones.
+
+Lecture material will be split into multiple (short) video clips. 
+This allows you to work through topics at your own pace, and revisit specific sections multiple times relatively easily.
+
+In addition, there will be a two "live" discussion sections each week, beginning in the second week of the class. 
+These sections will run on the Zoom meeting platform, and links will be distributed on the course website.
+The format is as follows:
+
+* Each session will last 60 - 75 minutes
+* The schedule for discussion sections is available on the course website.
+  * The numerous public holidays in Block 4 means that the section times move around week-to-week
+* Each session will discuss 2-3 topics, topics *will differ between sessions*
+  * Topics covered in week $x$ will be based on week $x-1$'s course material
+  * Specific topics will be decided based on surveying student's interests each week, and will be announced in advance
+* Instructors will aim to facilitate a discussion between students, rather than instructors leading the discussion
+  * Instructors can end a session at their discretion if they feel students are not engaging in the discussion
+* Discussion sections will *not* be recorded
+* Attendance is optional
+
+The videos, documents and (where appropriate) weblinks will be made available on the course website and via GitHub.
 
 # Prerequisites
 
@@ -249,14 +279,13 @@ If you plan on coming to our scheduled hours, please make a booking using the li
 If you cannot make the scheduled office hours, talk to us on Slack and propose three times to meet and we will try and make it work.
 Office Hours are subject to a "fair and equitable use" policy.
 
+After you book a time slot with Lachlan, a calendar invite will be sent to your email automatically. 
+You *must* accept this invite.
+Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
+
 I expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
 
-Additional notes for Office Hours:
-
-* After you book a time slot with Lachlan, a calendar invite will be sent to your email automatically. 
-  You must accept this invite.
-  Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
 
 # Rules of the Game
 
@@ -377,7 +406,6 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 
 \newpage 
 --->
-\newpage
 
 # Schedule
 
