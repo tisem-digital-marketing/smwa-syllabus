@@ -93,7 +93,7 @@ There are course projects in the form of group assignments and an individual fin
 
 # Prerequisites
 
-To do well in this course it us suggested that you have passed the course Introduction to Marketing Research.
+To do well in this course it is suggested that you have passed the course Introduction to Marketing Research.
 <!--- Pre-requisite classes can be taken concurrently with this class if needed. --->
 
 In addition, students will benefit from having completed other marketing courses (such as Customer Analytics and Price and Revenue Analytics) and other classes at TiSEM that deal with data and computing (i.e. the 'skills classes').
