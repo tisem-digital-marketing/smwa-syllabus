@@ -11,6 +11,7 @@ title: "Social Media and Web Analytics"
 author:
     - Lachlan Deer
 semester: "Block 4 (Spring) 2021"
+updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
 email: "tisem.social.media@gmail.com"
 web: "tisem-digital-marketing.github.io/2021-smwa/"
