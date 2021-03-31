@@ -261,8 +261,8 @@ After the first late submission, you will get zero points on all subsequent late
 # Office Hours
 
 We are here to help you through the course & want you meet your expectations and personal learning goals.
-To that end, we have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
-Our office hours are:
+To that end, the instructors have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
+The office hours are:
 
 \begin{table}[h!]
 \begin{center}
@@ -279,13 +279,19 @@ If you plan on coming to our scheduled hours, please make a booking using the li
 If you cannot make the scheduled office hours, talk to us on Slack and propose three times to meet and we will try and make it work.
 Office Hours are subject to a "fair and equitable use" policy.
 
-After you book a time slot, a calendar invite will be sent to your email automatically. 
-You *must* accept this invite.
-Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
+Notes for scheduling with Lachlan: 
 
-I expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
+* After you book a time slot, a calendar invite will be sent to your email automatically. 
+    You *must* accept this invite.
+    Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
+
+Notes for scheduling with Hendrik:
+
+* On the booking page, a link to Hendrik's Zoom meeting room is included.
+    Copy down this link so you can join the scheduled meeting.
+
+We expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
-
 
 # Rules of the Game
 
