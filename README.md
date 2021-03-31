@@ -1,11 +1,11 @@
-# Syllabus: Research in Social Media
+# Syllabus: Social Media and Web Analytics
 
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Research in Social Media](https://github.com/YOUR_LINK)
+*   Course: [Social Media and Web Analytics](https://catalogus.tilburguniversity.edu/osiris_student_tiuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2020&taal=en&cursus=300459-M-6)
 *   Institute: Tilburg School of Economics and Managment (TiSEM)
-*   Current Version: [Spring, 2021](https://XXX.github.io/XXXX)
+*   Current Version: [Spring, 2021](https://tisem-digital-marketing.github.io/2021-smwa/)
 
 ## Want to Contribute?
 
