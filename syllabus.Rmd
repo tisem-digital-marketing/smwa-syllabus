@@ -257,9 +257,9 @@ To assist you design your project with these characteristics, I have broken the 
 
 * Milestone 1: Proposal and Data Collection
 * Milestone 2: Literature review, and a motivating figure or table using the data, and
-* Milestone 3: the final report, video and underlying code and data. 
+* Milestone 3: the final report, video presentation and underlying code and data. 
 
-Each component has different due dates *and* contributes to your final grade.
+Each milestone has different due dates *and* contributes to your final grade.
 
 The final grade for your project is computed as:
 
@@ -267,6 +267,10 @@ $$\textrm{Project Grade} = 0.20 \times \textrm{Milestone 1}
                          + 0.20 \times \textrm{Milestone 2}
                          + 0.60 \times \textrm{Milestone 3}
                         $$
+
+The written part of each milestone must be based on the templates we will make available.
+These templates are designed to help you structure your submission to include the relevant information and do so in a concise manner.
+
 
 <!---
 ## Group Formation
