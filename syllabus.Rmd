@@ -110,7 +110,7 @@ These sections will run on the Zoom meeting platform, and links will be distribu
 The format is as follows:
 
 * Each session will last 60 - 75 minutes
-* The schedule for discussion sections is available on the course website.
+* The schedule for discussion sections are available on the course website.
   * The numerous public holidays in Block 4 means that the section times move around week-to-week
 * Each session will discuss 2-3 topics, topics *will differ between sessions*
   * Topics covered in week $x$ will be based on week $x-1$'s course material
@@ -120,7 +120,9 @@ The format is as follows:
 * Discussion sections will *not* be recorded
 * Attendance is optional
 
-The videos, documents and (where appropriate) weblinks will be made available on the course website and via GitHub.
+Because we are adapting this course to an online format, we reserve the right to change the design or content of these live sessions, depending on our experiences and your feedback.
+
+All the videos, documents and (where appropriate) weblinks will be made available on the course website and via GitHub.
 
 # Prerequisites
 
