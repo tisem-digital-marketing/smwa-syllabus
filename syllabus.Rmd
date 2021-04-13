@@ -214,7 +214,7 @@ Canvas will only be used to submit weekly quiz solutions, distribute grades, and
 ## Weekly Quizzes (5 percent)
 
 Each week there will be a quiz that recaps the course material from the current week.
-You must complete the quizzes by 5pm Central European Time on each Friday.
+You must complete the quizzes by 23:59 Central European Time on each Friday.
 We will allow you to re-try the quiz each week up to *three* times.
 We use your 5 best completed weekly quiz grades to compute your final grade. 
 There is absolutely no make up for these quizzes.
