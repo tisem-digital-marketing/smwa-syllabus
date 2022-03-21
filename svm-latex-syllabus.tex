@@ -166,11 +166,14 @@ $endif$
 
 	\noindent \begin{tabular*}{\textwidth}{ @{\extracolsep{\fill}} l @{\extracolsep{\fill}}}
 
-
+Course Code: $if(code)$\href{https://uvt.osiris-student.nl/\#/onderwijscatalogus/extern/cursus?collegejaar=huidig\&taal=en\&cursuscode=$code$}{\tt $code$}$else$TBD$endif$  \\
+ECTS Credits: $if(credits)$\texttt{$credits$}$else$TBD$endif$ \\ 
 E-mail: $if(email)$\texttt{$email$}$else$TBD$endif$ \\ 
 Web: $if(web)$\href{http://$web$}{\tt $web$}$else$TBD$endif$ \\
-Learning Mode: $if(mode)$$mode$$else$TBD$endif$ \\
-Dates: $if(dates)$$dates$$else$TBD$endif$  \\
+Learning Mode: $if(mode)$\texttt{$mode$}$else$TBD$endif$ \\
+Language: $if(lang)$\texttt{$lang$}$else$English$endif$ \\
+Dates: $if(dates)$\texttt{$dates$}$else$TBD$endif$  \\
+
 \\
 Last Updated: $if(updated)$$updated$$else$TBD$endif$ \\
 \\
