@@ -27,9 +27,7 @@ degree: "Master of Marketing Analytics"
 credits: "6 ECTS"
 
 fontfamily: mathpazo
-fontsize: 11pt
-header-includes:
-   - \linespread{1.25}
+fontsize: 12pt
 ---
 
 
