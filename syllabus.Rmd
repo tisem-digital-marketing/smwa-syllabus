@@ -65,7 +65,8 @@ During these modules we will focus on extracting insights from the recent academ
 
 #  Course Objectives
 
-This course has seven closely intertwined objectives:
+This course has seven closely intertwined objectives.
+After the completion of the course you will be able to:
 
 1. Explain and evaluate the challenges and opportunities social media and social networks present marketers.
 2. Summarize state of the art knowledge from the academic marketing literature about social media's impact on marketing.
