@@ -63,6 +63,20 @@ To answer these questions, the course is split into four substantive modules:
 
 During these modules we will focus on extracting insights from the recent academic literature as well as learning and then leveraging an analytics toolkit comprising linear regression, causal inference, text analytics and social network analysis. 
 
+#  Course Objectives
+
+This course has seven closely intertwined objectives:
+
+1. Explain and evaluate the challenges and opportunities social media and social networks present marketers.
+2. Summarize state of the art knowledge from the academic marketing literature about social media's impact on marketing.
+3. Provide intuitive explanations of statistical concepts from the areas of linear regression, causal inference, natural language processing and network analytics
+4. Implement statistical analysis to analyze social media data using tools from linear regression, causal inference, natural language processing and network analytics
+5. Interpret their own and other's statistical analysis of social media data
+6. Prescribe Managerial and Marketing strategies to improve business performance based on analytical findings.
+7. Appraise and critique the assumptions behind statistical analysis of social media data in a given setting and propose alternative methodologies to improve existing analysis  
+
+Learning objectives for specific classes will be provided within the Course Notes.
+
 # Target Audience
 
 This course is designed for students in the Master of Marketing Analytics and Master of Marketing Management who have a strong interest in social media marketing and 
@@ -76,18 +90,6 @@ In particular, I expect the typical student to have the following characteristic
 * Interest in learning how to write computer code and acquire "best practice" methods.
 * Interest in learning new quantitative modelling techniques.
 * Ability to work collaboratively.
-
-#  Course Objectives
-
-This course has five closely intertwined objectives:
-
-1. Develop awareness of the challenges and opportunities social media and social networks present marketers.
-2. Learning to use quantitative and statistical analysis to develop strategies for managers and marketers on social media platforms.
-3. Understanding which modelling or statistical technique is best suited to a particular problem.
-4. Develop the ability to understand the limitations of one's analysis.
-5. Acquire necessary skills to work collaboratively in teams on analytical marketing problems.
-
-Learning objectives for specific classes will be provided within the Course Notes.
 
 # Pedagogy
 
