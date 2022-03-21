@@ -57,9 +57,11 @@ This course will combine foundational material with examples from the social wor
 To answer these questions, the course is split into four substantive modules:
 
 1. **Network Patterns:** which seeks to describes and explain several common patterns found in real-world social networks,
-2. **Branding and Community:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Importance and Influence:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
+2. **Online Reputation:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
+3. **Word of Mouth & Influencers:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
 4. **Advertising and Marketing:** which focuses on viral marketing and social advertising techniques.
+
+During these modules we will focus on extracting insights from the recent academic literature as well as learning and then leveraging an analytics toolkit comprising linear regression, causal inference, text analytics and social network analysis. 
 
 # Target Audience
 
