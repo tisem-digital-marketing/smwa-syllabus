@@ -38,25 +38,27 @@ Pew Research, 2019, [Social Media Fact Sheet.](https://www.pewresearch.org/inter
 ]
 If a business needs to be where its customers are, then establishing a strong presence on social media is a critical component of a modern marketing strategy.
 The goal of this course is to develop an understanding of the social media landscape from the point of view of a marketing analyst.
-The course content will be unashamedly analytics heavy - utilizing modern statistical and mathematical modelling techniques to deliver managerially relevant conclusions from social media data
+The course content will be unashamedly analytics heavy - utilizing modern statistical and mathematical modelling techniques to deliver managerially relevant conclusions from social media data.
 To that end, we need to be able to deliver data-driven answers the following questions:
 How does one develop or maintain an online reputation or develop their brand online? 
 How does one maintain a strong user community on social networking sites? 
-How can one craft a potent social advertising strategy? 
-What are the potential pitfalls?
+How can one craft a potent social media advertising strategy? 
 How does one quantitatively assess whether their online reputation is positive and/or improving, or whether their social marketing is effective?
+What are the potential pitfalls in social media- and online- marketing?
 
+<!---
 To answer these questions, we must synthesize knowledge from a variety of disciplines. 
 Sociologists have researched such concepts as homophily and social capital, which point to the underlying motivations in the relationships of individuals in a social network, 
   computer scientists have uncovered surprising patterns in real-world social networks, 
   and marketing experts have studied how network structure influences consumer demand, what makes ads go 'viral' and aspects of social advertising. 
 This course will combine foundational material with examples from the social world to build a data-driven understanding of modern social media marketing.
+--->
 
-The course is split into four modules:
+To answer these questions, the course is split into four substantive modules:
 
 1. **Network Patterns:** which seeks to describes and explain several common patterns found in real-world social networks,
 2. **Branding and Community:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Importance and Influence:** which discusses an individual's place in the network, and how memes, early adoption, word of mouth and other 'information cascades' propagate,
+3. **Importance and Influence:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
 4. **Advertising and Marketing:** which focuses on viral marketing and social advertising techniques.
 
 # Target Audience
