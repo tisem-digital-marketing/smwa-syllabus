@@ -91,6 +91,34 @@ In particular, I expect the typical student to have the following characteristic
 * Interest in learning new quantitative modelling techniques.
 * Ability to work collaboratively.
 
+# Instructors
+
+\begin{table}[!h]
+\centering
+\begin{tabular}{cl l}%{m{1.5cm}}
+\toprule
+\addlinespace
+\multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/lachlandeer.jpg}} & 
+  Name:               & Lachlan Deer \tabularnewline
+& Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
+& Role in Course:     & Lectures, Computing Lectures, Tutorials \tabularnewline
+& Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
+& Office Hours:       & Wednesday, 2pm - 4pm \tabularnewline
+& Office Hour Format: & Hybrid, 15 min slots \tabularnewline
+& Booking Link:       & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here} \tabularnewline
+\midrule
+\multirow{7}{*}{\missingfigure[figwidth=5cm]{Add an image \ldots}} & 
+  Name:               & FIXME \tabularnewline
+& Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
+& Role in Course:     & Tutorials \tabularnewline
+& Profile:            & \href{FIXME}{FIXME} \tabularnewline
+& Office Hours:       & FIXME \tabularnewline
+& Office Hour Format: & FIXME \tabularnewline
+& Booking Link:       & \href{FIXME}{Click Here} \tabularnewline
+\bottomrule
+\end{tabular}
+\end{table}
+
 # Pedagogy
 
 **The COVID-19 pandemic has pushed the class online for this academic year.**
