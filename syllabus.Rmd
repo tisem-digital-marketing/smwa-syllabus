@@ -101,7 +101,7 @@ In particular, I expect the typical student to have the following characteristic
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/lachlandeer.jpg}} & 
   Name:               & Lachlan Deer \tabularnewline
 & Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
-& Role in Course:     & Lectures, Computing Lectures, Tutorials \tabularnewline
+& Role in Course:     & Lectures, Computing Lectures, Lab Sections \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
 & Office Hours:       & Wednesday, 2pm - 4pm \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
@@ -110,7 +110,7 @@ In particular, I expect the typical student to have the following characteristic
 \multirow{7}{*}{\missingfigure[figwidth=5cm]{Add an image \ldots}} & 
   Name:               & FIXME \tabularnewline
 & Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
-& Role in Course:     & Tutorials \tabularnewline
+& Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{FIXME}{FIXME} \tabularnewline
 & Office Hours:       & FIXME \tabularnewline
 & Office Hour Format: & FIXME \tabularnewline
@@ -118,6 +118,35 @@ In particular, I expect the typical student to have the following characteristic
 \bottomrule
 \end{tabular}
 \end{table}
+
+**Instructor Office Hours**
+
+We are here to help you through the course & want you meet your expectations and personal learning goals.
+To that end, the instructors have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
+Please make a booking using the links provided above.
+If you cannot make the scheduled office hours, talk to us and propose three times to meet and we will try and make it work.
+
+Notes for scheduling with Lachlan: 
+
+* After you book a time slot, a calendar invite will be sent to your email automatically. 
+    You *must* accept this invite.
+    Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
+* If you plan to meet in person, you can ignore the Zoom link and head to his office. 
+    Please notify Lachlan that you intend to meet in person using the 'Additional Information' section of the Booking Tool.
+
+Notes for scheduling with Gijs:
+
+* On the booking page, a link to Gijs's Zoom meeting room is included.
+    Copy down this link so you can join the scheduled meeting.
+
+We expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
+If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
+
+*Office Hours are subject to "fair and equitable use".*
+
+**Additional Support**
+
+If you need support outside of this course, please refer to the following website: \url{https://www.tilburguniversity.edu/students/tutoring}
 
 # Pedagogy
 
@@ -336,41 +365,6 @@ Assignments and Projects must be submitted before the deadline.
 If you submit one assignment late, you will be penalized by 25 percent per calendar day.
 This penalty applies to an entire group where applicable.
 After the first late submission, you will get zero points on all subsequent late submissions.
-
-# Office Hours
-
-We are here to help you through the course & want you meet your expectations and personal learning goals.
-To that end, the instructors have scheduled consultation hours each week for you to meet us and discuss aspects of the lecture material, lab sessions and assignments that you are struggling with.
-The office hours are:
-
-\begin{table}[h!]
-\begin{center}
-\begin{tabular}{lccc}
-Name:               & Lachlan Deer &  & Hendrik de With \\
-Office Location:    & Zoom       &  & Zoom              \\
-Consultation Hours: & Thursday, 10am - 12.30pm  &  & Wednesday, 2pm - 4pm            \\
-Link to Book Slot:  & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here}      &  & \href{https://calendly.com/h-j-c-dewith/15min}{Click Here}            
-\end{tabular}
-\end{center}
-\end{table}
-
-If you plan on coming to our scheduled hours, please make a booking using the links provided.
-If you cannot make the scheduled office hours, talk to us on Slack and propose three times to meet and we will try and make it work.
-Office Hours are subject to a "fair and equitable use" policy.
-
-Notes for scheduling with Lachlan: 
-
-* After you book a time slot, a calendar invite will be sent to your email automatically. 
-    You *must* accept this invite.
-    Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
-
-Notes for scheduling with Hendrik:
-
-* On the booking page, a link to Hendrik's Zoom meeting room is included.
-    Copy down this link so you can join the scheduled meeting.
-
-We expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
-If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
 
 # Rules of the Game
 
