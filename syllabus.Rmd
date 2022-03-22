@@ -246,6 +246,11 @@ Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab 
 \end{footnotesize}
 \end{table}
 
+\textbf{Class Dates and Times}.
+
+Due to public holidays, class times move around quite a bit week to week.
+Frequently check the Rooster Timetabling tool to get the class dates, times and locations each week.
+
 \textbf{Weekly Readings.}
 
 Each week we will read 2-3 academic papers which will be discussed in the Video Lecture and form the base of the group presentations.
