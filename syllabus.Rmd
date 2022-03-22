@@ -102,7 +102,7 @@ In particular, we expect the typical student to have the following characteristi
 \addlinespace
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/lachlandeer.jpg}} & 
   Name:               & Lachlan Deer \tabularnewline
-& Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
+& Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lectures, Computing Lectures, Lab Sections \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
 & Office Hours:       & Wednesday, 2pm - 4pm \tabularnewline
@@ -111,7 +111,7 @@ In particular, we expect the typical student to have the following characteristi
 \midrule
 \multirow{7}{*}{\missingfigure[figwidth=5cm]{Add an image \ldots}} & 
   Name:               & FIXME \tabularnewline
-& Contact:            & \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
+& Contact:            & via Slack \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{FIXME}{FIXME} \tabularnewline
 & Office Hours:       & FIXME \tabularnewline
