@@ -616,22 +616,71 @@ We stick closely with the School's Fraud and plagiarism policies which are outli
 
 # Readings
 
-We will combine material from two books and recent academic papers.
-All readings from books are optional.
+We will combine material from one book and recent academic papers.
 
 ## Books
 
-The course uses readings from the following books:
+The course uses readings from the following book:
 
-* XXXXX
+* \href{https://www.tidytextmining.com/index.html}{Tidy Text Mining with R} by Julia Silge and David Robinson
 
 We will provide specific details about which chapters to review in advance of each week on the course website.
+The book is freely available using the web link.
 
-## Papers
+## Papers and Additional Notes.
 
-A list of required and optional readings from the academic literature will be provided in advance of each week on the course website.
+A list of required and optional readings from the academic literature is provided below.
+Required Readings are denoted with a double star, **.
+Links to each text are available on the course website.
+Additional lecture notes will be provided as needed and be made available on the course website.
 
+### Week 1
 
+** Appel, G., Grewal, L., Hadi, R. et al. (2020) The future of social media in marketing. J. of the Acad. Mark. Sci. 48, 79–95.
+
+** Toubia, Olivier & Stephen, Andrew. (2013). Intrinsic vs. Image-Related Utility in Social Media: Why Do People Contribute Content to Twitter?. Marketing Science. 32. 368-392. 
+
+** Chen, X., Li, X., Yao, D. et al. (2019) Seeking the support of the silent majority: are lurking users valuable to UGC platforms?. J. of the Acad. Mark. Sci. 47, 986–1004.
+
+### Week 2
+
+** Goldfarb, A., Tucker, C., & Wang, Y. (2022). Conducting Research in Marketing with Quasi-Experiments. Journal of Marketing.
+
+### Week 3
+
+** CABRAL, L. and HORTAÇSU, A. (2010), THE DYNAMICS OF SELLER REPUTATION: EVIDENCE FROM EBAY. The Journal of Industrial Economics, 58: 54-78
+
+** Michael Luca, Georgios Zervas (2016) Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud. Management Science 62(12):3412-3427.
+
+** Chen, W., Gu, B., Ye, Q., & Zhu, K. X. (2019). Measuring and managing the externality of managerial responses to online customer reviews. Information Systems Research.
+
+### Week 4
+
+** Stephan Seiler, Song Yao, Wenbo Wang (2017) Does Online Word of Mouth Increase Demand? (And How?) Evidence from a Natural Experiment. Marketing Science 36(6):838-861.
+
+** Lachlan Deer, Pradeep K Chintagunta, Gregory S Crawford (2019) Online Word of Mouth and the Performance of New Products. Working Paper.
+
+### Week 5
+
+** Aral S, Walker D. (2012) Identifying influential and susceptible members of social networks. Science.;337(6092):337-41.
+
+** Zhang W, Chintagunta PK, Kalwani MU. (2021) Social Media, Influencers, and Adoption of an Eco-Friendly Product: Field Experiment Evidence from Rural China. Journal of Marketing. 85(3):10-27.
+
+** Daniel Ershov, Matthew Mitchell. (2020) The Effects of Influencer Advertising Disclosure Regulations: Evidence From Instagram. Working Paper
+
+### Week 6
+
+** Tellis, G. J., MacInnis, D. J., Tirunillai, S., & Zhang, Y. (2019). What Drives Virality (Sharing) of Online Digital Content? The Critical Role of Information, Emotion, and Brand Prominence. Journal of Marketing, 83(4), 1–20.
+
+** Borah, A., Banerjee, S., Lin, Y.-T., Jain, A., & Eisingerich, A. B. (2020). Improvised Marketing Interventions in Social Media. Journal of Marketing, 84(2), 69–91.
+
+### Week 7
+
+** Brett R. Gordon, Florian Zettelmeyer, Neha Bhargava, Dan Chapsky (2019) A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook. Marketing Science 38(2):193-225
+
+** Gong, S., Zhang, J., Zhao, P., & Jiang, X. (2017). Tweeting as a Marketing Tool: A Field Experiment in the TV Industry. Journal of Marketing Research, 54(6), 833–850.
+
+** Lovett, M.J., Peres, R. & Xu, L. Can your advertising really buy earned impressions? The effect of brand advertising on word of mouth. Quant Mark Econ 17, 215–255 (2019).
 
 <!---
 ## Textbooks
