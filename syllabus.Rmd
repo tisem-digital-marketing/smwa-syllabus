@@ -293,7 +293,7 @@ Each group will consist of 4 students and may include students who are not part 
 The topics for the group assignments are:
 
 * Technical Assignment 1: Evaluating & Managing Online Reputation.
-    * We will use data from Trip Adviser and some supplementary sources to examine how management responses to review impact online reputation.
+    * We will use data from Trip Adviser and some supplementary sources to examine how management responses to reviews impact online reputation.
     * Main analysis toolkit: Linear Regression & Causal Inference
 * Technical Assignment 2: Analyzing Social Media Text.
     * We use publicly available tweets about US airlines to track consumer sentiment and discussion topics.
