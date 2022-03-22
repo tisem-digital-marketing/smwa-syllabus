@@ -323,7 +323,7 @@ The structure of these presentations and discussions are as follows:
   * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to ask at least 1 question.
   * There will be 5 minutes of additional questions from the instructor and wider class participants.
 
-After their presentation, student's are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakeness and areas for improvement.
+After their presentation, students are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakeness and areas for improvement.
 This is due by Friday by 23:59 of the week the student presents.
 
 Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
@@ -809,3 +809,10 @@ I’m more than happy to pay it forward.
 I only ask two small favours. 
 1) Please let me know (email/Twitter) if you do use material from this course, or have found it useful in other ways. 
 2) A minor acknowledgment somewhere in your own syllabus or notes would be much appreciated.
+
+# Acknowledgments
+
+Lachlan wishes to thank Shrabastee Banerjee, Anick Bosmans, Gijs van Bussel, Hannes Datta and Hendrik de With for their comments on various versions of this syllabus, and for making their own syllabi available.
+I have occasionally borrowed from each of them quite liberally.
+I also want to thank students from the 2021 edition of this class, for their questions and comments which have improved the clarity of various sections of text.
+Any errors, omissions and slips in the clarity of text remain are my own.
