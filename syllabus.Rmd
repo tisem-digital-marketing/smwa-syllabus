@@ -425,7 +425,24 @@ Please look over the material *before* the first class.
 
 # Course Communication
 
-TBD
+The main channel for discussion with the instructors and with your peers will take place on the Slack messaging platform.
+
+* Sign up to our \href{https://tisem-smwa.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
+* Log in once you have created an account.
+
+Contact us via email if you cannot sign up or log in.
+
+\textbf{Slack vs Email.}
+
+The instructors prefer that your first point of contact with us and your peers is on Slack.
+For general queries, public messages are preferred since your classmates can gain from the information.
+If you need to reach out to the instructors directly, Slack has direct messages which we encourage you to use. 
+
+If absolutely necessary, the course email address is \href{tisem.social.media@gmail.com}{tisem.social.media@gmail.com}.
+Do not send emails to the instructor personal accounts - they will not be answered. 
+Please write all emails in English so that nothing is "lost in translation".
+
+We aim to reply to Slack and emails within 48 hours from Monday to Friday, but there might be a slight delay of you write to us late Friday evening.
 
 # Rules of the Game
 
