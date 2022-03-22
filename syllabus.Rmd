@@ -246,7 +246,7 @@ Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab 
 \end{footnotesize}
 \end{table}
 
-\textbf{Class Dates and Times}.
+\textbf{Class Dates, Times and Locations}.
 
 Due to public holidays, class times move around quite a bit week to week.
 Frequently check the Rooster Timetabling tool to get the class dates, times and locations each week.
