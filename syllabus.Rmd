@@ -286,7 +286,7 @@ Grades from a previous attempts do not carry over to the current semester.
 
 ## Group Technical Assignments (30 percent)
 
-There will be 2 group assignments worth equal weight. 
+There will be 2 group assignments worth equal weight, 15\% per assignment. 
 To pass the assignment, each group member needs to have made a substantial contribution to the project. 
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
 
@@ -308,23 +308,76 @@ Further information on technical assignments will be distributed closer to their
 
 ## Group Presentations and Panel Discussion (20 percent)
 
-Main Points: 
+Students are required to participate in two (2) group presentations and panel discussions over duration of the class.
+Each of the two presentation and panels are weighted at 10\% of your final grade.
+These presentations will take place in the weekly Lab Sections, beginning in the second week.
+Groups will be randomly assigned within a Lab Section's enrolment, with 4 or 5 students per group.
+The groups for both presentations will be made available no later than after the first class. 
 
-Max 15 minute presentation
-10 Min Q&A from panel 
-5 Min Q&A from audience
+The structure of these presentations and discussions are as follows:
+
+* Theme / Topic: set by instructors. Assigned topics will be available on the course website before the course begins.
+* Format:
+  * Each week two groups will present (Group 1 and Group 2). The order of presentations will be randomly decided.
+  * Each group will present for 15 minutes.
+  * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to ask at least 1 question.
+  * There will be 5 minutes of additional questions from the instructor and wider class participants.
+
+After their presentation, student's are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakeness and areas for improvement.
+This is due by Friday by 23:59 of the week the student presents.
+
+Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
+
+\begin{align*}
+\textrm{Presentation grade} &= 0.75 \times \textrm{Group Presentation} + 0.15 \times \textrm{Questions Asked} \\
+                            &+  0.1 \times \textrm{Individual Reflection}
+\end{align*}
+
+The presentation topics will be focused around distilling managerial and marketing implications from the academic literature you are reading for the class.
+When preparing your presentation target the material around the idea you are presenting your findings to a meeting at a company that uses data-driven results to design their marketing activities.
+Example companies include, but aren't limited to Amazon, Google, Facebook and Booking.com.
+Also assume that you are presenting to a mix of (Marketing) Data Scientists, Product Managers, Economists and Executives. 
+This implies presentations themselves should not be overly technical, but you should be comfortable fielding technical questions in the discussion if they arise.
+There should be a focus on clear and actionable strategic decisions.
+
+*Note*: There is no need to "dress up" for the presentation. 
+Dress comfortably and as casually as you feel comfortable.
+Hoodies and jeans are OK. 
 
 ## Final Exam (50 percent)
 
-## Bonus points for participation
+The final exam will be a closed book exam written with pen/pencil and paper and will be three (3) hours in duration. 
+Questions in the exam will come from all aspects of the course material: lectures, assignments and required readings. 
+The written exam may include questions around computer / statistical code, so be prepared to provide answers that require you to write short code snippets or explain what a piece of code is doing.
+
+The exam will be split into three components as follows: 
+
+* PART A: True/False/Uncertain with an explanation (20%), 
+* PART B: Short answer questions (40%), and 
+* PART C: An open-ended/essay style question (40%)
+
+More details on the exam will be provided in due course.
+
+## Lab Assignments (Ungraded)
+
+Each week there is an ungraded Lab Assignment for you to work on and develop your analytical and coding skills.
+They will involve a mix of coding, conceptual questions around the methods, and marketing implications of the output.
+We expect you to work on these assignments using `R`.
+The assignments are designed to be "self-guided", and are split into multiple sub-questions that help you progress through a larger problem sequentially.
+Expect to dedicate substantial time to each lab assignment, approx. 4 hours per week outside of class time. 
+This time is well spent as you're acquiring a skill set to help you through the Group Technical Assignments and on the Final Exam.
+You are encouraged to work on these assignments together with your peers.
+
+Selected answers to the Lab Assignments will be posted on the course website with a one week lag, i.e. Week 1's answers will be provided in Week 2 of the course.
+We will also devote 30 minutes of each Lab Section to talk over specific parts of the assignments.
+What we cover in this part of the Lab Section will be decided by both student requests and the instructor's own decision making. 
+
+## Bonus Point for Active Participation
 
 We want to encourage and incentivize active participation in class and to do so we offer the opportunity to increase your course grade by 1 point (equivalent to 10%) for consistent and productive participation.
 This will be measured by your interactions in class through engaging in discussion and asking questions, as well as participating in short in-class quizzes. 
 Note that despite the possibility of accumulating bonus points, the maximum grade point of this course is still a 10. 
 In the unlikely event that you are close to attaining, or have already attained the maximum grade point (e.g., a 9.5 or a 10) before the addition of the bonus points, it will NOT be possible for you to incorporate all (or if not, not at all) the bonus points that you have accumulated.
-
-## Lab Assignments (Ungraded)
-
 
 <!---
 ## Group Formation
