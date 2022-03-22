@@ -346,6 +346,17 @@ This means that your grade may go up or down, depending on what is found during 
 
 ### Missed Group Presentations
 
+If you are unable to attend a Lab Section in which you are scheduled to present as part of a group presentation due to illness or compassionate grounds there are two alternatives:
+
+1. Join the Lab Section via Zoom and present online.
+2. Write a 1,000 word individual essay. 
+  - The essay should answer the same prompt as you were assigned in the group presentation and is due by Friday at 23:59 on the week of your presentation unless an alternative deadline is agreed upon due to compassionate grounds. 
+
+In either situation you should:
+
+* Inform your group members as soon as possible so they can adjust the group's presentation, and
+* Notify the instructor of your section at least 30 minutes in advance of the sessions start time so we can figure out a Zoom connection
+
 ### Late Submission
 
 Technical Assignments must be submitted before the deadline.
