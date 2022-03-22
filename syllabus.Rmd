@@ -169,7 +169,58 @@ Refresher material for this content is provided as part of the course preparator
 
 # Pedagogy
 
+The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections), hands-on assignments and presentations.
+We will strive to balance practical aspects of the material with a theoretical understanding of the concepts and frameworks involved.
+Each week we will have video lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
+Bi-weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a marketing data scientist" in situ.
+In addition there are group projects *and* group presentations where students work together to demonstrate their understanding as applied to specific problems. 
+A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
+\textbf{Video Lectures.}
+
+Each week there will be 90-120 minutes of video lectures split into shorter chunks.
+Links to these videos are available on the course web page.
+These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
+You are encouraged to watch these in your own time, early in the week before Lab Sections.
+Content of the presentations with the same week's Lab Section will build from this content.
+
+\textbf{Computing Lectures.}
+
+Four (4) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
+The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
+These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
+How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
+
+\textbf{Lab Sections.}
+
+Weekly Lab Sections (90 minutes) start in the first week with a hands-on introduction to getting and visualizing social media data.
+Beginning in the second week the structure will be as follows: Student Presentations (2 $\times$ 30 mins) and discussion of the preceeding week's Lab Assignment (30 mins).
+These sections are designed to be interactive and work as a main platform for developing your skill set under the guidance of the course instructors. 
+Bring your questions!
+Further information about student presentations and lab assignments can be found in the Assessment section of this syllabus.
+
+\textbf{Assessment.}
+
+Further details in the course assessment can be found in the Assessment section of this syllabus.
+
+\textbf{Group Work.}
+
+There are four (4) instances of group work in this class.
+The instructors firmly believe in the merits of group work for enhancing learning and building a professional mindset.
+Groups are randomly assigned in this course.
+This mirrors aspects of working "on the job" where teams come from diverse backgrounds and its not always possible to work with friends.
+Group work also involves explaining and re-explaining concepts among team members which is a to re-enforce one's own understanding of a concept.
+
+\textbf{COVID-19 \& Course Attendance.}
+
+Students are encouraged to attend all in person classes.
+An obvious exception to this is when students have either tested positive for COVID-19 or have symptoms of COVID-19.
+In either situation students should stay home and either join the class on Zoom (where available) or reach out to your peers for notes and updates.
+Students are also encouraged to "self-test" each day before coming to class, to minimize the spread of COVID-19 among students and faculty.
+
+Although face masks are not required by the government or university to attend classes, the instructors strongly encourage the wearing of face masks in classroom environments.
+We will supply a limited quantity of single-use surgical face masks in class. 
+You are encouraged to either wear your own, or take a fresh one.
 
 # Course Schedule
 
@@ -208,6 +259,8 @@ Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab 
 \end{tabular}
 \end{footnotesize}
 \end{table}
+
+\newpage
 
 \textbf{Class Dates, Times and Locations}.
 
