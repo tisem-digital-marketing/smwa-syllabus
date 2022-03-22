@@ -545,7 +545,7 @@ We aim to reply to Slack and emails within 48 hours from Monday to Friday, but t
 # Rules of the Game
 
 I have clear expectations of how we should all interact in class and in meetings.
-They are summarized by the "7 Be's" below:
+They are summarized by the "8 Be's" below:
 
 ## Be Active
 
