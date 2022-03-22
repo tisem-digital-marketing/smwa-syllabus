@@ -471,15 +471,20 @@ Reading / Note taking            & 7            & 4                             
 
 ## Access to Materials and Assessment
 
+### Course website
+
+All course materials will be distributed on the \href{tisem-digital-marketing.github.io/2022-smwa/}{course website}.
+Check there regularly for updates.
+
 ### Canvas
 
-TBD
+Canvas will only be used for releasing grades, and allocation of students to groups for assessment pieces. 
+No course material will be posted on Canvas.
 
 ### GitHub Classroom
 
-I am going to run the course through GitHub Classroom. 
-You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to say that this is how we’ll submit assignments and provide feedback, etc.
-Canvas will only be used to submit weekly quiz solutions, distribute grades, and registration of teams for group assignments.
+We are going distribute Graded Assignments and Lab Assignments through GitHub Classroom. 
+You will receive an email invitation to the course organization with instructions in due time, but for now it suffices to say that this is how we'll submit assignments and provide feedback, etc.
 
 ## Computing
 
@@ -487,33 +492,33 @@ This course is an analytics course, and as such we aim to use, understand and de
 Large portions of the course will be *'hands-on'* and we will be using the statistical software `R` to demonstrate and apply methods and concepts in class.
 
 All of the software requirements for this course are open-source and/or free. 
-Please aim to have everything installed by the start of our first lecture.
+Please aim to have everything installed on your own computer by the start of our first lecture.
 
 *We will be available for installation troubleshooting during the first week of the course.*
-*You can sign up for to get installation help via our office hour sign-up links (see below).*
+*You can sign up for to get installation help via our office hour sign-up links.*
 
-## R & RStudio
+\textbf{R \& RStudio.}
 
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
-Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2021-smwa-installation-guide/) (they differ slightly by operating system):
+Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/) (they differ slightly by operating system):
 
-After installing R and RStudio I suggest you get acquainted with the interface and basic data analysis commands before the first class.
+After installing R and RStudio we suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
-The suggested modules can be found on the [course webpage](https://tisem-digital-marketing.github.io/2021-smwa/) under 'Course Preparation'.
+The suggested modules can be found on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
 Please look over these *before* the first class.
 
-## Improving Reproduciblity of our Analysis with Git and GitHub
+\textbf{Improving Reproduciblity of our Analysis with Git and GitHub.}
 
-In addition to helping you gain analytics skills using `R`, I want to help you improve the reproducibility of your computational analysis - i.e. I want you to document your code and the changes you make to it.
+In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. weI want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2021-smwa-installation-guide/).
+* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/).
 * Also register for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
   ]
 
-As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2021-smwa/) under 'Course Preparation'.
+As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
 Please look over the material *before* the first class.
 
 # Course Communication
