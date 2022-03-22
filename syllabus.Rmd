@@ -9,7 +9,7 @@ geometry: margin=0.85in
 
 title: "Social Media and Web Analytics"
 author:
-    - Lachlan Deer
+    - Dept of Marketing @ Tilburg University
 semester: "Block 4 (Spring), 2022"
 updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
@@ -56,10 +56,10 @@ This course will combine foundational material with examples from the social wor
 
 To answer these questions, the course is split into four substantive modules:
 
-1. **Network Patterns:** which seeks to describes and explain several common patterns found in real-world social networks,
-2. **Online Reputation:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Word of Mouth & Influencers:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
-4. **Advertising and Marketing:** which focuses on viral marketing and social advertising techniques.
+1. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
+2. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
+3. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
+4. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
 
 During these modules we will focus on extracting insights from the recent academic literature as well as learning and then leveraging an analytics toolkit comprising linear regression, causal inference, text analytics and social network analysis. 
 
@@ -150,7 +150,7 @@ If either of us feel you have come unprepared, we reserve the right to end the a
 
 If you need support outside of this course, please refer to the following website: \url{https://www.tilburguniversity.edu/students/tutoring}
 
-# Position in the Program
+# Position in the (wider) Program
 
 Social Media and Web Analytics is meant to offer Marketing Analytics students an overview of the tools and techniques most frequently used when analysing social media and web data.
 These tools are widely adopted across firms (traditional and modern), providing  students an opportunity to develop their quantitative skills in digital marketing should they wish to work as a marketing analyst. 
@@ -208,7 +208,7 @@ Because we are adapting this course to an online format, we reserve the right to
 
 All the videos, documents and (where appropriate) weblinks will be made available on the course website and via GitHub.
 
-# Schedule
+# Course Schedule
 
 The following is a tentative course schedule.
 Check back regularly for updates.
@@ -224,27 +224,145 @@ Check back regularly for updates.
 | 6    | Viral Marketing                       | Text Analytics II                      |                                  |
 | 7    | Social Advertising                    | TBA                                    | Assignment 2 & Final Project |
 
-# Readings
+NOTE ON READINGS
 
-We will combine material from two books and recent academic papers.
-All readings from books are optional.
+# Assessment
 
-## Books
+There are five pieces of graded assessment due throughout the course:
 
-The course uses readings from the following books:
+\begin{table}[h!]
+\begin{center}
+\begin{tabular}{lccc}
+\toprule
+Graded Assessment                  & Weight (\%)      & Min. Pass Grade     & Resit?               \\
+\midrule
+Group Technical Assignment 1       & 15               & -                   & No                   \\
+Group Technical Assignment 2       & 15               & -                   & No                   \\
+Group Presentation 1 \& Panel      & 10               & -                   & No                   \\
+Group Presentation 2 \& Panel      & 10               & -                   & No                   \\
+Final Exam                         & 50               & 5.0                 & Yes, 1 x in July     \\
+\midrule
+\multicolumn{4}{l}{\textbf{To pass the course}: Final Course Grade (weighted average) \textbf{ $\geq$ 5.5. } } \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
 
-* *Networks, Crowds and Markets: Reasoning About a Highly Connected World*, by David Easley and Jon Kleinberg
-* *Networks: An Introduction* by Mark Newman
+In addition there are weekly, ungraded "Lab Assignments" to help you develop your knowledge around the course content.
 
-We will provide specific details about which chapters to review in advance of each week on the course website.
+**Course Repeaters**: Students repeating Social Media and Web Analytics must submit all assessment pieces to pass the course.
+Grades from a previous attempts do not carry over to the current semester.
 
-## Papers
+## Group Technical Assignments (30 percent)
 
-A list of required and optional readings from the academic literature will be provided in advance of each week on the course website.
+There will be 2 group assignments worth equal weight. 
+To pass the assignment, each group member needs to have made a substantial contribution to the project. 
+The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
+
+Group assignments **must** be done in groups. 
+Students will be **randomly assigned** to groups before each assignment is released and groups for each assignment. 
+Each group will consist of 4 students and may include students who are not part of your Lab Section.
+<!--- Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the real world. --->
+
+The topics for the group assignments are:
+
+* Technical Assignment 1: Evaluating & Managing Online Reputation.
+    * We will use data from Trip Adviser and some supplementary sources to examine how management responses to review impact online reputation.
+    * Main analysis toolkit: Linear Regression & Causal Inference
+* Technical Assignment 2: Analyzing Social Media Text.
+    * We use publicly available tweets about US airlines to track consumer sentiment and discussion topics.
+    * Main analysis toolkit: Natural Language Processing
+
+Further information on technical assignments will be distributed closer to their issue.
+
+## Group Presentations and Panel Discussion (20 percent)
+
+Main Points: 
+
+Max 15 minute presentation
+10 Min Q&A from panel 
+5 Min Q&A from audience
+
+## Final Exam (50 percent)
+
+## Lab Assignments (Ungraded)
 
 
+<!---
+## Group Formation
 
-# Computing
+This course has two assignments which **must** be done in groups. 
+Students will be **randomly assigned** to groups before the each assignment is released, i.e. the groups will change between assignments. 
+Each group will consist of 5 students.
+
+Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
+---> 
+## Grading Policies 
+
+### Regrade Policy for Technical Assignments
+
+If you believe an error has been made in grading your assignments, you may request a re-grade. 
+The request must be in writing, must explain the exact concern, and must occur within 7 calendar days of when the graded materials were returned or when the final course grade is posted. 
+I reserve the right to re-grade the entire contents of any submitted assignment. 
+This means that your grade may go up or down, depending on what is found during the re-grade.
+
+### Missed Group Presentations
+
+### Late Submission
+
+Technical Assignments must be submitted before the deadline.
+Late submissions will be penalized by 25 percent per calendar day.
+This penalty applies to an entire group.
+
+# Study Load 
+
+Planning your workload over the semester (even tentatively) can help to alleviate stress and pressure around deadlines and exams.
+The table below presents an estimated split of how your study time should be allocated in this class.
+We hope this helps you allocate time more efficiently within this class, and when juggling multiple classes.
+
+\begin{table}[!h]
+\begin{tabular}{lccc}
+\toprule
+Activity                         & No. Sessions & Estimated Workload                   & Estimated Workload        \\
+                                 &              & per Session (Hours)                  & (Hours)                   \\
+\midrule
+\textbf{(A) Graded Assessments}  &              &                                      &                            \\
+Group Technical Assignment       & 2            & 15                                   & 30                         \\
+Group Presentation \& Panel      & 2            & 10                                   & 20                         \\
+Exam Preparation                 & 1            & 30                                   & 30                         \\
+\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{80}                \\
+\midrule
+\textbf{(B) Class Time}          &              &                                      &                            \\
+Video Lectures                   & 7            & 2                                    & 14                         \\
+Computing Lectures               & 4            & 2                                    & 8                          \\
+Tutorials                        & 7            & 2                                    & 14                         \\
+\textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{36}              \\
+\midrule
+\textbf{(C) Self Study}          &              &                                      &                            \\
+Lab Assignments                  & 6            & 4                                    & 24                         \\
+Reading / Note taking            & 7            & 4                                    & 28                         \\
+\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{52}                \\
+\midrule
+\textbf{Total Study Time} (A) + (B) + (C) &              &                             & \textbf{168 (6 ECTS)}           \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+# Class Technology
+
+## Access to Materials and Assessment
+
+### Canvas
+
+TBD
+
+### GitHub Classroom
+
+I am going to run the course through GitHub Classroom. 
+You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to say that this is how we’ll submit assignments and provide feedback, etc.
+Canvas will only be used to submit weekly quiz solutions, distribute grades, and registration of teams for group assignments.
+
+## Computing
 
 This course is an analytics course, and as such we aim to use, understand and develop computational routines that help managers and marketers make better decisions.
 Large portions of the course will be *'hands-on'* and we will be using the statistical software `R` to demonstrate and apply methods and concepts in class.
@@ -279,103 +397,9 @@ To help achieve this goal we will use a version control software called `Git` an
 As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2021-smwa/) under 'Course Preparation'.
 Please look over the material *before* the first class.
 
-### GitHub Classroom
+# Course Communication
 
-I am going to run the course through GitHub Classroom. 
-You will receive an email invitation to the course repo with instructions in due time, but for now it suffices to say that this is how we’ll submit assignments and provide feedback, etc.
-Canvas will only be used to submit weekly quiz solutions, distribute grades, and registration of teams for group assignments.
-
-# Evaluation
-
-## Weekly Quizzes (5 percent)
-
-Each week there will be a quiz that recaps the course material from the current week.
-You must complete the quizzes by 23:59 Central European Time on each Friday.
-We will allow you to re-try the quiz each week up to *three* times.
-We use your 5 best completed weekly quiz grades to compute your final grade. 
-There is absolutely no make up for these quizzes.
-
-## Homework Assignments (40 percent)
-
-There will be 2 group assignments worth equal weight. 
-To pass the assignment, each group member needs to have made a substantial contribution to the project. 
-The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
-
-Group assignments **must** be done in groups. 
-Students will be **randomly assigned** to groups before each assignment is released, i.e. the groups will change between assignments. 
-Each group will consist of 4 students.
-Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
-
-
-<!---
-The topics for the group assignments are:
-
-* Group Assignment 1: Evaluating & Managing Online Reputation.
-    * We will use data from Trip Adviser and some supplementary sources.
-* Group Assignment 2: Advertising on Facebook & Analysing Facebook Ads.
-    * We use publicly available data provided by Facebook to explore advertising effectiveness on their platform.
---->
-
-Further information on group assignments will be distributed closer to their issue.
-
-## Course Project (55 percent)
-
-You  must develop a project on a topic related to social media analytics that *has marketing implications* (broadly defined) that interests you. 
-The final submission of the report has three features: 
-  (1) a written report of a max. 7 pages, 
-  (2) the underlying code & data to produce the report, and 
-  (3) a 5 minute video presentation of your research.
-
-The project should have the following characteristics:
-
-* There should be a clear motivation. You should be trying to solve a question that matters, either to society or business.
-* You should do a thorough survey of the relevant literature. This includes articles from the popular press as well as from scholarly sources such as academic journals.
-* Your report and video presentation should briefly organize this literature survey, and summarize your main insights and findings.
-
-To assist you design your project with these characteristics, I have broken the project into three milestones: 
-
-* Milestone 1: Proposal and Data Collection
-* Milestone 2: Literature review, and a motivating figure or table using the data, and
-* Milestone 3: the final report, video presentation and underlying code and data. 
-
-Each milestone has different due dates *and* contributes to your final grade.
-
-The final grade for your project is computed as:
-
-$$\textrm{Project Grade} = 0.20 \times \textrm{Milestone 1} 
-                         + 0.20 \times \textrm{Milestone 2}
-                         + 0.60 \times \textrm{Milestone 3}
-                        $$
-
-The written part of each milestone must be based on the templates we will make available.
-These templates are designed to help you structure your submission to include the relevant information and do so in a concise manner.
-
-
-<!---
-## Group Formation
-
-This course has two assignments which **must** be done in groups. 
-Students will be **randomly assigned** to groups before the each assignment is released, i.e. the groups will change between assignments. 
-Each group will consist of 5 students.
-
-Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the *real world*.
----> 
-
-<!---
-## Regrade Policy
-
-If you believe an error has been made in grading your assignments, you may request a re-grade. 
-The request must be in writing, must explain the exact concern, and must occur within 7 calendar days of when the graded materials were returned or when the final course grade is posted. 
-I reserve the right to re-grade the entire contents of any submitted assignment. 
-This means that your grade may go up or down, depending on what is found during the re-grade.
---->
-
-## Late Submission
-
-Assignments and Projects must be submitted before the deadline.
-If you submit one assignment late, you will be penalized by 25 percent per calendar day.
-This penalty applies to an entire group where applicable.
-After the first late submission, you will get zero points on all subsequent late submissions.
+TBD
 
 # Rules of the Game
 
@@ -497,6 +521,25 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 \newpage 
 --->
 
+# Readings
+
+We will combine material from two books and recent academic papers.
+All readings from books are optional.
+
+## Books
+
+The course uses readings from the following books:
+
+* XXXXX
+
+We will provide specific details about which chapters to review in advance of each week on the course website.
+
+## Papers
+
+A list of required and optional readings from the academic literature will be provided in advance of each week on the course website.
+
+
+
 <!---
 ## Textbooks
 
@@ -603,6 +646,20 @@ Case studies will be provided as an online course pack [here]().
 [Improvised Marketing Interventions in Social Media](https://journals.sagepub.com/doi/10.1177/0022242919899383)
 
 --->
+
+# The Tilburg University Code of Conduct
+
+Tilburg University has a Code of Conduct that all employees and students of Tilburg University are expected to follow. 
+Please read the \href{https://www.tilburguniversity.edu/about/conduct-and-integrity/code-conduct}{Code of Conduct} from Tilburg University.
+
+Social Media and Web Analytics' own Code of Conduct, Social Rules and 8 Be's are designed to encompass principles within this code, but where differences may occur are super-seeded by Tilburg's own Code of Conduct. 
+
+# Academic Integrity @ Tilburg U
+
+Cheating, plagiarism, and/or doing work for another person who will receive academic credit are all impermissible. 
+This includes the use of unauthorized books, notebooks, or other sources in order to secure or give help for an assignment or the presentation of unacknowledged material as if it were the student's own work. 
+Having unauthorized notes at your exam, cribbing from a fellow student, manipulating results and copying text from others without references are examples of fraud. Once fraud is suspected, the Examination Board will be informed accordingly. 
+Please refer to the \href{https://www.tilburguniversity.edu/about/conduct-and-integrity}{website} for more information.
 
 # FAQs
 
