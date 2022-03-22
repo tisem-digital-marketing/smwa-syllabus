@@ -614,54 +614,6 @@ If you are struggling with parts of a group assignment you are working on, talk 
 Being fair & honorable also means that you should not plagiarize others work.
 We stick closely with the School's Fraud and plagiarism policies which are outlined [here](https://www.tilburguniversity.edu/students/studying/regulations/fraud/economics).
 
-<!---
-\begin{landscape}
-
-\section{Preliminary Schedule}
-
-The following is a preliminary schedule.
-It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
-
-\begin{table}[h!]
-\centering
-\begin{tabular}{lllll}
-\hline
-\multicolumn{1}{l}{Week} & \multicolumn{1}{l}{Lecture Topic}    & \multicolumn{1}{l}{Web Videos} & \multicolumn{1}{l}{Lab Session} & \multicolumn{1}{l}{Assignments} \\ \hline
-\multirow{2}{*}{0}         & \multirow{2}{*}{(Before First Class)} & Course Introduction             & R Introduction*                  & \multirow{2}{*}{Working with R*} \\
-                           &                                       & Introduction to R               & Exploratory Data Analysis*       &                                  \\
-                           &                                       & Introduction to Git             &                                  & Git Basics*                      \\
-                           \hline
-                           & \multicolumn{4}{l}{\textbf{Topic 1: Network Patterns}}                                                                                        \\
-                           \hline
-1                          & Social Network Patterns               &                                 & Describing \& Visualizing        &                                  \\
-                           &                                       &                                 & Network Data                     &                                  \\
-                           \hline
-                           & \multicolumn{4}{l}{\textbf{Topic 2: Branding \& Community}}                                                                                   \\
-                           \hline
-2                          & Online Reputation                     &                                 &  Regression: OLS \& Diff in Diff &  Group Assignment 1 released     \\
-3                          & Community Structure                   &                                 & Text Analytics: Basics          &  Project Proposals Due           \\
-                           \hline
-                           & \multicolumn{4}{l}{\textbf{Topic 3: Importance \& Influence}}                                                                                 \\
-                           \hline
-4                          & Epidemics, Gossip \& Word of Mouth    &                                 & Endogeneity: Instrumental Variables           &  Group Assignment 1 Due          \\
-5                          & Influencers                           &                                 & Simulating Network Evolution     &  Group Assignment 2 released     \\
-                           &                                       &                                 &                                  &  Project Lit. Review Due         \\
-                            \hline
-                           & \multicolumn{4}{l}{\textbf{Topic 4: Advertising \& Marketing}}                                                                                \\
-                           \hline
-6                          & Internet Marketing \& Viral Marketing &                                 &                                  &                                  \\
-7                          & Social Advertising                    &                                 &                                  &                                  \\
-8                          & {[}Final Exam?{]}                     &                                 &                                  &  Group Assignment 2 Due          \\
-                           &                                       &                                 &                                  &  Project Due                     \\
-\end{tabular}
-\end{table}
-
-\end{landscape}
-\restoregeometry
-
-\newpage 
---->
-
 # Readings
 
 We will combine material from two books and recent academic papers.
