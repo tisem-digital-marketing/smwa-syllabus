@@ -213,18 +213,44 @@ All the videos, documents and (where appropriate) weblinks will be made availabl
 The following is a tentative course schedule.
 Check back regularly for updates.
 
-| Week | Marketing Topic                       | Analytics Topic                        | Due Dates                        |
-|------|---------------------------------------|----------------------------------------|----------------------------------|
-| 0    |  Course Introduction          |   Using Git and R                              |                                  |
-| 1    | Social Media Networks                | Visualizing  Network Data              |                                   |
-| 2    | Online Reputation                     | Regression Review             |                                  |
-| 3    | Community Structure                   | Text Analytics I                       | Project Milestone 1              |
-| 4    | Word of Mouth                         | Endogeneity: Causes &  Solutions       | Assignment 1               |
-| 5    | Influencers                           | Simulating Network Evolution           | Project Milestone 2              |
-| 6    | Viral Marketing                       | Text Analytics II                      |                                  |
-| 7    | Social Advertising                    | TBA                                    | Assignment 2 & Final Project |
+\begin{table}[h!]
+\begin{footnotesize}
+\begin{tabular}{lccccc}
+\toprule
+Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab Assignment        & Due Dates    \\
+\midrule
+0    &                          &                     & Using Git and R   &                       &              \\
+\midrule
+1    & Social Media             & Course              & Twitter API \&    & Visualizing Social    &              \\
+     &  Landscape               & Introduction        & Networks I        & Media Data            &              \\
+\midrule
+2    & Regression \&            & -                   & Presentations \&  & Multiple              &              \\
+     & Causality                &                     & Lab Assign Review & Regression            &              \\
+\midrule
+3    & Online                   & Text Analytics I    & Presentations \&  & Difference in         &              \\
+     & Reputation               &                     & Lab Assign Review & Differences           &              \\
+\midrule
+4    & Word of Mouth            &  -                  & Presentations \&  & Text Analytics        & Group Tech   \\
+     &                          &                     & Lab Assign Review & \& Fake Reviews       & Assignment 1 \\
+\midrule
+5    & Influencers              & Text Analytics II   & Presentations \&  & Sentiment             &              \\
+     &                          &                     & Lab Assign Review &  Analysis             &              \\
+\midrule
+6    & Viral                    & -                   & Presentations \&  & Networks \&           &              \\
+     &  Marketing               &                     & Lab Assign Review & Influence             &              \\
+\midrule
+7    & Social                   & Networks II         & Presentations \&  & TBA                   & Group Tech   \\
+     & Advertising              &                     & Lab Assign Review &                       & Assignment 2 \\
+\bottomrule
+\end{tabular}
+\end{footnotesize}
+\end{table}
 
-NOTE ON READINGS
+\textbf{Weekly Readings.}
+
+Each week we will read 2-3 academic papers which will be discussed in the Video Lecture and form the base of the group presentations.
+In addition there may be additional lecture notes or book chapters assigned to aid your understanding of some statistical/numerical techniques and assist you when working through the Lab Assignments.
+A list of readings for each week is provided in the "Course Readings" section below, and links to these are available on the course website.
 
 # Assessment
 
