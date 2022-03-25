@@ -105,18 +105,18 @@ In particular, we expect the typical student to have the following characteristi
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lectures, Computing Lectures, Lab Sections \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
-& Office Hours:       & Wednesday, 2pm - 4pm \tabularnewline
+& Office Hours:       & Wednesday, 2pm - 4pm, Online or K 711 \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
 & Booking Link:       & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here} \tabularnewline
 \midrule
-\multirow{7}{*}{\missingfigure[figwidth=5cm]{Add an image \ldots}} & 
-  Name:               & FIXME \tabularnewline
-& Contact:            & via Slack \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
+\multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/gijs.jpg}} & 
+  Name:               & Gijs van Bussel \tabularnewline
+& Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
-& Profile:            & \href{FIXME}{FIXME} \tabularnewline
-& Office Hours:       & FIXME \tabularnewline
-& Office Hour Format: & FIXME \tabularnewline
-& Booking Link:       & \href{FIXME}{Click Here} \tabularnewline
+& Profile:            & \href{https://www.tilburguniversity.edu/staff/g-w-j-vanbussel}{Personal Webpage} \tabularnewline
+& Office Hours:       & Wednesday, 3 - 5pm, Room K 756 \tabularnewline
+& Office Hour Format: & In person, 15 min slots \tabularnewline
+& Booking Link:       & via Canvas Calendar \tabularnewline
 \bottomrule
 \end{tabular}
 \end{table}
@@ -138,8 +138,7 @@ Notes for scheduling with Lachlan:
 
 Notes for scheduling with Gijs:
 
-* On the booking page, a link to Gijs's Zoom meeting room is included.
-    Copy down this link so you can join the scheduled meeting.
+* Book a time using Canvas Calendar
 
 We expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
