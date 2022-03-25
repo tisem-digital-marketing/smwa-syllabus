@@ -181,7 +181,7 @@ Each week there will be 90-120 minutes of video lectures split into shorter chun
 Links to these videos are available on the course web page.
 These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
 You are encouraged to watch these in your own time, early in the week before Lab Sections.
-Content of the presentations with the same week's Lab Section will build from this content.
+<!---Content of the presentations with the same week's Lab Section will build from this content. --->
 
 \textbf{Computing Lectures.}
 
@@ -472,7 +472,7 @@ Reading / Note taking            & 7            & 4                             
 
 ### Course website
 
-All course materials will be distributed on the \href{tisem-digital-marketing.github.io/2022-smwa/}{course website}.
+All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2022-smwa/}{course website}.
 Check there regularly for updates.
 
 ### Canvas
