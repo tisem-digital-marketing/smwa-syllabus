@@ -345,7 +345,7 @@ This is due by Friday by 23:59 of the week the student presents.
 Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
 
 \begin{align*}
-\textrm{Presentation grade} &= 0.75 \times \textrm{Group Presentation} + 0.15 \times \textrm{Questions Asked} \\
+\textrm{Presentation grade} &= 0.8 \times \textrm{Group Presentation} + 0.1 \times \textrm{Questions Asked} \\
                             &+  0.1 \times \textrm{Individual Reflection}
 \end{align*}
 
