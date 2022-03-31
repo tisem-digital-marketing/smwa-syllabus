@@ -37,6 +37,10 @@ $endif$
 \usepackage{lastpage}
 \usepackage{multirow}
 \usepackage{pdflscape}
+\usepackage{array, booktabs}
+\usepackage{amsmath}
+\usepackage{todonotes}
+
 \renewcommand{\headrulewidth}{0.3pt}
 \renewcommand{\footrulewidth}{0.0pt} 
 \lhead{}
@@ -58,8 +62,7 @@ $endif$
 %\setitemize[0]{leftmargin=25pt}
 %\setenumerate[0]{leftmargin=25pt}
 
-% \usepackage{draftwatermark}
-
+\usepackage{draftwatermark}
 
 \makeatletter
 \@ifpackageloaded{hyperref}{}{%
@@ -137,7 +140,8 @@ $if(listings)$
 \usepackage{listings}
 $endif$
 
-% \usepackage{setspace}
+\usepackage{setspace}
+\onehalfspacing
 
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
@@ -166,11 +170,14 @@ $endif$
 
 	\noindent \begin{tabular*}{\textwidth}{ @{\extracolsep{\fill}} l @{\extracolsep{\fill}}}
 
-
+Course Code: $if(code)$\href{https://uvt.osiris-student.nl/\#/onderwijscatalogus/extern/cursus?collegejaar=huidig\&taal=en\&cursuscode=$code$}{\tt $code$}$else$TBD$endif$  \\
+ECTS Credits: $if(credits)$\texttt{$credits$}$else$TBD$endif$ \\ 
 E-mail: $if(email)$\texttt{$email$}$else$TBD$endif$ \\ 
 Web: $if(web)$\href{http://$web$}{\tt $web$}$else$TBD$endif$ \\
-Learning Mode: $if(mode)$$mode$$else$TBD$endif$ \\
-Dates: $if(dates)$$dates$$else$TBD$endif$  \\
+Learning Mode: $if(mode)$\texttt{$mode$}$else$TBD$endif$ \\
+Language: $if(lang)$\texttt{$lang$}$else$English$endif$ \\
+Dates: $if(dates)$\texttt{$dates$}$else$TBD$endif$  \\
+
 \\
 Last Updated: $if(updated)$$updated$$else$TBD$endif$ \\
 \\
