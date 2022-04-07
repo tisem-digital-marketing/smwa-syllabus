@@ -72,7 +72,7 @@ After the completion of the course you will be able to:
 2. Summarize state of the art knowledge from the academic marketing literature about social media's impact on marketing.
 3. Provide intuitive explanations of statistical concepts from the areas of linear regression, causal inference, natural language processing and network analytics
 4. Implement statistical analysis to analyze social media data using tools from linear regression, causal inference, natural language processing and network analytics
-5. Interpret their own and other's statistical analysis of social media data
+5. Interpret their own and others statistical analysis of social media data
 6. Prescribe Managerial and Marketing strategies to improve business performance based on analytical findings.
 7. Appraise and critique the assumptions behind statistical analysis of social media data in a given setting and propose alternative methodologies to improve existing analysis  
 
@@ -193,7 +193,7 @@ How we get from start to finish will play out based on the interaction and quest
 \textbf{Lab Sections.}
 
 Weekly Lab Sections (90 minutes) start in the first week with a hands-on introduction to getting and visualizing social media data.
-Beginning in the second week the structure will be as follows: Student Presentations (2 $\times$ 30 mins) and discussion of the preceeding week's Lab Assignment (30 mins).
+Beginning in the second week the structure will be as follows: Student Presentations (2 $\times$ 30 mins) and discussion of the preceding week's Lab Assignment (30 mins).
 These sections are designed to be interactive and work as a main platform for developing your skill set under the guidance of the course instructors. 
 Bring your questions!
 Participation and attendance in Lab Sections is mandatory, and in the event of multiple absences the instructors will be in touch to discuss your attendance.
@@ -327,7 +327,7 @@ Further information on technical assignments will be distributed closer to their
 Students are required to participate in two (2) group presentations and panel discussions over duration of the class.
 Each of the two presentation and panels are weighted at 10\% of your final grade.
 These presentations will take place in the weekly Lab Sections, beginning in the second week.
-Groups will be randomly assigned within a Lab Section's enrolment, with 4 or 5 students per group.
+Groups will be randomly assigned within a Lab Section's enrollment, with 4 or 5 students per group.
 The groups for both presentations will be made available no later than after the first class. 
 
 The structure of these presentations and discussions are as follows:
@@ -339,7 +339,7 @@ The structure of these presentations and discussions are as follows:
   * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to ask at least 1 question.
   * There will be 5 minutes of additional questions from the instructor and wider class participants.
 
-After their presentation, students are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakeness and areas for improvement.
+After their presentation, students are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakness and areas for improvement.
 This is due by Friday by 23:59 of the week the student presents.
 
 Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
@@ -508,7 +508,7 @@ Please look over these *before* the first class.
 
 \textbf{Improving Reproduciblity of our Analysis with Git and GitHub.}
 
-In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. weI want you to document your code and the changes you make to it.
+In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. we want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
 * To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/).
