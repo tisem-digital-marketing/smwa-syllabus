@@ -632,6 +632,7 @@ A list of required readings from the academic literature is provided below.
 <!---Required Readings are denoted with a double star, **. --->
 Links to each text are available on the course website.
 Additional lecture notes will be provided as needed and be made available on the course website.
+Some extra optional readings may be made available on the course website.
 
 ### Week 1
 
