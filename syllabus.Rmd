@@ -171,7 +171,7 @@ Refresher material for this content is provided as part of the course preparator
 The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections), hands-on assignments and presentations.
 We will strive to balance practical aspects of the material with a theoretical understanding of the concepts and frameworks involved.
 Each week we will have video lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
-Bi-weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a marketing data scientist" in situ.
+Bi-weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
 In addition there are group projects *and* group presentations where students work together to demonstrate their understanding as applied to specific problems. 
 A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
@@ -332,15 +332,15 @@ The groups for both presentations will be made available no later than after the
 
 The structure of these presentations and discussions are as follows:
 
-* Theme / Topic: set by instructors. Assigned topics will be available on the course website before the course begins.
+* Theme / Topic: set by instructors. Assigned topics will be available on the course website **two weeks before a scheduled presentation**.
 * Format:
-  * Each week two groups will present (Group 1 and Group 2). The order of presentations will be randomly decided.
+  * Each week two groups will present (for exaaple, Group 1 and Group 2). The order of presentations will be randomly decided.
   * Each group will present for 15 minutes.
-  * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to ask at least 1 question.
+  * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to contribute to the questions.
   * There will be 5 minutes of additional questions from the instructor and wider class participants.
 
-After their presentation, students are expected to write a 150-200 word reflection on their groups presentation commenting on strengths, weakness and areas for improvement.
-This is due by Friday by 23:59 of the week the student presents.
+After their presentation, students are expected to write a 150-200 (max!) word reflection on their groups presentation commenting on strengths, weakness and areas for improvement.
+This is due by Friday by 23:59 of the week that a student presents.
 
 Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
 
@@ -351,12 +351,16 @@ Student grades for the group presentation will be a weighted average of the grou
 
 The presentation topics will be focused around distilling managerial and marketing implications from the academic literature you are reading for the class.
 When preparing your presentation target the material around the idea you are presenting your findings to a meeting at a company that uses data-driven results to design their marketing activities.
-Example companies include, but aren't limited to Amazon, Google, Facebook and Booking.com.
+Example companies include, but aren't limited to Amazon, Google, Facebook, Zalando and Booking.com.
 Also assume that you are presenting to a mix of (Marketing) Data Scientists, Product Managers, Economists and Executives. 
-This implies presentations themselves should not be overly technical, but you should be comfortable fielding technical questions in the discussion if they arise.
+This implies presentations themselves should not be purely technical, but you should be comfortable fielding technical questions in the discussion if they arise.
 There should be a focus on clear and actionable strategic decisions.
 
-*Note*: There is no need to "dress up" for the presentation. 
+*Note 1*: You are strongly encouraged to use instructor office hours to aid your group presentations. 
+We recommend booking a slot the week before your presentation to talk to us about your presentation plans.
+We will be able to provide some feedback here to help you better craft your ideas. 
+
+*Note 2*: There is no need to "dress up" for the presentation. 
 Dress comfortably and as casually as you feel comfortable.
 Hoodies and jeans are OK. 
 
@@ -391,7 +395,7 @@ What we cover in this part of the Lab Section will be decided by both student re
 ## Bonus Point for Active Participation
 
 We want to encourage and incentivize active participation in class and to do so we offer the opportunity to increase your course grade by 1 point (equivalent to 10%) for consistent and productive participation.
-This will be measured by your interactions in class through engaging in discussion and asking questions, as well as participating in short in-class quizzes. 
+This will be measured by your interactions in class through engaging in discussion and asking questions, as well as participating in short (randomly assigned) in-class quizzes. 
 Note that despite the possibility of accumulating bonus points, the maximum grade point of this course is still a 10. 
 In the unlikely event that you are close to attaining, or have already attained the maximum grade point (e.g., a 9.5 or a 10) before the addition of the bonus points, it will NOT be possible for you to incorporate all (or if not, not at all) the bonus points that you have accumulated.
 
