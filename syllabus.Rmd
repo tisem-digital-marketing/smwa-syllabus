@@ -232,6 +232,7 @@ You are encouraged to either wear your own, or take a fresh one.
 The following is a tentative course schedule.
 Check back regularly for updates.
 
+<!---
 \begin{table}[h!]
 \begin{footnotesize}
 \begin{tabular}{lccccc}
@@ -264,6 +265,42 @@ Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab 
 \end{tabular}
 \end{footnotesize}
 \end{table}
+--->
+
+\begin{table}[h!]
+\begin{footnotesize}
+\begin{tabular}{lccccc}
+\toprule
+Calendar Week       & Video Lecture & Computing Lecture & Lab Section        & Lab Assignment     & Due Dates    \\
+\midrule
+\multirow{2}{*}{15} & Social Media  & Course            &                    &                    &              \\
+                    & Landscape     & Intro             &                    &                    &              \\
+\midrule
+\multirow{2}{*}{16} & Regression    & -                 & Visualizing Social & Visualizing Social &              \\
+                    & \& Causality  &                   & Media Data         & Media Data         &              \\
+\midrule
+\multirow{2}{*}{17} & Online        & Regression        & Lurkers            & Multiple           &              \\
+                    & Reputation    & \& DiD            & \& Contributors    & Regression         &              \\
+\midrule
+\multirow{2}{*}{18} & Word of Mouth & Regression \&     & Online             & Difference in      &              \\
+                    &               & Matching Methods  & Reputation         & Differeces         &              \\
+\midrule                    
+\multirow{2}{*}{19} & Influencers   & Intro to          & Word of Mouth      & Matching           & Group        \\
+                    &               & Text Analysis     & \& Ratings         & Methods            & Assignment 1 \\
+\midrule
+\multirow{2}{*}{20} & Viral         & Sentiment         & Influencers        & Intro to           &              \\
+                    & Marketing     & Analysis          &                    & Text Analytics     &              \\
+\midrule
+\multirow{2}{*}{21} & Social        & Topic             & Viral              & Sentiment Analysis &              \\
+                    & Advertising   & Modelling         & Marketing          & \& Topic Models    &              \\
+\midrule
+\multirow{2}{*}{22} & TBA           & TBA               & Social             & TBA                & Group        \\
+                    &               &                   & Advertising        &                    & Assignment 2 \\
+\bottomrule               
+\end{tabular}
+\end{footnotesize}
+\end{table}
+
 
 \newpage
 
