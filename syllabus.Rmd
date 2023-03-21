@@ -20,7 +20,7 @@ lang: "English"
 #classroom: "Online"
 #classhours:
 #- "TBA"
-dates: "April 10 - June 2, 2022"
+dates: "April 10 - June 2, 2023"
 #days: "TBA"
 code: "300459-M-6"
 degree: "Master of Marketing Analytics"
