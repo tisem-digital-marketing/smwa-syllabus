@@ -106,16 +106,16 @@ In particular, we expect the typical student to have the following characteristi
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lectures, Computing Lectures \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
-& Office Hours:       & Wednesday, 2pm - 4pm, Online or K 711 \tabularnewline
+& Office Hours:       & Monday, 3pm - 4pm, Online or K 711 \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
-& Booking Link:       & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here} \tabularnewline
+& Booking Link:       & \href{https://calendly.com/lachlan-deer/smwa-office-hours}{Click Here} \tabularnewline
 \midrule
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/gijs.jpg}} & 
   Name:               & Gijs van Bussel \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{https://www.tilburguniversity.edu/staff/g-w-j-vanbussel}{Personal Webpage} \tabularnewline
-& Office Hours:       & Wednesday, 3 - 5pm, Room K 756 \tabularnewline
+& Office Hours:       & TBD \tabularnewline
 & Office Hour Format: & In person, 15 min slots \tabularnewline
 & Booking Link:       & via Canvas Calendar \tabularnewline
 \bottomrule
@@ -169,11 +169,11 @@ Refresher material for this content is provided as part of the course preparator
 
 # Pedagogy
 
-The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections), hands-on assignments and presentations.
+The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections),hands-on assignments and an exam.
 We will strive to balance practical aspects of the material with a theoretical understanding of the concepts and frameworks involved.
 Each week we will have video lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
-Bi-weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
-In addition there are group projects *and* group presentations where students work together to demonstrate their understanding as applied to specific problems. 
+Weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
+In addition there are group projects where students work together to demonstrate their understanding as applied to specific problems. 
 A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
 \textbf{Video Lectures.}
@@ -181,20 +181,22 @@ A final exam allows students to showcase their individual expertise acquired ove
 Each week there will be 90-120 minutes of video lectures split into shorter chunks.
 Links to these videos are available on the course web page.
 These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
-You are encouraged to watch these in your own time, early in the week before Lab Sections.
+You are encouraged to watch these in your own time.
+Lab Sections in the subsequent week builds on this material.
 <!---Content of the presentations with the same week's Lab Section will build from this content. --->
 
 \textbf{Computing Lectures.}
 
-Four (4) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
+Four (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
 The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
 These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
 How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
 
 \textbf{Lab Sections.}
 
-Weekly Lab Sections (90 minutes) start in the first week with a hands-on introduction to getting and visualizing social media data.
-Beginning in the second week the structure will be as follows: Student Presentations (2 $\times$ 30 mins) and discussion of the preceding week's Lab Assignment (30 mins).
+Weekly Lab Sections (90 minutes) start in the second week with a hands-on introduction to getting and visualizing social media data.
+Beginning in the second week the structure will be as follows: 
+Small group analysis of 'Analytics In the Wild' prompts that posit a hypothetical problem that needs to be solved combined with the drafting of a structured solution document (45 mins) and working through selected solutions from  the preceding week's Lab Assignment (45 mins).
 These sections are designed to be interactive and work as a main platform for developing your skill set under the guidance of the course instructors. 
 Bring your questions!
 Participation and attendance in Lab Sections is mandatory, and in the event of multiple absences the instructors will be in touch to discuss your attendance.
