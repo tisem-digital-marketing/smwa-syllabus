@@ -486,20 +486,21 @@ Activity                         & No. Sessions & Estimated Workload            
 \midrule
 \textbf{(A) Graded Assessments}  &              &                                      &                            \\
 Group Technical Assignment       & 2            & 15                                   & 30                         \\
-Group Presentation \& Panel      & 2            & 10                                   & 20                         \\
 Exam Preparation                 & 1            & 30                                   & 30                         \\
-\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{80}                \\
+\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{60}                \\
 \midrule
 \textbf{(B) Class Time}          &              &                                      &                            \\
-Video Lectures                   & 7            & 2                                    & 14                         \\
-Computing Lectures               & 4            & 2                                    & 8                          \\
+Video Lectures                   & 8            & 2                                    & 16                         \\
+Computing Lectures               & 7            & 2                                    & 14                          \\
 Tutorials                        & 7            & 2                                    & 14                         \\
-\textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{36}              \\
+\textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{44}              \\
 \midrule
 \textbf{(C) Self Study}          &              &                                      &                            \\
 Lab Assignments                  & 6            & 4                                    & 24                         \\
+Lab Section Preparation          & 6            & 2                                    & 12                         \\
+
 Reading / Note taking            & 7            & 4                                    & 28                         \\
-\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{52}                \\
+\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{64}                \\
 \midrule
 \textbf{Total Study Time} (A) + (B) + (C) &              &                             & \textbf{168 (6 ECTS)}           \\
 \bottomrule
