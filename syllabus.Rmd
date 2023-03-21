@@ -54,12 +54,13 @@ Sociologists have researched such concepts as homophily and social capital, whic
 This course will combine foundational material with examples from the social world to build a data-driven understanding of modern social media marketing.
 --->
 
-To answer these questions, the course is split into four substantive modules:
+To answer these questions, the course is split into five substantive modules:
 
-1. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
-2. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
-4. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
+1. **Review of Linear Regression and Causal Inference** which provides the statistical toolkit to analyze data and interpret findings in the academic literature, 
+2. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
+3. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
+4. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
+5. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
 
 During these modules we will focus on extracting insights from the recent academic literature as well as learning and then leveraging an analytics toolkit comprising linear regression, causal inference, text analytics and social network analysis. 
 
