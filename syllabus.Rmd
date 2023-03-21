@@ -513,7 +513,7 @@ Reading / Note taking            & 7            & 4                             
 
 ### Course website
 
-All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2022-smwa/}{course website}.
+All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2023-smwa/}{course website}.
 Check there regularly for updates.
 
 ### Canvas
@@ -532,40 +532,41 @@ This course is an analytics course, and as such we aim to use, understand and de
 Large portions of the course will be *'hands-on'* and we will be using the statistical software `R` to demonstrate and apply methods and concepts in class.
 
 All of the software requirements for this course are open-source and/or free. 
-Please aim to have everything installed on your own computer by the start of our first lecture.
+Installation instructions to install R and RStudio are available on the course website.
+Each week we may use additional R packages in our analysis, these will be noted in the course material.
 
-*We will be available for installation troubleshooting during the first week of the course.*
-*You can sign up for to get installation help via our office hour sign-up links.*
 
 \textbf{R \& RStudio.}
 
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
-Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/) (they differ slightly by operating system):
+Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/) (they differ slightly by operating system):
 
 After installing R and RStudio we suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
-The suggested modules can be found on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
-Please look over these *before* the first class.
+This materials should serve to review your existing knowledge from previous classes in your degree program.
+The suggested modules can be found on the [here](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/course_prep/)
+Instructors will assume you are comfortable with this material by the computing lecture in Week 3.
 
 \textbf{Improving Reproduciblity of our Analysis with Git and GitHub.}
 
 In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. we want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/).
+* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/).
 * Also register for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
   ]
 
-As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
-Please look over the material *before* the first class.
+As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/).
+These modules should serve to review key concepts from previous classes.
+Please look over the material *before* the first computing lecture.
 
 # Course Communication
 
 The main channel for discussion with the instructors and with your peers will take place on the Slack messaging platform.
 
-* Sign up to our \href{https://tisem-smwa.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
+* Sign up to our \href{https://tisem-smwa-2023.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
 * Log in once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
@@ -584,7 +585,7 @@ We aim to reply to Slack and emails within 48 hours from Monday to Friday, but t
 
 # Rules of the Game
 
-I have clear expectations of how we should all interact in class and in meetings.
+We have clear expectations of how we should all interact in class and in meetings.
 They are summarized by the "8 Be's" below:
 
 ## Be Active
@@ -592,7 +593,7 @@ They are summarized by the "8 Be's" below:
 Learning via passive listening is an ineffective learning technique.
 Come to discussion classes prepared to ask questions, and to answer questions posed by me and others in class.
 This will lead to a much more enjoyable learning experience for us all.
-I would much rather have an engaging discussion on topics where we share mutual interest and cover less material than have Discussion Sections become a monologue.
+We would much rather have an engaging discussion on topics where we share mutual interest and cover less material than have Discussion Sections become a monologue.
 
 ## Be "Hands-on"
 The class is designed to be `hands-on' in the sense that you will be expected to complete a substantial amount of coding exercises.
@@ -611,13 +612,12 @@ Come talk to us if it remains unclear.
 
 ## Be Professional
 
-I expect you to treat us and your class members collegially.
+We expect you to treat us and your class members collegially.
 In addition, we have a set of [Social Rules](https://tisem-digital-marketing.github.io/2021-smwa/social_rules/) and a [Code of Conduct](https://tisem-digital-marketing.github.io/2021-smwa/conduct/) that provides further details of acceptable and unacceptable behavior.
 
 When writing an email, being professional also means using a meaningful subject line, identifying yourself (i.e. Regards, Lachlan at the end of the email), and keeping the message focused.
-We aim to reply to emails within 48 hours Monday - Friday, but there might be a slight delay if you write to us late Friday evening. 
 
-I strongly encourage you to provide feedback about both format and content during the course.
+We strongly encourage you to provide feedback about both format and content during the course.
 We will provide survey links to collect this feedback at regular intervals.
 Be professional when filling these out.
 
@@ -627,7 +627,7 @@ Do not address us with "Mr.", "Dr.", or "Prof.".
 Please use our first name's (i.e. Lachlan and Gijs). 
 More formality than that makes me feel uncomfortable.
 
-Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts, but not Facebook.
+Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts.
 
 ## Be International
 
@@ -641,10 +641,10 @@ As someone who has studied in in countries where I do not speak the native langu
 Physical and Mental health are important, and definitely more important than your coursework.
 Material posted online, the readings and talking with your classmates about what you missed is more than enough if you miss one or two classes.
 
-On the mental health side, I know how challenging graduate study can be, especially when paired with one's 'non-study life.'
-*I strongly encourage you to prioritize mental health over **everything** else.*
-I'm happy to talk with you individually and share some common experiences and strategies, but I am not a professional. 
+On the mental health side, we know how challenging graduate study can be, especially when paired with one's 'non-study life.'
+*We strongly encourage you to prioritize mental health over **everything** else.*
 If you feel like you need to talk to someone, a good starting point might be [Tilburg's Education Coordinators](https://www.tilburguniversity.edu/students/tutoring/education-coordinators/economics-management) or the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
+You can reach out to us as instructors and we're happy to help, but are not professionals. 
 
 ## Be Fair & Honorable 
 
@@ -846,7 +846,7 @@ Please refer to the \href{https://www.tilburguniversity.edu/about/conduct-and-in
 
 # FAQs
 
-**R looks cool, but I’m more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
+**R looks cool, but I'm more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
 
 Short answer: No. 
 
@@ -877,5 +877,5 @@ I only ask two small favours.
 
 Lachlan wishes to thank Shrabastee Banerjee, Anick Bosmans, Gijs van Bussel, Hannes Datta and Hendrik de With for their comments on various versions of this syllabus, and for making their own syllabi available.
 I have occasionally borrowed from each of them quite liberally.
-I also want to thank students from the 2021 edition of this class, for their questions and comments which have improved the clarity of various sections of text.
+I also want to thank students from the 2021 and 2022 editions of this class, for their questions and comments which have improved the clarity of various sections of text.
 Any errors, omissions and slips in the clarity of text remain are my own.
