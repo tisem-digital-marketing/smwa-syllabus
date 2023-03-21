@@ -187,7 +187,7 @@ Lab Sections in the subsequent week builds on this material.
 
 \textbf{Computing Lectures.}
 
-Seveen (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
+Seven (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
 The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
 These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
 How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
