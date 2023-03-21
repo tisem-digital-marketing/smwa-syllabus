@@ -104,7 +104,7 @@ In particular, we expect the typical student to have the following characteristi
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/lachlandeer.jpg}} & 
   Name:               & Lachlan Deer \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
-& Role in Course:     & Lectures, Computing Lectures, Lab Sections \tabularnewline
+& Role in Course:     & Lectures, Computing Lectures \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
 & Office Hours:       & Wednesday, 2pm - 4pm, Online or K 711 \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
