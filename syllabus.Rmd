@@ -10,17 +10,17 @@ geometry: margin=0.85in
 title: "Social Media and Web Analytics"
 author:
     - Dept of Marketing @ Tilburg University
-semester: "Block 4 (Spring), 2022"
+semester: "Block 4 (Spring), 2023"
 updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
 email: "tisem.social.media@gmail.com"
-web: "tisem-digital-marketing.github.io/2022-smwa/"
+web: "tisem-digital-marketing.github.io/2023-smwa/"
 mode: "In Person"
 lang: "English"
 #classroom: "Online"
 #classhours:
 #- "TBA"
-dates: "April 11 - June 3, 2022"
+dates: "April 10 - June 2, 2023"
 #days: "TBA"
 code: "300459-M-6"
 degree: "Master of Marketing Analytics"
@@ -54,12 +54,13 @@ Sociologists have researched such concepts as homophily and social capital, whic
 This course will combine foundational material with examples from the social world to build a data-driven understanding of modern social media marketing.
 --->
 
-To answer these questions, the course is split into four substantive modules:
+To answer these questions, the course is split into five substantive modules:
 
-1. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
-2. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
-4. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
+1. **Review of Linear Regression and Causal Inference** which provides the statistical toolkit to analyze data and interpret findings in the academic literature, 
+2. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
+3. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
+4. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
+5. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
 
 During these modules we will focus on extracting insights from the recent academic literature as well as learning and then leveraging an analytics toolkit comprising linear regression, causal inference, text analytics and social network analysis. 
 
@@ -103,18 +104,18 @@ In particular, we expect the typical student to have the following characteristi
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/lachlandeer.jpg}} & 
   Name:               & Lachlan Deer \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
-& Role in Course:     & Lectures, Computing Lectures, Lab Sections \tabularnewline
+& Role in Course:     & Lectures, Computing Lectures \tabularnewline
 & Profile:            & \href{https://lachlandeer.github.io}{Personal Webpage} \tabularnewline
-& Office Hours:       & Wednesday, 2pm - 4pm, Online or K 711 \tabularnewline
+& Office Hours:       & Monday, 3pm - 4pm, Online or K 711 \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
-& Booking Link:       & \href{https://calendly.com/lachlan-deer/office-hours}{Click Here} \tabularnewline
+& Booking Link:       & \href{https://calendly.com/lachlan-deer/smwa-office-hours}{Click Here} \tabularnewline
 \midrule
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/gijs.jpg}} & 
   Name:               & Gijs van Bussel \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{https://www.tilburguniversity.edu/staff/g-w-j-vanbussel}{Personal Webpage} \tabularnewline
-& Office Hours:       & Wednesday, 3 - 5pm, Room K 756 \tabularnewline
+& Office Hours:       & TBD \tabularnewline
 & Office Hour Format: & In person, 15 min slots \tabularnewline
 & Booking Link:       & via Canvas Calendar \tabularnewline
 \bottomrule
@@ -168,11 +169,11 @@ Refresher material for this content is provided as part of the course preparator
 
 # Pedagogy
 
-The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections), hands-on assignments and presentations.
+The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections),hands-on assignments and an exam.
 We will strive to balance practical aspects of the material with a theoretical understanding of the concepts and frameworks involved.
 Each week we will have video lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
-Bi-weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
-In addition there are group projects *and* group presentations where students work together to demonstrate their understanding as applied to specific problems. 
+Weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
+In addition there are group projects where students work together to demonstrate their understanding as applied to specific problems. 
 A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
 \textbf{Video Lectures.}
@@ -180,20 +181,22 @@ A final exam allows students to showcase their individual expertise acquired ove
 Each week there will be 90-120 minutes of video lectures split into shorter chunks.
 Links to these videos are available on the course web page.
 These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
-You are encouraged to watch these in your own time, early in the week before Lab Sections.
+You are encouraged to watch these in your own time.
+Lab Sections in the subsequent week builds on this material.
 <!---Content of the presentations with the same week's Lab Section will build from this content. --->
 
 \textbf{Computing Lectures.}
 
-Four (4) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
+Seven (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
 The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
 These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
 How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
 
 \textbf{Lab Sections.}
 
-Weekly Lab Sections (90 minutes) start in the first week with a hands-on introduction to getting and visualizing social media data.
-Beginning in the second week the structure will be as follows: Student Presentations (2 $\times$ 30 mins) and discussion of the preceding week's Lab Assignment (30 mins).
+Weekly Lab Sections (90 minutes) start in the second week with a hands-on introduction to getting and visualizing social media data.
+Beginning in the second week the structure will be as follows: 
+Small group analysis of 'Analytics In the Wild' prompts that posit a hypothetical problem that needs to be solved combined with the drafting of a structured solution document (45 mins) and working through selected solutions from  the preceding week's Lab Assignment (45 mins).
 These sections are designed to be interactive and work as a main platform for developing your skill set under the guidance of the course instructors. 
 Bring your questions!
 Participation and attendance in Lab Sections is mandatory, and in the event of multiple absences the instructors will be in touch to discuss your attendance.
@@ -205,12 +208,13 @@ Further details in the course assessment can be found in the Assessment section 
 
 \textbf{Group Work.}
 
-There are four (4) instances of group work in this class.
+There are two (2) instances of group work in this class that count towards the assessement, along with formative tasks each week in Lab Sections solved as a group.
 The instructors firmly believe in the merits of group work for enhancing learning and building a professional mindset.
 Groups are randomly assigned in this course.
 This mirrors aspects of working "on the job" where teams come from diverse backgrounds and its not always possible to work with friends.
 Group work also involves explaining and re-explaining concepts among team members which is a to re-enforce one's own understanding of a concept.
 
+<!--
 \textbf{COVID-19 \& Course Attendance.}
 
 Students are encouraged to attend all in person classes.
@@ -221,6 +225,7 @@ Students are also encouraged to "self-test" each day before coming to class, to 
 Although face masks are not required by the government or university to attend classes, the instructors strongly encourage the wearing of face masks in classroom environments.
 We will supply a limited quantity of single-use surgical face masks in class. 
 You are encouraged to either wear your own, or take a fresh one.
+-->
 
 # Course Schedule
 
@@ -231,51 +236,53 @@ Check back regularly for updates.
 \begin{footnotesize}
 \begin{tabular}{lccccc}
 \toprule
-Week & Video Lecture            & Computing Lecture   & Lab Section       & Lab Assignment        & Due Dates    \\
+Calendar Week       & Video Lecture & Computing Lecture & Lab Section        & Lab Assignment     & Due Dates    \\
 \midrule
-0    &                          &                     & Using Git and R   &                       &              \\
+\multirow{2}{*}{15} & Social Media  & Course            &                    &                    &              \\
+                    & Landscape     & Intro             &                    &                    &              \\
 \midrule
-1    & Social Media             & Course              & Twitter API \&    & Visualizing Social    &              \\
-     &  Landscape               & Introduction        & Networks I        & Media Data            &              \\
+\multirow{2}{*}{16} & Regression    & -                 & Visualizing Social & Visualizing Social &              \\
+                    & \& Causality  &                   & Media Data         & Media Data         &              \\
 \midrule
-2    & Regression \&            & -                   & Presentations \&  & Multiple              &              \\
-     & Causality                &                     & Lab Assign Review & Regression            &              \\
+\multirow{2}{*}{17} & Online        & Regression        & Lurkers            & Multiple           &              \\
+                    & Reputation    & \& DiD            & \& Contributors    & Regression         &              \\
 \midrule
-3    & Online                   & Text Analytics I    & Presentations \&  & Difference in         &              \\
-     & Reputation               &                     & Lab Assign Review & Differences           &              \\
+\multirow{2}{*}{18} & Word of Mouth & Regression \&     & Online             & Difference in      &              \\
+                    &               & Matching Methods  & Reputation         & Differeces         &              \\
+\midrule                    
+\multirow{2}{*}{19} & Influencers   & Intro to          & Word of Mouth      & Matching           & Group        \\
+                    &               & Text Analysis     & \& Ratings         & Methods            & Assignment 1 \\
 \midrule
-4    & Word of Mouth            &  -                  & Presentations \&  & Text Analytics        & Group Tech   \\
-     &                          &                     & Lab Assign Review & \& Fake Reviews       & Assignment 1 \\
+\multirow{2}{*}{20} & Viral         & Sentiment         & Influencers        & Intro to           &              \\
+                    & Marketing     & Analysis          &                    & Text Analytics     &              \\
 \midrule
-5    & Influencers              & Text Analytics II   & Presentations \&  & Sentiment             &              \\
-     &                          &                     & Lab Assign Review &  Analysis             &              \\
+\multirow{2}{*}{21} & Social        & Topic             & Viral              & Sentiment Analysis &              \\
+                    & Advertising   & Modelling         & Marketing          & \& Topic Models    &              \\
 \midrule
-6    & Viral                    & -                   & Presentations \&  & Networks \&           &              \\
-     &  Marketing               &                     & Lab Assign Review & Influence             &              \\
-\midrule
-7    & Social                   & Networks II         & Presentations \&  & TBA                   & Group Tech   \\
-     & Advertising              &                     & Lab Assign Review &                       & Assignment 2 \\
-\bottomrule
+\multirow{2}{*}{22} & TBA           & TBA               & Social             & TBA                & Group        \\
+                    &               &                   & Advertising        &                    & Assignment 2 \\
+\bottomrule               
 \end{tabular}
 \end{footnotesize}
 \end{table}
+
 
 \newpage
 
 \textbf{Class Dates, Times and Locations}.
 
-Due to public holidays, class times move around quite a bit week to week.
-Frequently check the Rooster Timetabling tool to get the class dates, times and locations each week.
+Due to public holidays and general TiSEM scheduling issues, class times move around quite a bit week to week.
+Frequently check the Rooster Timetable tool to get the class dates, times and locations each week.
 
 \textbf{Weekly Readings.}
 
-Each week we will read 2-3 academic papers which will be discussed in the Video Lecture and form the base of the group presentations.
+Each week we will read 2-3 academic papers which will be discussed in the Video Lecture and form the base of the 'Analytics in the Wild' tasks in each Lab Section.
 In addition there may be additional lecture notes or book chapters assigned to aid your understanding of some statistical/numerical techniques and assist you when working through the Lab Assignments.
-A list of readings for each week is provided in the "Course Readings" section below, and links to these are available on the course website.
+A list of marketing papers for each week is provided in the "Course Readings" section below, and links to these are available on the course website.
 
 # Assessment
 
-There are five pieces of graded assessment due throughout the course:
+There are three pieces of graded assessment due throughout the course:
 
 \begin{table}[h!]
 \begin{center}
@@ -283,11 +290,9 @@ There are five pieces of graded assessment due throughout the course:
 \toprule
 Graded Assessment                  & Weight (\%)      & Min. Pass Grade     & Resit?               \\
 \midrule
-Group Technical Assignment 1       & 15               & -                   & No                   \\
-Group Technical Assignment 2       & 15               & -                   & No                   \\
-Group Presentation 1 \& Panel      & 10               & -                   & No                   \\
-Group Presentation 2 \& Panel      & 10               & -                   & No                   \\
-Final Exam                         & 50               & 5.0                 & Yes, 1 x in July     \\
+Group Assignment 1                 & 20               & -                   & No                   \\
+Group Assignment 2                 & 20               & -                   & No                   \\
+Final Exam                         & 60               & 5.0                 & Yes, 1 x in July     \\
 \midrule
 \multicolumn{4}{l}{\textbf{To pass the course}: Final Course Grade (weighted average) \textbf{ $\geq$ 5.5. } } \\
 \bottomrule
@@ -295,14 +300,13 @@ Final Exam                         & 50               & 5.0                 & Ye
 \end{center}
 \end{table}
 
-In addition there are weekly, ungraded "Lab Assignments" to help you develop your knowledge around the course content.
+In addition there are weekly, ungraded "Lab Assignments" and "Marketing Analytics in the Wild" tasks to help you develop your knowledge around the course content.
 
-**Course Repeaters**: Students repeating Social Media and Web Analytics must submit all assessment pieces to pass the course.
-Grades from a previous attempts do not carry over to the current semester.
+**Course Repeaters**: Students who failed to complete the 2022 course can roll over their grades from the group assignments. No other grades can be rolled over, and final grades will be computed using the 2023 weights. \textit{You must contact the instructors via email before Friday April 14 at 17:00 if you want this rule applied to you}.
 
-## Group Technical Assignments (30 percent)
+## Group Technical Assignments (40 percent)
 
-There will be 2 group assignments worth equal weight, 15\% per assignment. 
+There will be 2 group assignments worth equal weight, 20\% per assignment. 
 To pass the assignment, each group member needs to have made a substantial contribution to the project. 
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
 
@@ -322,6 +326,7 @@ The topics for the group assignments are:
 
 Further information on technical assignments will be distributed closer to their issue.
 
+<!--
 ## Group Presentations and Panel Discussion (20 percent)
 
 Students are required to participate in two (2) group presentations and panel discussions over duration of the class.
@@ -364,7 +369,9 @@ We will be able to provide some feedback here to help you better craft your idea
 Dress comfortably and as casually as you feel comfortable.
 Hoodies and jeans are OK. 
 
-## Final Exam (50 percent)
+-->
+
+## Final Exam (60 percent)
 
 The final exam will be a closed book exam written with pen/pencil and paper and will be three (3) hours in duration. 
 Questions in the exam will come from all aspects of the course material: lectures, assignments and required readings. 
@@ -374,7 +381,7 @@ The exam will be split into three components as follows:
 
 * PART A: True/False/Uncertain with an explanation (20%), 
 * PART B: Short answer questions (40%), and 
-* PART C: An open-ended/essay style question (40%)
+* PART C: A structured essay style question (40%)
 
 More details on the exam will be provided in due course.
 
@@ -385,19 +392,34 @@ They will involve a mix of coding, conceptual questions around the methods, and 
 We expect you to work on these assignments using `R`.
 The assignments are designed to be "self-guided", and are split into multiple sub-questions that help you progress through a larger problem sequentially.
 Expect to dedicate substantial time to each lab assignment, approx. 4 hours per week outside of class time. 
-This time is well spent as you're acquiring a skill set to help you through the Group Technical Assignments and on the Final Exam.
+This time is well spent as you're acquiring a skill set to help you through the Group Assignments and on the Final Exam.
 You are encouraged to work on these assignments together with your peers.
 
-Selected answers to the Lab Assignments will be posted on the course website with a one week lag, i.e. Week 1's answers will be provided in Week 2 of the course.
-We will also devote 30 minutes of each Lab Section to talk over specific parts of the assignments.
+Selected answers to the Lab Assignments will be posted on the course website with a one week lag, i.e. Week 1's answers will be provided at the end of Week 2 of the course.
+We will also devote 45 minutes of each Lab Section to talk over specific parts of the assignments.
 What we cover in this part of the Lab Section will be decided by both student requests and the instructor's own decision making. 
 
+## Marketing Analytics in the Wild (Ungraded)
+
+Each Lab Section will feature 45 minutes for group discussion of a hypothetical marketing analytics problem that has been set by the instructors.
+These tasks will be posted one week in advance of the Lab Section taking place to help you prepare in your own time before the class begins.
+
+For the first 30 minutes of the class you will work in a small group to come up with a framework outlining how you would solve these problems using skills acquired in class.
+A template to help you structure your answer will be provided.
+The next 15 minutes will be a discussion with the entire tutorial of a potential solution, led by the students under instructor guidance.
+There is no single right or wrong answers to these problems.
+
+These tasks are designed to help you succeed in answering Part C of the Final Exam, by practicing the same skills needed.
+
+
+<!---
 ## Bonus Point for Active Participation
 
 We want to encourage and incentivize active participation in class and to do so we offer the opportunity to increase your course grade by 1 point (equivalent to 10%) for consistent and productive participation.
 This will be measured by your interactions in class through engaging in discussion and asking questions, as well as participating in short (randomly assigned) in-class quizzes. 
 Note that despite the possibility of accumulating bonus points, the maximum grade point of this course is still a 10. 
 In the unlikely event that you are close to attaining, or have already attained the maximum grade point (e.g., a 9.5 or a 10) before the addition of the bonus points, it will NOT be possible for you to incorporate all (or if not, not at all) the bonus points that you have accumulated.
+--->
 
 <!---
 ## Group Formation
@@ -410,13 +432,26 @@ Working with other student's you are unfamiliar with is an important skill to ac
 ---> 
 ## Grading Policies 
 
-### Regrade Policy for Technical Assignments
+### Regrade Policy for Group Assignments
 
 If you believe an error has been made in grading your assignments, you may request a re-grade. 
 The request must be in writing, must explain the exact concern, and must occur within 7 calendar days of when the graded materials were returned or when the final course grade is posted. 
 We reserve the right to re-grade the entire contents of any submitted assignment. 
 This means that your grade may go up or down, depending on what is found during the re-grade.
 
+### Regrade Policy for Final Exam
+
+After the exam grades are released students will have the option to view their final exams under the supervision of TiSEM staff.
+If a student thinks there is an error in the grading, they should note the error and email the instructors within 48 hours of viewing the exam outlining what the errors are believed to be. 
+Instructors will then regrade the \textbf{whole} exam and you will be informed of any change to your grade.
+Your grade may increase or decrease depending on the outcome of the regrading procedure.
+
+Sign up forms will be made available by the instructors after the exams are graded and you will be notified by email.
+Deadlines for signing up will apply, and may be short notice due to scheduling constraints by the TiSEM administration. I
+No exceptions are made for students that miss the sign up deadline for exam viewing.
+
+
+<!---
 ### Missed Group Presentations
 
 If you are unable to attend a Lab Section in which you are scheduled to present as part of a group presentation due to illness or compassionate grounds there are two alternatives:
@@ -429,10 +464,11 @@ In either situation you should:
 
 * Inform your group members as soon as possible so they can adjust the group's presentation, and
 * Notify the instructor of your section at least 30 minutes in advance of the sessions start time so we can figure out a Zoom connection
+--->
 
 ### Late Submission
 
-Technical Assignments must be submitted before the deadline.
+Group Assignments must be submitted before the deadline.
 Late submissions will be penalized by 25 percent per calendar day.
 This penalty applies to an entire group.
 
@@ -450,20 +486,21 @@ Activity                         & No. Sessions & Estimated Workload            
 \midrule
 \textbf{(A) Graded Assessments}  &              &                                      &                            \\
 Group Technical Assignment       & 2            & 15                                   & 30                         \\
-Group Presentation \& Panel      & 2            & 10                                   & 20                         \\
 Exam Preparation                 & 1            & 30                                   & 30                         \\
-\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{80}                \\
+\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{60}                \\
 \midrule
 \textbf{(B) Class Time}          &              &                                      &                            \\
-Video Lectures                   & 7            & 2                                    & 14                         \\
-Computing Lectures               & 4            & 2                                    & 8                          \\
+Video Lectures                   & 8            & 2                                    & 16                         \\
+Computing Lectures               & 7            & 2                                    & 14                          \\
 Tutorials                        & 7            & 2                                    & 14                         \\
-\textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{36}              \\
+\textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{44}              \\
 \midrule
 \textbf{(C) Self Study}          &              &                                      &                            \\
 Lab Assignments                  & 6            & 4                                    & 24                         \\
+Lab Section Preparation          & 6            & 2                                    & 12                         \\
+
 Reading / Note taking            & 7            & 4                                    & 28                         \\
-\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{52}                \\
+\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{64}                \\
 \midrule
 \textbf{Total Study Time} (A) + (B) + (C) &              &                             & \textbf{168 (6 ECTS)}           \\
 \bottomrule
@@ -476,7 +513,7 @@ Reading / Note taking            & 7            & 4                             
 
 ### Course website
 
-All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2022-smwa/}{course website}.
+All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2023-smwa/}{course website}.
 Check there regularly for updates.
 
 ### Canvas
@@ -495,40 +532,41 @@ This course is an analytics course, and as such we aim to use, understand and de
 Large portions of the course will be *'hands-on'* and we will be using the statistical software `R` to demonstrate and apply methods and concepts in class.
 
 All of the software requirements for this course are open-source and/or free. 
-Please aim to have everything installed on your own computer by the start of our first lecture.
+Installation instructions to install R and RStudio are available on the course website.
+Each week we may use additional R packages in our analysis, these will be noted in the course material.
 
-*We will be available for installation troubleshooting during the first week of the course.*
-*You can sign up for to get installation help via our office hour sign-up links.*
 
 \textbf{R \& RStudio.}
 
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
-Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/) (they differ slightly by operating system):
+Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/) (they differ slightly by operating system):
 
 After installing R and RStudio we suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
-The suggested modules can be found on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
-Please look over these *before* the first class.
+This materials should serve to review your existing knowledge from previous classes in your degree program.
+The suggested modules can be found on the [here](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/course_prep/)
+Instructors will assume you are comfortable with this material by the computing lecture in Week 3.
 
 \textbf{Improving Reproduciblity of our Analysis with Git and GitHub.}
 
 In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. we want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2022-smwa-installation-guide/).
+* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/).
 * Also register for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
   ]
 
-As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2022-smwa/) under 'Course Preparation'.
-Please look over the material *before* the first class.
+As part of your preparation for the class, look over the DataCamp modules on "Version Control with Git" that we have highlighted on the [course webpage](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/).
+These modules should serve to review key concepts from previous classes.
+Please look over the material *before* the first computing lecture.
 
 # Course Communication
 
 The main channel for discussion with the instructors and with your peers will take place on the Slack messaging platform.
 
-* Sign up to our \href{https://tisem-smwa.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
+* Sign up to our \href{https://tisem-smwa-2023.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
 * Log in once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
@@ -547,7 +585,7 @@ We aim to reply to Slack and emails within 48 hours from Monday to Friday, but t
 
 # Rules of the Game
 
-I have clear expectations of how we should all interact in class and in meetings.
+We have clear expectations of how we should all interact in class and in meetings.
 They are summarized by the "8 Be's" below:
 
 ## Be Active
@@ -555,7 +593,7 @@ They are summarized by the "8 Be's" below:
 Learning via passive listening is an ineffective learning technique.
 Come to discussion classes prepared to ask questions, and to answer questions posed by me and others in class.
 This will lead to a much more enjoyable learning experience for us all.
-I would much rather have an engaging discussion on topics where we share mutual interest and cover less material than have Discussion Sections become a monologue.
+We would much rather have an engaging discussion on topics where we share mutual interest and cover less material than have Discussion Sections become a monologue.
 
 ## Be "Hands-on"
 The class is designed to be `hands-on' in the sense that you will be expected to complete a substantial amount of coding exercises.
@@ -574,13 +612,12 @@ Come talk to us if it remains unclear.
 
 ## Be Professional
 
-I expect you to treat us and your class members collegially.
+We expect you to treat us and your class members collegially.
 In addition, we have a set of [Social Rules](https://tisem-digital-marketing.github.io/2021-smwa/social_rules/) and a [Code of Conduct](https://tisem-digital-marketing.github.io/2021-smwa/conduct/) that provides further details of acceptable and unacceptable behavior.
 
 When writing an email, being professional also means using a meaningful subject line, identifying yourself (i.e. Regards, Lachlan at the end of the email), and keeping the message focused.
-We aim to reply to emails within 48 hours Monday - Friday, but there might be a slight delay if you write to us late Friday evening. 
 
-I strongly encourage you to provide feedback about both format and content during the course.
+We strongly encourage you to provide feedback about both format and content during the course.
 We will provide survey links to collect this feedback at regular intervals.
 Be professional when filling these out.
 
@@ -590,7 +627,7 @@ Do not address us with "Mr.", "Dr.", or "Prof.".
 Please use our first name's (i.e. Lachlan and Gijs). 
 More formality than that makes me feel uncomfortable.
 
-Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts, but not Facebook.
+Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts.
 
 ## Be International
 
@@ -604,10 +641,10 @@ As someone who has studied in in countries where I do not speak the native langu
 Physical and Mental health are important, and definitely more important than your coursework.
 Material posted online, the readings and talking with your classmates about what you missed is more than enough if you miss one or two classes.
 
-On the mental health side, I know how challenging graduate study can be, especially when paired with one's 'non-study life.'
-*I strongly encourage you to prioritize mental health over **everything** else.*
-I'm happy to talk with you individually and share some common experiences and strategies, but I am not a professional. 
+On the mental health side, we know how challenging graduate study can be, especially when paired with one's 'non-study life.'
+*We strongly encourage you to prioritize mental health over **everything** else.*
 If you feel like you need to talk to someone, a good starting point might be [Tilburg's Education Coordinators](https://www.tilburguniversity.edu/students/tutoring/education-coordinators/economics-management) or the [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist) at the University.
+You can reach out to us as instructors and we're happy to help, but are not professionals. 
 
 ## Be Fair & Honorable 
 
@@ -809,7 +846,7 @@ Please refer to the \href{https://www.tilburguniversity.edu/about/conduct-and-in
 
 # FAQs
 
-**R looks cool, but I’m more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
+**R looks cool, but I'm more familiar with Python/Julia/MatLab/SPSS/etc. Can I use that instead?**
 
 Short answer: No. 
 
@@ -840,5 +877,5 @@ I only ask two small favours.
 
 Lachlan wishes to thank Shrabastee Banerjee, Anick Bosmans, Gijs van Bussel, Hannes Datta and Hendrik de With for their comments on various versions of this syllabus, and for making their own syllabi available.
 I have occasionally borrowed from each of them quite liberally.
-I also want to thank students from the 2021 edition of this class, for their questions and comments which have improved the clarity of various sections of text.
+I also want to thank students from the 2021 and 2022 editions of this class, for their questions and comments which have improved the clarity of various sections of text.
 Any errors, omissions and slips in the clarity of text remain are my own.
