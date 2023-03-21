@@ -187,7 +187,7 @@ Lab Sections in the subsequent week builds on this material.
 
 \textbf{Computing Lectures.}
 
-Four (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
+Seveen (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
 The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
 These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
 How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
@@ -208,12 +208,13 @@ Further details in the course assessment can be found in the Assessment section 
 
 \textbf{Group Work.}
 
-There are four (4) instances of group work in this class.
+There are two (2) instances of group work in this class that count towards the assessement, along with formative tasks each week in Lab Sections solved as a group.
 The instructors firmly believe in the merits of group work for enhancing learning and building a professional mindset.
 Groups are randomly assigned in this course.
 This mirrors aspects of working "on the job" where teams come from diverse backgrounds and its not always possible to work with friends.
 Group work also involves explaining and re-explaining concepts among team members which is a to re-enforce one's own understanding of a concept.
 
+<!--
 \textbf{COVID-19 \& Course Attendance.}
 
 Students are encouraged to attend all in person classes.
@@ -224,6 +225,7 @@ Students are also encouraged to "self-test" each day before coming to class, to 
 Although face masks are not required by the government or university to attend classes, the instructors strongly encourage the wearing of face masks in classroom environments.
 We will supply a limited quantity of single-use surgical face masks in class. 
 You are encouraged to either wear your own, or take a fresh one.
+-->
 
 # Course Schedule
 
