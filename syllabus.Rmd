@@ -57,7 +57,7 @@ This course will combine foundational material with examples from the social wor
 To answer these questions, the course is split into five substantive modules:
 
 1. **Review of Linear Regression and Causal Inference** which provides the statistical toolkit to analyze data and interpret findings in the academic literature, 
-2. **Empirical Analysis of Patterns in Social Networks:** which seeks to describes and explain several common patterns found in real-world social networks,
+2. **Empirical Analysis of Patterns in Social Networks:** which seeks to describe and explain several common patterns found in real-world social networks,
 3. **Analysing Brand Reputation in Online Communities:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
 4. **Quantifying the Importance of Influencers and Word of Mouth:** which discusses an individual's place in the network, and how early adoption, word of mouth and other 'information cascades' propagate,
 5. **Measuring the Effectiveness of Social Media Advertising:** which focuses on viral marketing and social advertising techniques.
@@ -115,8 +115,8 @@ In particular, we expect the typical student to have the following characteristi
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{https://www.tilburguniversity.edu/staff/g-w-j-vanbussel}{Personal Webpage} \tabularnewline
-& Office Hours:       & TBD \tabularnewline
-& Office Hour Format: & In person, 15 min slots \tabularnewline
+& Office Hours:       & Tuesday OR Wednesday 3pm - 4pm \tabularnewline
+& Office Hour Format: & Hybrid, 15 min slots \tabularnewline
 & Booking Link:       & via Canvas Calendar \tabularnewline
 \bottomrule
 \end{tabular}
@@ -182,7 +182,7 @@ Each week there will be 90-120 minutes of video lectures split into shorter chun
 Links to these videos are available on the course web page.
 These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
 You are encouraged to watch these in your own time.
-Lab Sections in the subsequent week builds on this material.
+Lab Sections in the subsequent week build on this material.
 <!---Content of the presentations with the same week's Lab Section will build from this content. --->
 
 \textbf{Computing Lectures.}
@@ -208,11 +208,11 @@ Further details in the course assessment can be found in the Assessment section 
 
 \textbf{Group Work.}
 
-There are two (2) instances of group work in this class that count towards the assessement, along with formative tasks each week in Lab Sections solved as a group.
+There are two (2) instances of group work in this class that count towards the assessment, along with formative tasks each week in Lab Sections solved as a group.
 The instructors firmly believe in the merits of group work for enhancing learning and building a professional mindset.
 Groups are randomly assigned in this course.
-This mirrors aspects of working "on the job" where teams come from diverse backgrounds and its not always possible to work with friends.
-Group work also involves explaining and re-explaining concepts among team members which is a to re-enforce one's own understanding of a concept.
+This mirrors aspects of working "on the job" where teams come from diverse backgrounds and it's not always possible to work with friends.
+Group work also involves explaining and re-explaining concepts among team members, which is a good way to re-enforce one's own understanding of a concept.
 
 <!--
 \textbf{COVID-19 \& Course Attendance.}
@@ -311,14 +311,14 @@ To pass the assignment, each group member needs to have made a substantial contr
 The finished reports (& code where appropriate) must be submitted via GitHub no later than midnight of the due date (i.e. before 23:59 on the due date).
 
 Group assignments **must** be done in groups. 
-Students will be **randomly assigned** to groups before each assignment is released and groups for each assignment. 
+Students will be **randomly assigned** to groups before each assignment is released. 
 Each group will consist of 4 students and may include students who are not part of your Lab Section.
 <!--- Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the real world. --->
 
 The topics for the group assignments are:
 
 * Technical Assignment 1: Evaluating & Managing Online Reputation.
-    * We will use data from Trip Adviser and some supplementary sources to examine how management responses to reviews impact online reputation.
+    * We will use data from Trip Advisor and some supplementary sources to examine how management responses to reviews impact online reputation.
     * Main analysis toolkit: Linear Regression & Causal Inference
 * Technical Assignment 2: Analyzing Social Media Text.
     * We use publicly available tweets about US airlines to track consumer sentiment and discussion topics.
@@ -390,12 +390,12 @@ More details on the exam will be provided in due course.
 Each week there is an ungraded Lab Assignment for you to work on and develop your analytical and coding skills.
 They will involve a mix of coding, conceptual questions around the methods, and marketing implications of the output.
 We expect you to work on these assignments using `R`.
-The assignments are designed to be "self-guided", and are split into multiple sub-questions that help you progress through a larger problem sequentially.
+The assignments are designed to be "self-guided" and are split into multiple sub-questions that help you progress through a larger problem sequentially.
 Expect to dedicate substantial time to each lab assignment, approx. 4 hours per week outside of class time. 
 This time is well spent as you're acquiring a skill set to help you through the Group Assignments and on the Final Exam.
 You are encouraged to work on these assignments together with your peers.
 
-Selected answers to the Lab Assignments will be posted on the course website with a one week lag, i.e. Week 1's answers will be provided at the end of Week 2 of the course.
+Selected answers to the Lab Assignments will be posted on the course website with a one-week lag, i.e. Week 1's answers will be provided at the end of Week 2 of the course.
 We will also devote 45 minutes of each Lab Section to talk over specific parts of the assignments.
 What we cover in this part of the Lab Section will be decided by both student requests and the instructor's own decision making. 
 
@@ -441,14 +441,14 @@ This means that your grade may go up or down, depending on what is found during 
 
 ### Regrade Policy for Final Exam
 
-After the exam grades are released students will have the option to view their final exams under the supervision of TiSEM staff.
+After the exam grades are released, students will have the option to view their final exams under the supervision of TiSEM staff.
 If a student thinks there is an error in the grading, they should note the error and email the instructors within 48 hours of viewing the exam outlining what the errors are believed to be. 
 Instructors will then regrade the \textbf{whole} exam and you will be informed of any change to your grade.
 Your grade may increase or decrease depending on the outcome of the regrading procedure.
 
 Sign up forms will be made available by the instructors after the exams are graded and you will be notified by email.
-Deadlines for signing up will apply, and may be short notice due to scheduling constraints by the TiSEM administration. I
-No exceptions are made for students that miss the sign up deadline for exam viewing.
+Deadlines for signing up will apply, and may be short notice due to scheduling constraints by the TiSEM administration.
+No exceptions are made for students that miss the sign-up deadline for exam viewing.
 
 
 <!---
@@ -543,11 +543,11 @@ Installation instructions are available in the [Installation Guide](https://tise
 
 After installing R and RStudio we suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
-This materials should serve to review your existing knowledge from previous classes in your degree program.
-The suggested modules can be found on the [here](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/course_prep/)
+These materials should serve to review your existing knowledge from previous classes in your degree program.
+The suggested modules can be found [here](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/course_prep/).
 Instructors will assume you are comfortable with this material by the computing lecture in Week 3.
 
-\textbf{Improving Reproduciblity of our Analysis with Git and GitHub.}
+\textbf{Improving Reproducibility of our Analysis with Git and GitHub.}
 
 In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. we want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
@@ -598,7 +598,7 @@ We would much rather have an engaging discussion on topics where we share mutual
 ## Be "Hands-on"
 The class is designed to be `hands-on' in the sense that you will be expected to complete a substantial amount of coding exercises.
 We strongly believe the only way to learn programming is to do programming.
-Try to complete each 'Lab Session' be prepared to ask and answer questions about it during Discussion Sections.
+Try to complete each 'Lab Session' and be prepared to ask and answer questions about it during Discussion Sections.
 Codes that solve exercises will be posted *after* Discussion Sections.
 
 ## Be Prepared
@@ -627,14 +627,14 @@ Do not address us with "Mr.", "Dr.", or "Prof.".
 Please use our first name's (i.e. Lachlan and Gijs). 
 More formality than that makes me feel uncomfortable.
 
-Also you can to add us on LinkedIn or Twitter - where we maintain professional accounts.
+Also you can add us on LinkedIn or Twitter - where we maintain professional accounts.
 
 ## Be International
 
 This course is taught in English.
 You are obliged to speak English whenever there are international students present and all Slack messages on public channels must be in English. 
 If in doubt, you need to communicate in English.
-As someone who has studied in in countries where I do not speak the native language - be assured it is *very much appreciated.*
+As someone who has studied in countries where I do not speak the native language - be assured it is *very much appreciated.*
 
 ## Be Healthy (Physically & Mentally)
 
@@ -651,7 +651,7 @@ You can reach out to us as instructors and we're happy to help, but are not prof
 In group assignments we expect all group members to actively and evenly contribute.
 If you are struggling with parts of a group assignment you are working on, talk to your group members and to us rather than withdrawing from conversations with your colleagues. 
 
-Being fair & honorable also means that you should not plagiarize others work.
+Being fair & honorable also means that you should not plagiarize other's work.
 We stick closely with the School's Fraud and plagiarism policies which are outlined [here](https://www.tilburguniversity.edu/students/studying/regulations/fraud/economics).
 
 # Readings
