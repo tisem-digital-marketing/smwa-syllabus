@@ -10,17 +10,17 @@ geometry: margin=0.85in
 title: "Social Media and Web Analytics"
 author:
     - Dept of Marketing @ Tilburg University
-semester: "Block 4 (Spring), 2023"
+semester: "Block 4 (Spring), 2024"
 updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
 email: "tisem.social.media@gmail.com"
-web: "tisem-digital-marketing.github.io/2023-smwa/"
+web: "tisem-digital-marketing.github.io/2024-smwa/"
 mode: "In Person"
 lang: "English"
 #classroom: "Online"
 #classhours:
 #- "TBA"
-dates: "April 10 - June 2, 2023"
+dates: "April 8 - May 31, 2024"
 #days: "TBA"
 code: "300459-M-6"
 degree: "Master of Marketing Analytics"
