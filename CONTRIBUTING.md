@@ -1,6 +1,6 @@
 # Contributing
 
-[YOUR CLASS](https://github.com/YOUR_CLASS_LINK) is an open source project,
+[Social Media and Web Analytics](https://github.com/tisem-digital-marketing) is an open source project,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,

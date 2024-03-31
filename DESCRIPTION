@@ -1,8 +1,8 @@
 Lesson: syllabus
-Title: Course Syllabus for YOUR CLASS
-Version: 20XX.X.X
-Authors: person("First Name", "Last Name", email = "your_email@domain.com", role = c("aut", "cre"))
-Maintainer: First Last <your_email@domain.com>
+Title: Course Syllabus for Social Media and Web Analytics
+Version: 2024.1.0
+Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
+Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
 Description: Course Syllabus using Markdown. Built using `knitr`
 License: CC-BY-NC-SA
 Encoding: UTF-8
