@@ -110,7 +110,7 @@ In particular, we expect the typical student to have the following characteristi
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
 & Booking Link:       & \href{https://calendly.com/lachlan-deer/smwa-office-hours}{Click Here} \tabularnewline
 \midrule
-\multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/gijs.jpg}} & 
+\multirow{7}{*}{\includegraphics[height=.21\textwidth]{figs/roshini.jpg}} & 
   Name:               & Roshini Sudhaharan \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
@@ -165,10 +165,9 @@ Refresher material for this content is provided as part of the course preparator
 
 # Pedagogy
 
-The course will involve pre-recorded video lectures, live computing lectures, tutorials (called Lab Sections),hands-on assignments and an exam.
+The course will involve live  lectures, tutorials (called Lab Sections), hands-on assignments and an exam.
 We will strive to balance practical aspects of the material with a theoretical understanding of the concepts and frameworks involved.
-Each week we will have video lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
-Weekly live computing lectures demonstrate the use of analytical tools to analyze data and explain how to "think like a quantitative marketing scientist" in situ.
+Each week we will have Lectures, Lab Sections and a Lab Assignment that work together to sequentially build up one's understanding around each topic.
 In addition there are group projects where students work together to demonstrate their understanding as applied to specific problems. 
 A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
@@ -190,10 +189,9 @@ How we get from start to finish will play out based on the interaction and quest
 
 \textbf{Lab Sections.}
 
-Weekly Lab Sections (90 minutes) start in the second week with a hands-on introduction to getting and visualizing social media data.
-Beginning in the second week the structure will be as follows: 
-Small group analysis of 'Analytics In the Wild' prompts that posit a hypothetical problem that needs to be solved combined with the drafting of a structured solution document (45 mins) and working through selected solutions from  the preceding week's Lab Assignment (45 mins).
-These sections are designed to be interactive and work as a main platform for developing your skill set under the guidance of the course instructors. 
+Weekly Lab Sections (90 minutes) start in the second week.
+The structure will be as follows: 
+TBA
 Bring your questions!
 Participation and attendance in Lab Sections is mandatory, and in the event of multiple absences the instructors will be in touch to discuss your attendance.
 Further information about student presentations and lab assignments can be found in the Assessment section of this syllabus.
@@ -230,51 +228,52 @@ Check back regularly for updates.
 
 \begin{table}[h!]
 \begin{footnotesize}
-\begin{tabular}{lccccc}
+\begin{tabular}{lcccc}
 \toprule
-Calendar Week       & Video Lecture & Computing Lecture & Lab Section        & Lab Assignment     & Due Dates    \\
+\textbf{Course Week} & \textbf{Lecture 1}                & \textbf{Lecture 2}           & \textbf{Lab Assignment}     & \textbf{Due Dates} \\
 \midrule
-\multirow{2}{*}{15} & Social Media  & Course            &                    &                    &              \\
-                    & Landscape     & Intro             &                    &                    &              \\
-\midrule
-\multirow{2}{*}{16} & Regression    & -                 & Visualizing Social & Visualizing Social &              \\
-                    & \& Causality  &                   & Media Data         & Media Data         &              \\
-\midrule
-\multirow{2}{*}{17} & Online        & Regression        & Lurkers            & Multiple           &              \\
-                    & Reputation    & \& DiD            & \& Contributors    & Regression         &              \\
-\midrule
-\multirow{2}{*}{18} & Word of Mouth & Regression \&     & Online             & Difference in      &              \\
-                    &               & Matching Methods  & Reputation         & Differeces         &              \\
-\midrule                    
-\multirow{2}{*}{19} & Influencers   & Intro to          & Word of Mouth      & Matching           & Group        \\
-                    &               & Text Analysis     & \& Ratings         & Methods            & Assignment 1 \\
-\midrule
-\multirow{2}{*}{20} & Viral         & Sentiment         & Influencers        & Intro to           &              \\
-                    & Marketing     & Analysis          &                    & Text Analytics     &              \\
-\midrule
-\multirow{2}{*}{21} & Social        & Topic             & Viral              & Sentiment Analysis &              \\
-                    & Advertising   & Modelling         & Marketing          & \& Topic Models    &              \\
-\midrule
-\multirow{2}{*}{22} & TBA           & TBA               & Social             & TBA                & Group        \\
-                    &               &                   & Advertising        &                    & Assignment 2 \\
+\multirow{2}{*}{1}   & Course                            & Research Design              &           -                 &                    \\
+                     & Intro                             &                 \& Causation &                             &                    \\
+                     \midrule
+\multirow{2}{*}{2}   & \textit{No Class}                 & \textit{No Class}            &  Intro to                   &                    \\
+                     &                                   &                              &  Regression                 &                    \\
+                     \midrule
+\multirow{2}{*}{3}   & Identification                    & A/B Testing:                 &  Analyzing                  &                    \\
+                     & \& Experimentation                &  Basics                      &  Field Experiments          &                    \\
+                     \midrule
+\multirow{2}{*}{4}   & A/B Testing:                      &  Natural                     &  A/B Testing                &                    \\
+                     & Advanced                          &  Experiments                 &                             &                    \\
+                     \midrule                     
+\multirow{2}{*}{5}   & Matching                          &  Other Methods               &  Difference in              &   Group            \\
+                     & Methods                           &  for Causal Inference        &  Differences                &  Assignment 1      \\
+                     \midrule
+\multirow{2}{*}{6}   & \textit{No Class}                 &  Sentiment                   &  Matching                   &                    \\
+                     &                                   &  Analysis                    &  Methods                    &                    \\
+                     \midrule  
+\multirow{2}{*}{7}   & Topic                             &  Advanced Text               &  Sentiment                  &                    \\
+                     & Models                            &  Analytics                   &  Analysis                   &                    \\
+                     \midrule 
+\multirow{2}{*}{8}   & TBA                               &  TBA                         &  Topic                      & Group              \\
+                     &                                   &                              &  Models                     & Assignment 2       \\
 \bottomrule               
 \end{tabular}
 \end{footnotesize}
 \end{table}
 
-
-\newpage
+\newpage 
 
 \textbf{Class Dates, Times and Locations}.
 
-Due to public holidays and general TiSEM scheduling issues, class times move around quite a bit week to week.
+Due to public holidays and general TiSEM scheduling issues, class times are not always the same each week.
 Frequently check the Rooster Timetable tool to get the class dates, times and locations each week.
 
 \textbf{Weekly Readings.}
 
-Each week we will read 2-3 academic papers which will be discussed in the Video Lecture and form the base of the 'Analytics in the Wild' tasks in each Lab Section.
-In addition there may be additional lecture notes or book chapters assigned to aid your understanding of some statistical/numerical techniques and assist you when working through the Lab Assignments.
-A list of marketing papers for each week is provided in the "Course Readings" section below, and links to these are available on the course website.
+For each lecture there will be 2-3 readings that introduce methods and illustrate their use digital markets or social media.
+Your are expected to read the material **before** coming to class.
+For Lab Sections, there will typically be one assigned reading that forms the basis of a group discussion.
+There may be additional lecture notes or book chapters assigned to aid your understanding of some statistical/numerical techniques and assist you when working through the Lab Assignments.
+A list of readings for each class is on the course website.
 
 # Assessment
 
@@ -296,9 +295,10 @@ Final Exam                         & 60               & 5.0                 & Ye
 \end{center}
 \end{table}
 
-In addition there are weekly, ungraded "Lab Assignments" and "Marketing Analytics in the Wild" tasks to help you develop your knowledge around the course content.
+In addition there are weekly, ungraded "Lab Assignments" to help you develop your knowledge around the course content.
 
-**Course Repeaters**: Students who failed to complete the 2022 course can roll over their grades from the group assignments. No other grades can be rolled over, and final grades will be computed using the 2023 weights. \textit{You must contact the instructors via email before Friday April 14 at 17:00 if you want this rule applied to you}.
+**Course Repeaters**: Students who failed to complete the 2023 course can roll over their grades from the group assignments. No other grades can be rolled over, and final grades will be computed using the 2024 weights. 
+\textit{You must contact the instructors via email before Friday April 12 at 17:00 if you want this rule applied to you}.
 
 ## Group Technical Assignments (40 percent)
 
@@ -311,6 +311,7 @@ Students will be **randomly assigned** to groups before each assignment is relea
 Each group will consist of 4 students and may include students who are not part of your Lab Section.
 <!--- Working with other student's you are unfamiliar with is an important skill to acquire, and mimics aspects of team work in the real world. --->
 
+<!---
 The topics for the group assignments are:
 
 * Technical Assignment 1: Evaluating & Managing Online Reputation.
@@ -319,53 +320,10 @@ The topics for the group assignments are:
 * Technical Assignment 2: Analyzing Social Media Text.
     * We use publicly available tweets about US airlines to track consumer sentiment and discussion topics.
     * Main analysis toolkit: Natural Language Processing
+--->
 
 Further information on technical assignments will be distributed closer to their issue.
 
-<!--
-## Group Presentations and Panel Discussion (20 percent)
-
-Students are required to participate in two (2) group presentations and panel discussions over duration of the class.
-Each of the two presentation and panels are weighted at 10\% of your final grade.
-These presentations will take place in the weekly Lab Sections, beginning in the second week.
-Groups will be randomly assigned within a Lab Section's enrollment, with 4 or 5 students per group.
-The groups for both presentations will be made available no later than after the first class. 
-
-The structure of these presentations and discussions are as follows:
-
-* Theme / Topic: set by instructors. Assigned topics will be available on the course website **two weeks before a scheduled presentation**.
-* Format:
-  * Each week two groups will present (for exaaple, Group 1 and Group 2). The order of presentations will be randomly decided.
-  * Each group will present for 15 minutes.
-  * Following the presentation, the other group (Group 2 if Group 1 was presenting) will act as a "panel" and ask questions about the content for approx. 10 minutes. Each group member is expected to contribute to the questions.
-  * There will be 5 minutes of additional questions from the instructor and wider class participants.
-
-After their presentation, students are expected to write a 150-200 (max!) word reflection on their groups presentation commenting on strengths, weakness and areas for improvement.
-This is due by Friday by 23:59 of the week that a student presents.
-
-Student grades for the group presentation will be a weighted average of the group presentation, their questions posed as part of the panel and a short written reflection:
-
-\begin{align*}
-\textrm{Presentation grade} &= 0.8 \times \textrm{Group Presentation} + 0.1 \times \textrm{Questions Asked} \\
-                            &+  0.1 \times \textrm{Individual Reflection}
-\end{align*}
-
-The presentation topics will be focused around distilling managerial and marketing implications from the academic literature you are reading for the class.
-When preparing your presentation target the material around the idea you are presenting your findings to a meeting at a company that uses data-driven results to design their marketing activities.
-Example companies include, but aren't limited to Amazon, Google, Facebook, Zalando and Booking.com.
-Also assume that you are presenting to a mix of (Marketing) Data Scientists, Product Managers, Economists and Executives. 
-This implies presentations themselves should not be purely technical, but you should be comfortable fielding technical questions in the discussion if they arise.
-There should be a focus on clear and actionable strategic decisions.
-
-*Note 1*: You are strongly encouraged to use instructor office hours to aid your group presentations. 
-We recommend booking a slot the week before your presentation to talk to us about your presentation plans.
-We will be able to provide some feedback here to help you better craft your ideas. 
-
-*Note 2*: There is no need to "dress up" for the presentation. 
-Dress comfortably and as casually as you feel comfortable.
-Hoodies and jeans are OK. 
-
--->
 
 ## Final Exam (60 percent)
 
@@ -375,16 +333,16 @@ The written exam may include questions around computer / statistical code, so be
 
 The exam will be split into three components as follows: 
 
-* PART A: True/False/Uncertain with an explanation (20%), 
+* PART A: Multiple Choice Questions (30%), 
 * PART B: Short answer questions (40%), and 
-* PART C: A structured essay style question (40%)
+* PART C: A structured essay style question (30%)
 
 More details on the exam will be provided in due course.
 
 ## Lab Assignments (Ungraded)
 
 Each week there is an ungraded Lab Assignment for you to work on and develop your analytical and coding skills.
-They will involve a mix of coding, conceptual questions around the methods, and marketing implications of the output.
+They will involve a mix of coding, conceptual questions around the methods and marketing concepts, and prescribing marketing implications of empirical results.
 We expect you to work on these assignments using `R`.
 The assignments are designed to be "self-guided" and are split into multiple sub-questions that help you progress through a larger problem sequentially.
 Expect to dedicate substantial time to each lab assignment, approx. 4 hours per week outside of class time. 
@@ -392,20 +350,9 @@ This time is well spent as you're acquiring a skill set to help you through the 
 You are encouraged to work on these assignments together with your peers.
 
 Selected answers to the Lab Assignments will be posted on the course website with a one-week lag, i.e. Week 1's answers will be provided at the end of Week 2 of the course.
-We will also devote 45 minutes of each Lab Section to talk over specific parts of the assignments.
+We will also part of each Lab Section to talk over specific parts of the assignments.
 What we cover in this part of the Lab Section will be decided by both student requests and the instructor's own decision making. 
 
-## Marketing Analytics in the Wild (Ungraded)
-
-Each Lab Section will feature 45 minutes for group discussion of a hypothetical marketing analytics problem that has been set by the instructors.
-These tasks will be posted one week in advance of the Lab Section taking place to help you prepare in your own time before the class begins.
-
-For the first 30 minutes of the class you will work in a small group to come up with a framework outlining how you would solve these problems using skills acquired in class.
-A template to help you structure your answer will be provided.
-The next 15 minutes will be a discussion with the entire tutorial of a potential solution, led by the students under instructor guidance.
-There is no single right or wrong answers to these problems.
-
-These tasks are designed to help you succeed in answering Part C of the Final Exam, by practicing the same skills needed.
 
 
 <!---
@@ -482,26 +429,25 @@ Activity                         & No. Sessions & Estimated Workload            
 \midrule
 \textbf{(A) Graded Assessments}  &              &                                      &                            \\
 Group Technical Assignment       & 2            & 15                                   & 30                         \\
-Exam Preparation                 & 1            & 30                                   & 30                         \\
-\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{60}                \\
+Exam Preparation                 & 1            & 36                                   & 36                         \\
+\textit{Graded Assessment Total} & \textit{}    & \textit{}                            & \textit{66}                \\
 \midrule
 \textbf{(B) Class Time}          &              &                                      &                            \\
-Video Lectures                   & 8            & 2                                    & 16                         \\
-Computing Lectures               & 7            & 2                                    & 14                          \\
-Tutorials                        & 7            & 2                                    & 14                         \\
+Lectures                         & 15           & 2                                    & 30                         \\
+Lab Sections                     & 7            & 2                                    & 14                         \\
 \textit{Class Time Total}        & \textbf{}    & \textbf{}                            & \textit{44}              \\
 \midrule
 \textbf{(C) Self Study}          &              &                                      &                            \\
-Lab Assignments                  & 6            & 4                                    & 24                         \\
-Lab Section Preparation          & 6            & 2                                    & 12                         \\
-
-Reading / Note taking            & 7            & 4                                    & 28                         \\
-\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{64}                \\
+Lab Assignments                  & 7            & 4                                    & 28                         \\
+Reading / Note taking            & 15           & 2                                    & 30                         \\
+\textit{Self Study Total}        & \textit{}    & \textit{}                            & \textit{58}                \\
 \midrule
 \textbf{Total Study Time} (A) + (B) + (C) &              &                             & \textbf{168 (6 ECTS)}           \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+\newpage
 
 # Class Technology
 
@@ -509,7 +455,7 @@ Reading / Note taking            & 7            & 4                             
 
 ### Course website
 
-All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2023-smwa/}{course website}.
+All course materials will be distributed on the \href{https://tisem-digital-marketing.github.io/2024-smwa/}{course website}.
 Check there regularly for updates.
 
 ### Canvas
@@ -535,7 +481,7 @@ Each week we may use additional R packages in our analysis, these will be noted 
 \textbf{R \& RStudio.}
 
 You will be required to install `R` and `RStudio` to complete the Labs and group assignments.
-Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/) (they differ slightly by operating system):
+Installation instructions are available in the [Installation Guide](https://tisem-digital-marketing.github.io/2024-smwa/course_prep/software_install/) (they differ slightly by operating system):
 
 After installing R and RStudio we suggest you get acquainted with the interface and basic data analysis commands before the first class.
 To facilitate the introduction, we've suggested some DataCamp modules for you to work through.
@@ -548,7 +494,7 @@ Instructors will assume you are comfortable with this material by the computing 
 In addition to helping you gain analytics skills using `R`, we want to help you improve the reproducibility of your computational analysis - i.e. we want you to document your code and the changes you make to it.
 To help achieve this goal we will use a version control software called `Git` and we will post our codes on a repository called `GitHub`.
 
-* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2023-smwa/course_prep/software_install/).
+* To install Git and create a Github account, follow the instructions in the [Installation Guide](https://tisem-digital-marketing.github.io/2024-smwa/course_prep/software_install/).
 * Also register for an education discount to get unlimited private repositories [here](https://education.github.com/discount_requests/new).^[
   GitHub recently [announced](https://blog.github.com/changelog/2019-01-08-pricing-changes/) unlimited free private repos for everyone. 
   However, you are limited to three collaborators per private repo, so the education discount still makes sense.
@@ -562,7 +508,7 @@ Please look over the material *before* the first computing lecture.
 
 The main channel for discussion with the instructors and with your peers will take place on the Slack messaging platform.
 
-* Sign up to our \href{https://tisem-smwa-2023.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
+* Sign up to our \href{https://tisem-smwa-2024.slack.com/}{Slack chat} by creating an account with your @tilburguniversity.edu email address
 * Log in once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
@@ -652,179 +598,12 @@ We stick closely with the School's Fraud and plagiarism policies which are outli
 
 # Readings
 
-We will combine material from one book and recent academic papers.
+We will combine material from online text book and recent academic papers.
 
-## Books
+You will not need to purchase anything.
 
-The course uses readings from the following book:
+Readings will be posted on the course website.
 
-* \href{https://www.tidytextmining.com/index.html}{Tidy Text Mining with R} by Julia Silge and David Robinson
-
-We will provide specific details about which chapters to review in advance of each week on the course website.
-The book is freely available using the web link.
-
-## Papers and Additional Notes.
-
-A list of required readings from the academic literature is provided below.
-<!---Required Readings are denoted with a double star, **. --->
-Links to each text are available on the course website.
-Additional lecture notes will be provided as needed and be made available on the course website.
-Some extra optional readings may be made available on the course website.
-
-### Week 1
-
- Appel, G., Grewal, L., Hadi, R. et al. (2020) The future of social media in marketing. J. of the Acad. Mark. Sci. 48, 79–95.
-
- Toubia, Olivier & Stephen, Andrew. (2013). Intrinsic vs. Image-Related Utility in Social Media: Why Do People Contribute Content to Twitter?. Marketing Science. 32. 368-392. 
-
- Chen, X., Li, X., Yao, D. et al. (2019) Seeking the support of the silent majority: are lurking users valuable to UGC platforms?. J. of the Acad. Mark. Sci. 47, 986–1004.
-
-### Week 2
-
- Goldfarb, A., Tucker, C., & Wang, Y. (2022). Conducting Research in Marketing with Quasi-Experiments. Journal of Marketing.
-
-### Week 3
-
- CABRAL, L. and HORTAÇSU, A. (2010), THE DYNAMICS OF SELLER REPUTATION: EVIDENCE FROM EBAY. The Journal of Industrial Economics, 58: 54-78
-
- Michael Luca, Georgios Zervas (2016) Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud. Management Science 62(12):3412-3427.
-
- Chen, W., Gu, B., Ye, Q., & Zhu, K. X. (2019). Measuring and managing the externality of managerial responses to online customer reviews. Information Systems Research.
-
-### Week 4
-
- Stephan Seiler, Song Yao, Wenbo Wang (2017) Does Online Word of Mouth Increase Demand? (And How?) Evidence from a Natural Experiment. Marketing Science 36(6):838-861.
-
- Lachlan Deer, Pradeep K Chintagunta, Gregory S Crawford (2019) Online Word of Mouth and the Performance of New Products. Working Paper.
-
-### Week 5
-
- Aral S, Walker D. (2012) Identifying influential and susceptible members of social networks. Science.;337(6092):337-41.
-
- Zhang W, Chintagunta PK, Kalwani MU. (2021) Social Media, Influencers, and Adoption of an Eco-Friendly Product: Field Experiment Evidence from Rural China. Journal of Marketing. 85(3):10-27.
-
- Daniel Ershov, Matthew Mitchell. (2020) The Effects of Influencer Advertising Disclosure Regulations: Evidence From Instagram. Working Paper
-
-### Week 6
-
- Tellis, G. J., MacInnis, D. J., Tirunillai, S., & Zhang, Y. (2019). What Drives Virality (Sharing) of Online Digital Content? The Critical Role of Information, Emotion, and Brand Prominence. Journal of Marketing, 83(4), 1–20.
-
- Borah, A., Banerjee, S., Lin, Y.-T., Jain, A., & Eisingerich, A. B. (2020). Improvised Marketing Interventions in Social Media. Journal of Marketing, 84(2), 69–91.
-
-### Week 7
-
- Brett R. Gordon, Florian Zettelmeyer, Neha Bhargava, Dan Chapsky (2019) A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook. Marketing Science 38(2):193-225
-
- Gong, S., Zhang, J., Zhao, P., & Jiang, X. (2017). Tweeting as a Marketing Tool: A Field Experiment in the TV Industry. Journal of Marketing Research, 54(6), 833–850.
-
- Lovett, M.J., Peres, R. & Xu, L. Can your advertising really buy earned impressions? The effect of brand advertising on word of mouth. Quant Mark Econ 17, 215–255 (2019).
-
-<!---
-## Textbooks
-
-We will combine material from two books, recent papers and case studies.
-All readings from books are optional.
-
-## Books
-
-The course uses readings from the following books:
-
-* *Networks, Crowds and Markets: Reasoning About a Highly Connected World*, by David Easley and Jon Kleinberg
-* *Networks: An Introduction* by Mark Newman
-
-## Case Studies
-
-
-Case studies will be provided as an online course pack [here]().
-
-* Managing Online Reviews on Trip Adviser 
-* TopCoder: Developing Software through Crowdsourcing
-* HubSpot: Inbound Marketing and Web 2.0
-
-## Papers
-
-**Week 1: Network Patterns**
-
-
-[Origins of Homophily in an Evolving Social Network](https://research.google.com/pubs/archive/35626.pdf)
-
-[Birds of a Feather: Homophily in Social Networks](https://www.researchgate.net/profile/Lynn_Smith-Lovin/publication/200110353_Birds_of_a_Feather_Homophily_in_Social_Networks/links/55e1b60b08ae6abe6e8c228c/Birds-of-a-Feather-Homophily-in-Social-Networks.pdf)
-
-**Week 2: Online Reputation**
-
-[What is online reputation marketing? Is it important?](https://thriveagency.com/news/what-is-online-reputation-marketing/)
-
-[5 examples of online reputation management done right](https://www.smartinsights.com/digital-marketing-strategy/online-reputation-management-done-right/)
-
-[When and how Managers' Responses to Online Reviews Affect Subsequent Reviews](https://journals.sagepub.com/doi/10.1509/jmr.15.0511)
-
-[Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud](http://people.bu.edu/zg/publications/fakereviews.pdf)
-
-**Week 3: Community Structure**
-
-[Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters/)
-
-[Detecting, Preventing, and Mitigating Online Firestorms in Brand Communities](https://journals.sagepub.com/doi/10.1177/0022242918822300)
-
-[Brand community integration, participation and commitment: A comparison between consumer-run and company-managed communities](https://www.sciencedirect.com/science/article/abs/pii/S0148296319306630?via%3Dihub)
-
-[Managing the product-harm crisis in the digital era: The role of consumer online brand community engagement](https://www.sciencedirect.com/science/article/abs/pii/S014829632030268X?via%3Dihub)
-
-**Week 4: Epidemics, Gossip & Word of Mouth**
-
-[Rumor Cascades](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8122/8110)
-
-[Social Influence & the diffusion of user-generated content](http://dl.acm.org.ezproxy.lib.utexas.edu/citation.cfm?id=1566421)
-
-[Does online word of mouth increase demand?(and how?) evidence from a natural experiment](https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1045?casa_token=7zN_o-j7KUMAAAAA:rVU0bXlN4kN76-m6969YvLrXtIQUnQoRAVWxyUAQKYwsEL8ZF2cTpiPjmXxdVuR-cI7rK5z4lRE)
-
-[The Effects of Online User Reviews on Movie Box Office Performance: Accounting for Sequential Rollout and Aggregation Across Local Markets](https://pubsonline.informs.org/doi/abs/10.1287/mksc.1100.0572)
-
-[Online Word of Mouth and the Performance of New Products](http://lachlandeer.github.io/files/deer_jmp.pdf)
-
-[Does Twitter matter? The impact of microblogging word of mouth on consumers’ adoption of new movies](https://openaccess.city.ac.uk/id/eprint/12656/1/)
-
-**Week 5: Influencers**
-
-[Influencing the Influencers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376904)
-
-[Advertising to early trend propagators: Evidence from twitter](https://dspace.mit.edu/bitstream/handle/1721.1/122363/SSRN-id2419743.pdf?sequence=2&isAllowed=y)
-
-[A Framework for Analyzing Influencer Marketing in Social Networks: Selection and Scheduling of Influencers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3255198)
-
-[Seeking Micro-influencers for Brand Promotion](https://dl.acm.org/doi/pdf/10.1145/3343031.3351080?casa_token=sblzM8Rq8UMAAAAA:K_RBk8Cit7uNMvPt-8dK_pOK2c8JgyjBSZmpBqRTaAVQUup88fhTDf48dcOJHWajEF80vrxuxVsF)
-
-[Social Influence Maximization under Empirical Influence Models](https://www.nature.com/articles/s41562-018-0346-z)
-
-**Week 6: Internet Marketing & Viral Marketing**
-
-[Creating Contagion Through Viral Product Design](http://misrc.umn.edu/workshops/2011/spring/AralVPDFinal1110.pdf)
-
-[The Dynamics of Viral Marketing](http://arxiv.org/pdf/physics/0509039.pdf)
-
-[Propagators, Creativity, and Informativeness: What Helps Ads Go Viral](https://www.sciencedirect.com/science/article/abs/pii/S1094996819300507)
-
-[What Drives Virality (Sharing) of Online Digital Content? The Critical Role of Information, Emotion, and Brand Prominence](https://journals.sagepub.com/doi/10.1177/0022242919841034)
-
-[Selection Effects of Online Sharing: Consequences for Peer Adoption](http://arxiv.org/pdf/1311.2878.pdf)
-
-**Week 7: Social Advertising**
-
-[Social Media Buyers Guide](https://www.iab.com/insights/social-media-buyers-guide/)
-
-[Social Influence in Social Advertising: Evidence from Field Experiments](https://arxiv.org/pdf/1206.4327.pdf)
-
-[Social Advertising Eﬀectiveness Across Products: A Large-Scale Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610384)
-
-[A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144)
-
-[Tweeting as a marketing tool: A field experiment in the TV industry](https://dspace.mit.edu/bitstream/handle/1721.1/120756/0c43ccabbc71b279f98115faf27e18330807.pdf?sequence=1&isAllowed=y)
-
-[The Ripple Effect of Firm-Generated Content for New Movie Releases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3336856)
-
-[Improvised Marketing Interventions in Social Media](https://journals.sagepub.com/doi/10.1177/0022242919899383)
-
---->
 
 # The Tilburg University Code of Conduct
 
@@ -871,7 +650,7 @@ I only ask two small favours.
 
 # Acknowledgments
 
-Lachlan wishes to thank Shrabastee Banerjee, Anick Bosmans, Gijs van Bussel, Hannes Datta and Hendrik de With for their comments on various versions of this syllabus, and for making their own syllabi available.
+Lachlan wishes to thank Shrabastee Banerjee, Anick Bosmans, Gijs van Bussel, Hannes Datta and Hendrik de With for their comments on various versions of this syllabus, and (where applicable) for making their own syllabi available.
 I have occasionally borrowed from each of them quite liberally.
-I also want to thank students from the 2021 and 2022 editions of this class, for their questions and comments which have improved the clarity of various sections of text.
-Any errors, omissions and slips in the clarity of text remain are my own.
+I also want to thank students from the 2021, 2022 and 2023 editions of this class, for their questions and comments which have improved the clarity of various sections of text.
+Any errors, omissions and slips in the clarity of text remain my own.
