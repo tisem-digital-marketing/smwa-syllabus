@@ -69,11 +69,11 @@ During these modules we will focus on extracting insights from the recent academ
 This course has seven closely intertwined objectives.
 After the completion of the course you will be able to:
 
-1. Explain and evaluate the challenges and opportunities social media and social networks present marketers.
-2. Summarize state of the art knowledge from the academic marketing literature about social media's impact on marketing.
-3. Provide intuitive explanations of statistical concepts from the areas of linear regression, causal inference, natural language processing and network analytics
+1. Explain and evaluate the challenges and opportunities digital markets, social media and social networks present marketers.
+2. Summarize state of the art knowledge from the academic marketing literature about digital markets and social media's impact on marketing.
+3. Provide intuitive explanations of statistical concepts from the areas of linear regression, causal inference and natural language processing
 4. Implement statistical analysis to analyze social media data using tools from linear regression, causal inference, natural language processing and network analytics
-5. Interpret their own and others statistical analysis of social media data
+5. Interpret their own and others statistical analysis of digital marketing and social media data
 6. Prescribe Managerial and Marketing strategies to improve business performance based on analytical findings.
 7. Appraise and critique the assumptions behind statistical analysis of social media data in a given setting and propose alternative methodologies to improve existing analysis  
 
@@ -87,7 +87,7 @@ This course is designed for students in the Master of Marketing Analytics in ord
 
 In particular, we expect the typical student to have the following characteristics:
 
-* Strong interest in understanding how social media and social networks affect consumer behaviour, brand reputation and the actions of marketers.
+* Strong interest in understanding how digital markets, social media and social networks affect consumer behaviour and the actions of marketers.
 * Strong interest in learning and applying statistical analysis and data science techniques to social media data, although with limited existing background.
 * Strong interest in using quantitative results to develop management or marketing insights.
 * Interest in learning how to write computer code and acquire "best practice" methods.
@@ -111,13 +111,13 @@ In particular, we expect the typical student to have the following characteristi
 & Booking Link:       & \href{https://calendly.com/lachlan-deer/smwa-office-hours}{Click Here} \tabularnewline
 \midrule
 \multirow{7}{*}{\includegraphics[height=.175\textwidth]{figs/gijs.jpg}} & 
-  Name:               & Gijs van Bussel \tabularnewline
+  Name:               & Roshini Sudhaharan \tabularnewline
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
-& Profile:            & \href{https://www.tilburguniversity.edu/staff/g-w-j-vanbussel}{Personal Webpage} \tabularnewline
-& Office Hours:       & Tuesday OR Wednesday 3pm - 4pm \tabularnewline
+& Profile:            & \href{https://www.tilburguniversity.edu/staff/r-sudhaharan}{Personal Webpage} \tabularnewline
+& Office Hours:       & TBA \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
-& Booking Link:       & via Canvas Calendar \tabularnewline
+& Booking Link:       & TBA \tabularnewline
 \bottomrule
 \end{tabular}
 \end{table}
@@ -129,17 +129,13 @@ To that end, the instructors have scheduled consultation hours each week for you
 Please make a booking using the links provided above.
 If you cannot make the scheduled office hours, talk to us and propose three times to meet and we will try and make it work.
 
-Notes for scheduling with Lachlan: 
+Notes for scheduling: 
 
 * After you book a time slot, a calendar invite will be sent to your email automatically. 
     You *must* accept this invite.
     Approx. 1 hour before our scheduled meeting a reminder with a Zoom link will be emailed to you.
 * If you plan to meet in person, you can ignore the Zoom link and head to his office. 
     Please notify Lachlan that you intend to meet in person using the 'Additional Information' section of the Booking Tool.
-
-Notes for scheduling with Gijs:
-
-* Book a time using Canvas Calendar
 
 We expect you to come to your schedule slot prepared and having clear questions in mind that you want to ask. 
 If either of us feel you have come unprepared, we reserve the right to end the appointment and ask you to come back at a future time when you are more prepared.
