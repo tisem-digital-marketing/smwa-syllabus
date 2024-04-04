@@ -112,9 +112,9 @@ In particular, we expect the typical student to have the following characteristi
 & Contact:            & via Slack or \href{mailto:tisem.social.media@gmail.com}{tisem.social.media@gmail.com} \tabularnewline
 & Role in Course:     & Lab Sections \tabularnewline
 & Profile:            & \href{https://www.tilburguniversity.edu/staff/r-sudhaharan}{Personal Webpage} \tabularnewline
-& Office Hours:       & TBA \tabularnewline
+& Office Hours:       & Wednesday, 2pm-3pm, Online or K726 \tabularnewline
 & Office Hour Format: & Hybrid, 15 min slots \tabularnewline
-& Booking Link:       & TBA \tabularnewline
+& Booking Link:       & https://calendly.com/r-sudhaharan/smwa-office-hours \tabularnewline
 \bottomrule
 \end{tabular}
 \end{table}
@@ -168,30 +168,26 @@ Each week we will have Lectures, Lab Sections and a Lab Assignment that work tog
 In addition there are group projects where students work together to demonstrate their understanding as applied to specific problems. 
 A final exam allows students to showcase their individual expertise acquired over the duration of the course.
 
-\textbf{Video Lectures.}
+\textbf{Lectures.}
 
-Each week there will be 90-120 minutes of video lectures split into shorter chunks.
-Links to these videos are available on the course web page.
-These lectures are designed to help walk you through the academic readings - highlighting the key aspects, concepts, findings and implications of each study.
-You are encouraged to watch these in your own time.
-Lab Sections in the subsequent week build on this material.
-<!---Content of the presentations with the same week's Lab Section will build from this content. --->
-
-\textbf{Computing Lectures.}
-
-Seven (7) in-person computing lectures of 90-100 minutes are designed to introduce you to parts of an analytics toolkit necessary for working with social media and web data. 
-The lectures integrate with specific course readings focused on methodology and analytics by applying them on a specific marketing problem and example dataset.
-These lectures are "semi-structured", with a starting point, key concepts and an end goal in mind.
+Each week there will be 2 $\times$ 90 minute lectures.
+Lectures will discuss the readings and provide a unified voice/perspective over the course content.
+They will mix theory, coding and academic applications of the content under discussion.
+Students are encouraged to "code along" live during the code portions of each lecture.
+The coding parts of each lecture are "semi-structured", with a starting point, key concepts and an end goal in mind.
 How we get from start to finish will play out based on the interaction and questions that arise (as well as code errors!) as we work through the problem at hand.
+Furthermore, students are assumed to have read the academic papers in advance of the lecture so that they can participate in the discussions during class.
+Lab Sections in the subsequent week build on this material.
 
 \textbf{Lab Sections.}
 
 Weekly Lab Sections (90 minutes) start in the second week.
-The structure will be as follows: 
-TBA
-Bring your questions!
+Each lab section will be split into two parts. 
+In the first part of the Lab (45-60 mins), students will discuss a mix of theory based questions or case studies that are detailed in the Lab Assignment.
+The second part of the Lab (30-45 mins), students will discuss solutions to the coding exercises of the Lab Assignment.
+You are strongly encouraged to prepare before class and bring your questions!
+The Lab Section instructor has been advised that the majority of the talking in these classes should be from the students, not the instructor.
 Participation and attendance in Lab Sections is mandatory, and in the event of multiple absences the instructors will be in touch to discuss your attendance.
-Further information about student presentations and lab assignments can be found in the Assessment section of this syllabus.
 
 \textbf{Assessment.}
 
